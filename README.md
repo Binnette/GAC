@@ -1,5 +1,6 @@
 # Welcome to the GAC (Grenoble Adventure Club)
 
-I will put some stuffs here like:
+Tuto:
 
-- [A tutorial on how to show GPX tracks on you phone](TutoOsmAnd/README.md) 
+- [How to show GPX tracks on you phone](TutoOsmAnd/README.md) 
+- [How to create of find GPX](CreateFindGpx/README.md) 
