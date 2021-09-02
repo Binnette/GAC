@@ -1,6 +1,8 @@
 # Welcome to the GAC (Grenoble Adventure Club)
 
-Tuto:
+## Tuto
+- [How to show GPX tracks on you phone](TutoOsmAnd/README.md)
+- [How to create of find GPX](CreateFindGpx/README.md)
 
-- [How to show GPX tracks on you phone](TutoOsmAnd/README.md) 
-- [How to create of find GPX](CreateFindGpx/README.md) 
+## Hikes from LaMetro
+- [Les balades de LaMetro](BaladesLaMetro/README.md)
