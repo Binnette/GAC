@@ -55,27 +55,3 @@ Choose one:
 1. It's done! The track is displayed
 1. ![GPX displayed](img/gpx_openned.png)
 1. Done!
-
-## Bonus: create your own GPX track on a computer
-
-1. Open https://graphhopper.com/maps/
-1. On the top right angle, select the radio "TF Outdoors"
-1. ![Tf Outdoors](img/map_render_outdoors.png)
-1. Zoom the map until you see the start position of your new hike
-1. Right click on the map and select "Set as start"
-1. ![Start position](img/start_position.png)
-1. Zoom the map until you see the end position of yout hike
-1. Right click until you see the end position of your hike
-1. ![End position](img/end_position.png)
-1. Now click on the "hiker profile" on the left
-1. ![Hiker profile](img/hiker_profile.png)
-1. GraphHopper will make a route for you:
-1. ![Map route 1](img/hike_route_1.png)
-1. You can customize your route by adding steps
-1. To do so, right click on the map and select "Set intermediate"
-1. Now you have a "more friendly" hike
-1. ![Map route 2](img/hike_route_2.png)
-1. You can see your hike detail (elevation, km) on the left
-1. And you can download the GPX track as well
-1. ![Route details](img/route_details.png)
-1. Done!
