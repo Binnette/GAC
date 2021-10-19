@@ -1,5 +1,7 @@
 # Welcome to the GAC (Grenoble Adventure Club)
 
+- [Grenoble Adventure Club](https://www.meetup.com/fr-FR/Grenoble-Adventure-Club-English-French/) on meetup.com
+
 ## Tuto
 - [How to show GPX tracks on you phone](TutoOsmAnd/README.md)
 - [How to create or find GPX](CreateFindGpx/README.md)
