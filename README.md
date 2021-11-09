@@ -3,7 +3,7 @@
 - [Grenoble Adventure Club](https://www.meetup.com/fr-FR/Grenoble-Adventure-Club-English-French/) on meetup.com
 
 ## Tuto
-- [How to show GPX tracks on you phone](TutoOsmAnd/README.md)
+- [How to show GPX tracks on your phone](TutoOsmAnd/README.md)
 - [How to create or find GPX](CreateFindGpx/README.md)
 - [How to create a meetup event](CreateEvent/README.md)
 
