@@ -31,6 +31,8 @@ remote_theme: oinam/oinam-jekyll
 #remote_theme: pages-themes/slate@v0.2.0
 
 # oinam config
+layout:
+  theme: vintage
 titles_from_headings:
   enabled: false
   strip_title: false
