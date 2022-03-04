@@ -7,6 +7,8 @@ show_downloads: false
 # Build settings
 theme: minima
 
+header_pages:
+
 minima:
   skin: solarized
   social_links:
