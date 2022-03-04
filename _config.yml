@@ -1,17 +1,29 @@
-# Site settings
 title: Grenoble Adventure Club
-description: Hike, ski, climbing, cinema, parties and much more!
-url: https://binnette.github.io/GAC/
-show_downloads: false
+author:
+  name: Binnette
+description: >
+  Hiking, via ferrata, canoe, geocaching, canyoning, ski, snowshoeing,
+  climbing, cinema, parties and much more!
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+minima:
+  skin: solarized
+  # generate social links in footer
+  social_links:
+    github: Binnette/Gac
+    telegram: GrenobleAdventureClub
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.md
 
 # Build settings
 theme: minima
 
-header_pages:
-  - About.md
+#remote_theme: jekyll/minima
+#plugins:
+#  - jekyll-remote-theme
 
-minima:
-  skin: solarized
-  social_links:
-    github: Binnette
-    telegram: GrenobleAdventureClub
+#url: https://binnette.github.io/GAC/
+#show_downloads: false
