@@ -1,7 +1,7 @@
 # Display a GPX track on your phone through OsmAnd
 
-## ======= Step I: download and install OsmAnd =======
-### ==== Android ====
+## Step I: download and install OsmAnd
+### Android
 
 #### a) Freeware version (10 maps download and limited options)
 Choose one:
@@ -20,11 +20,11 @@ Choose one:
 - Google PlayStore: https://play.google.com/store/apps/details?id=net.osmand.plus
 - Amazon Store: http://www.amazon.com/gp/product/B00D0SEGMC/ref=mas_pm_OsmAnd-Maps-Navigation
 
-#### ==== iOS ====
+#### iOS
 - App Store: https://itunes.apple.com/app/apple-store/id934850257?pt=2123532&ct=WebSite&mt=8
 
 
-## ======= Step II: download the map in OsmAnd =======
+## Step II: download the map in OsmAnd
 
 1. Connect your phone on Wifi (if you don't have a lot of data)
 1. Launch OsmAnd on your phone
@@ -43,7 +43,7 @@ Choose one:
 1. Wait until the downloads are done (~550 Mo download)
 1. Done!
 
-## ======= Step III: download the GPX track from Meetup =======
+## Step III: download the GPX track from Meetup
 
 1. Open the "topo" link in the meetup event
 1. Click on the "gpx" icon

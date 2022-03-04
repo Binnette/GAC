@@ -1,12 +1,12 @@
 ## 🎉 Welcome to the GAC  🎉
 
-- 🌐 Our main page [Grenoble Adventure Club](https://www.meetup.com/fr-FR/Grenoble-Adventure-Club-English-French/) on meetup.com: from here you can join all our events.
-- ☑️ Our [Telegram Channel](https://t.me/GrenobleAdventureClub): Stay up to date with all events and join some of our subgroups (Climbing, Music, Cinema and so on).
+- [🌐 GAC on Meetup](https://www.meetup.com/fr-FR/Grenoble-Adventure-Club-English-French/): join our events!
+- [☑️ GAC on Telegram](https://t.me/GrenobleAdventureClub): stay up to date and find others activities: music, cinema...
 
 ### 🔍 Tuto
-- [How to show GPX tracks on your phone](TutoOsmAnd/README.md)
-- [How to create or find GPX](CreateFindGpx/README.md)
-- [How to create a meetup event](CreateEvent/README.md)
+1. [How to show GPX tracks on your phone](TutoOsmAnd/README.md)
+2. [How to create or find GPX](CreateFindGpx/README.md)
+3. [How to create a meetup event](CreateEvent/README.md)
 
 ### 🟡 Hikes from LaMetro
 - [Les balades de LaMetro](BaladesLaMetro/README.md)
