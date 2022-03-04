@@ -19,11 +19,9 @@ header_pages:
  - about.md
 
 # Build settings
-theme: minima
-
-#remote_theme: jekyll/minima
-#plugins:
-#  - jekyll-remote-theme
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 
 #url: https://binnette.github.io/GAC/
 #show_downloads: false
