@@ -9,7 +9,7 @@
 3. [How to create a meetup event (orga team) 🚀](CreateEvent/README.md)
 
 ### 🟡 Hikes from LaMetro
-- [Les balades de LaMetro](BaladesLaMetro/README.md)
+- [Hikes from LaMetro](BaladesLaMetro/README.md)
 - [Hikes without a car 🚗](BaladesLaMetro/NoCar/README.md)
 
 ### 💹 Stats

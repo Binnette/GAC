@@ -1,4 +1,4 @@
-# Les balades de LaMétro
+# Hikes from LaMétro
 
 Hikes extracted from: [grenoble-montagne.com](https://www.grenoble-montagne.com)
 
