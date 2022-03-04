@@ -1,4 +1,4 @@
-## 🎉 Welcome to the GAC  🎉
+## 🎉 Welcome to the GAC
 
 - [🌐 GAC on Meetup](https://www.meetup.com/fr-FR/Grenoble-Adventure-Club-English-French/): join our events!
 - [☑️ GAC on Telegram](https://t.me/GrenobleAdventureClub): stay up to date and find others activities: music, cinema...
