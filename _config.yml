@@ -1,1 +1,13 @@
-theme: jekyll-theme-slate
+# Site settings
+title: Grenoble Adventure Club
+description: Hike, ski, climbing, cinema, parties and much more!
+url: https://binnette.github.io/GAC/
+show_downloads: false
+
+# Build settings
+theme: minima
+
+minima:
+  skin: solarized
+  social_links:
+    telegram: GrenobleAdventureClub
