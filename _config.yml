@@ -6,6 +6,9 @@ description: >
   climbing, cinema, parties and much more!
 
 show_excerpts: false # set to true to show excerpts on the homepage
+show_downloads: false
+#url: https://binnette.github.io/GAC/
+
 
 minima:
   skin: solarized
@@ -19,9 +22,10 @@ header_pages:
  - About.md
 
 # Build settings
-remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
-#url: https://binnette.github.io/GAC/
-#show_downloads: false
+# minima
+#remote_theme: jekyll/minima
+# slate
+remote_theme: pages-themes/slate@v0.2.0
