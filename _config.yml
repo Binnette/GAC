@@ -37,3 +37,8 @@ titles_from_headings:
   enabled: false
   strip_title: false
   collections: false
+footer:
+  credit: false
+  custom: true
+
+footer_custom: 'Made with ❤ by <a href="https://github.com/Binnette">Binnette</a>. Repo: <a href="https://github.com/Binnette/GAC/">here</a>'
