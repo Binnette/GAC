@@ -25,7 +25,6 @@ header_pages:
 plugins:
   - jekyll-remote-theme
 
-# minima
+remote_theme: oinam/oinam-jekyll
 #remote_theme: jekyll/minima
-# slate
-remote_theme: pages-themes/slate@v0.2.0
+#remote_theme: pages-themes/slate@v0.2.0
