@@ -1,7 +1,10 @@
 ## 🎉 Welcome to the GAC
 
 - [🌐 GAC on Meetup](https://www.meetup.com/fr-FR/Grenoble-Adventure-Club-English-French/): join our events!
-- [📨 GAC on Telegram](https://t.me/GrenobleAdventureClub): stay up to date and find others activities: music, cinema...
+- 📨 We also have a Telegram channel and discussions about other activities: music, cinema... To join send a private message to event organizers on meetup.
+
+### 💭 Info
+1. [How does the waiting list work?](AboutMeetup/WaitingList.md)
 
 ### 🔍 Tuto
 1. [How to show hikes (GPX tracks) on your phone 📱](TutoOsmAnd/README.md)
