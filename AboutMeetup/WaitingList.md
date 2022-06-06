@@ -34,4 +34,6 @@ Then Meetup __automatically__ take the 4 "first on the waiting list people" and 
 
 So we now have 15 people Going list: B, F, s, P and E.
 
+You can see that Meetup change automatically their time to the time they were added to the participant list.
+
 This is it 😇 Thank you for reading this. Feel free to share this article to people wondering how the waiting list works.
