@@ -15,5 +15,8 @@
 - [Hikes from LaMetro](BaladesLaMetro/README.md)
 - [Hikes without a car 🚗](BaladesLaMetro/NoCar/README.md)
 
+### ✨ Hikes to plan
+- [Hikes to plan with GAC](HikesToPlan/README.md)
+
 ### 💹 Stats
 - [Statistics on our hikes (km, elevation, attendees)](Stats/README.md)
