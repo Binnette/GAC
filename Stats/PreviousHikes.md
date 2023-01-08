@@ -7,8 +7,8 @@
 - [2021](https://umap.openstreetmap.fr/en/map/grenoble-adventure-club-2021_854133)
 - 2022 Work in progress...
 
-## All the hikes on a mpa
+## All the hikes on a map
 
-A bit messy, but you can filter by year by clicking in the left menu on the "database" icon.
+Allmost all the hikes. 💡 Click on "database" icon in the left menu to filter hikes by year.
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/grenoble-adventure-club_730469?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/en/map/grenoble-adventure-club_730469">See full screen</a></p>
