@@ -11,6 +11,9 @@
 2. [How to create/find hikes (through GPX) 📍](CreateFindGpx/README.md)
 3. [How to create a meetup event (orga team) 🚀](CreateEvent/README.md)
 
+### 💫 Previous hikes
+- [Maps with (almost) all our previous hikes](Stats/PreviousHikes.md)
+
 ### 🟡 Hikes from LaMetro
 - [Hikes from LaMetro](BaladesLaMetro/README.md)
 - [Hikes without a car 🚗](BaladesLaMetro/NoCar/README.md)
