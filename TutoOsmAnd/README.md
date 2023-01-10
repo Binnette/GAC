@@ -38,7 +38,25 @@ Choose one: [Google PlayStore](https://play.google.com/store/apps/details?id=net
 7. Wait until the downloads are done (~550 Mo download)
 8. Done!
 
-## Step III: download the GPX track from Meetup
+## Step3 bis: download the GPX track (from BRouter)
+1. Open the "topo" link in the meetup event
+2. Click on the menu 𝄘
+3. Click on "Exporter"
+>![GPX GraphHopper](img/gpx_brouter.png)
+4. In the popup, click on "Exporter l'itinéraire"
+>![GraphHopper Export GPX](img/gpx_brouter_popup.png)
+5. It's done! The track is displayed
+>![GPX displayed](img/gpx_brouter_openned.png)
+6. Done!
+
+
+# Appendix
+
+## Hiking rendering and more online maps for OsmAnd
+
+Follow instructions on this website: https://github.com/OsmAnd-Rendering
+
+## Step3 bis: download the GPX track (from GraphHooper)
 
 1. Open the "topo" link in the meetup event
 2. Click on the "gpx" icon
@@ -48,5 +66,5 @@ Choose one: [Google PlayStore](https://play.google.com/store/apps/details?id=net
 4. Open the download gpx file with OsmAnd
 >![Open GPX](img/open_gpx.png)
 5. It's done! The track is displayed
->![GPX displayed](img/gpx_openned.png)
+>![GPX displayed](img/gpx_graphhopper_openned.png)
 6. Done!
