@@ -4,7 +4,8 @@
 - 📨 We also have a Telegram channel and discussions about other activities: music, cinema... To join send a private message to event organizers on meetup.
 
 ### 💭 Info
-1. [How does the waiting list work?](AboutMeetup/WaitingList.md)
+1. [How does the waiting list work?](About/WaitingList.md)
+1. [What about the hikes?](About/Hikes.md)
 
 ### 🔍 Tuto
 1. [How to show hikes (GPX tracks) on your phone 📱](TutoOsmAnd/README.md)
