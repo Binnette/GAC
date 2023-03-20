@@ -12,6 +12,21 @@ A list of hike to do/re-do with the GAC
 | 🔴 Le Sénépy | 21.6 | 892 | [GPX](https://brouter.de/brouter-web/#map=14/44.9239/5.7222/1069&lonlats=5.734828,44.937817;5.735746,44.937078;5.740678,44.937502;5.739799,44.93567;5.745903,44.937896;5.746644,44.935519;5.74961,44.930907;5.744798,44.929517;5.741987,44.925552;5.736644,44.914356;5.728429,44.911163;5.72613,44.905552;5.723705,44.908547;5.72238,44.905411;5.72123,44.908142;5.71068,44.919735;5.705101,44.931915;5.705525,44.936666;5.71141,44.93055;5.720658,44.922183;5.7188,44.927122;5.724805,44.927749;5.734509,44.938164&profile=hiking-mountain) |
 | 🔴 Bec de l'Orient | 13.8 | 1000 | [GPX](https://brouter.de/brouter-web/#map=18/45.23520/5.54419/1069&lonlats=5.554082,45.249362;5.539577,45.239557;5.540028,45.238826;5.529685,45.215606;5.533376,45.211402;5.544791,45.235677;5.553267,45.237185;5.56494,45.238315;5.55449,45.249241&profile=hiking-mountain) |
 | 🔴 Tunnel du mortier | 14.6 | 1023 | [GPX](https://brouter.de/brouter-web/#map=14/45.2393/5.5708/1069&lonlats=5.561099,45.262337;5.568361,45.25516;5.570669,45.248425;5.581613,45.247641;5.586505,45.247292;5.588694,45.240992;5.540371,45.239208;5.543933,45.244339;5.551894,45.248274;5.559425,45.253863;5.560713,45.262023&profile=hiking-mountain) |
+| 🔴 Boucle de Chamechaude | 14.7 | 1180 | [Topo](https://www.decathlon-outdoor.com/fr-fr/solo/boucle-de-chamechaude-63691e31c8a8c) |
+| 🔴 Roc d'Arguille | 15.6 | 1153 | [Topo](https://www.decathlon-outdoor.com/fr-fr/solo/roc-d-arguille-par-le-col-du-coq-63b72b25791db) |
+| 🔴 Belvédère d'Arpison | 13.3 | 1063 | [Topo](https://www.decathlon-outdoor.com/fr-fr/solo/belvedere-d-arpison-63691e047f383) |
+| 🔴 Belvédère du ranc | 12.3 | 1241 | [Topo](https://www.decathlon-outdoor.com/fr-fr/solo/balade-belvedere-du-ranc-abri-de-la-goulandiere-62e6ac7973b2e) |
+| 🔴 Grotte des Gaulois | 6.6 | 1171 | [Topo](https://www.decathlon-outdoor.com/fr-fr/solo/grotte-des-gaulois-et-ascension-vertigineuse-en-vercors-5ea033660b25e) |
+| 🔴 Lac du Rif Bruyant | 13.2 | 1168 | [Topo](https://www.decathlon-outdoor.com/fr-fr/solo/lac-du-rif-bruyant-6308b9b1cd3bf) |
+| 🔴 Le Pinet | 9.3 | 1089 | [Topo](https://www.decathlon-outdoor.com/fr-fr/solo/sommet-du-pinet-et-cheminee-suspendue-en-chartreuse-5ec69b82a7137) |
+
+## Ideas
+
+- 3000+ peaks accessibles by hike
+- [Le Grand Colon](https://www.decathlon-outdoor.com/fr-fr/solo/tour-du-grand-colon-et-reveil-au-chant-des-grenouilles-5fb6b4639c067)
+- [La Grande Lauzière](https://www.decathlon-outdoor.com/fr-fr/solo/la-grande-lauziere-depuis-le-recoin-624efa2638d7f)
+- [Le Grand Veymont](https://www.decathlon-outdoor.com/fr-fr/solo/escapade-vivifiante-au-grand-veymont-et-recherche-d-animaux-5ea81d56ccf1f)
+- [Tour du Grand Veymont](https://www.decathlon-outdoor.com/fr-fr/solo/gresse-en-vercors-et-superbe-tour-du-grand-veymont-5f8e74adeb2e2)
 
 ## Hikes done
 

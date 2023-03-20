@@ -14,5 +14,16 @@ But know that you should take a look to the "topo map". Usually I put a link in 
 - The total length of the hike in kilometers (km)
 - The positive elevation (D+)
 
-Also you can have a look to the slope. There should be a button (with a mountain logo) on the map to display the slope.
+Also you can have a look to the slope. There should be a button (with a mountain logo) on the map to display the slope of the hike.
 
+About slope, imagine two hikes (A & B) with the same length (10km) and the same D+ (300m):
+
+```
+300m ‾   /‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾\             Hike B
+200m ‾  /       Hike A       \       /‾‾\        /‾‾\
+100m ‾ /                      \  /‾‾‾    ‾‾‾‾‾‾‾‾    ‾‾‾\
+```
+
+Event if they have the same length and same amount of positive elevation:
+hike A will be more difficult because you will do all the elevation at once.
+For hike B, you do the same amount of elevation but 'step by step', so you have time to 'rest' and breathe between each 'steps'.
