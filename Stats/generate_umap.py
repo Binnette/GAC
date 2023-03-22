@@ -5,8 +5,8 @@ from os import path
 from gpx_converter import Converter
 
 csvFilename = '9igf-gac.csv'
-gpxErr = 0
-imgErr = 0
+errors = 0
+prevHike = ''
 
 def dumpYear(year, features):
     sYear = str(year)
@@ -84,8 +84,7 @@ def dumpUmap(filename, opts):
 
 #Date,Suffix,KM,Dplus,Top,People,Name,Type,Comment,EventLink,TrailShortLink,TrailFullLink,Trail1,Trail2
 def parseFeatureFromCsvRow(row):
-    global gpxErr
-    global imgErr
+    global errors, prevHike
 
     date = row['Date']
     suffix = row['Suffix']
@@ -103,24 +102,64 @@ def parseFeatureFromCsvRow(row):
         print('🟡 not a hike: {}'.format(name))
         return
 
+    if len(date) < 10:
+        print('🔴 incorrect date format {}'.format(date))
+        return
+
+    if len(km) < 1:
+        print('🔴 missing km for {}'.format(date))
+        return
+
+    if len(dplus) < 1:
+        print('🔴 missing dplus for {}'.format(date))
+        return
+
+    if len(top) < 1:
+        print('🔴 missing top for {}'.format(date))
+        return
+
+    if len(people) < 1:
+        print('🔴 missing people for {}'.format(date))
+        return
+
+    if len(name) < 1:
+        print('🔴 missing name for {}'.format(date))
+        return
+
+    if len(eventLink) < 1:
+        print('🔴 missing eventLink for {}'.format(date))
+        return
+
+    if len(trailShortLink) < 1:
+        print('🔴 missing trailShortLink for {}'.format(date))
+        return
+
     if len(suffix) > 0:
         gpx = "{}-{}.gpx".format(date, suffix)
         img = "{}-{}.jpg".format(date, suffix)
+        curHike = "{}-{}".format(date, suffix)
     else:
         gpx = "{}.gpx".format(date)
         img = "{}.jpg".format(date)
+        curHike = "{}".format(date)
+
+    if prevHike == curHike:
+        print('🔴 hike with same date & suffix: {}'.format(curHike))
+        return
+    
+    prevHike = curHike
 
     gpxPath = 'gpx/{}'.format(gpx)
     imgPath = 'img/{}'.format(img)
 
     if not path.exists(gpxPath):
-        gpxErr += 1
-        print('🔴 gpx not found: {}'.format(gpxPath))
+        errors += 1
+        print('🔴 gpx not found: {} -> {}'.format(gpxPath, trailShortLink))
         return
 
     if not path.exists(imgPath):
-        imgErr += 1
-        print('🔴 img not found: {}'.format(imgPath))
+        errors += 1
+        print('🔴 img not found: {} -> {}'.format(imgPath, eventLink))
         return
 
     # Create an empty GeoDataFrame
@@ -182,9 +221,7 @@ def generetateAllHikesUmap():
          "layers": [layer]
     }
     dumpUmap('grenoble_adventure_club_all_hikes.umap', opts)
-    print('🟢 Fichier umap prêt')
-    print(' - gpxErr = {}'.format(gpxErr))
-    print(' - imgErr = {}'.format(imgErr))
+    print('🟢 File umap ready. {} errors'.format(errors))
      
 
 def main():
