@@ -102,38 +102,6 @@ def parseFeatureFromCsvRow(row):
         print('🟡 not a hike: {}'.format(name))
         return
 
-    if len(date) < 10:
-        print('🔴 incorrect date format {}'.format(date))
-        return
-
-    if len(km) < 1:
-        print('🔴 missing km for {}'.format(date))
-        return
-
-    if len(dplus) < 1:
-        print('🔴 missing dplus for {}'.format(date))
-        return
-
-    if len(top) < 1:
-        print('🔴 missing top for {}'.format(date))
-        return
-
-    if len(people) < 1:
-        print('🔴 missing people for {}'.format(date))
-        return
-
-    if len(name) < 1:
-        print('🔴 missing name for {}'.format(date))
-        return
-
-    if len(eventLink) < 1:
-        print('🔴 missing eventLink for {}'.format(date))
-        return
-
-    if len(trailShortLink) < 1:
-        print('🔴 missing trailShortLink for {}'.format(date))
-        return
-
     if len(suffix) > 0:
         gpx = "{}-{}.gpx".format(date, suffix)
         img = "{}-{}.jpg".format(date, suffix)
@@ -143,7 +111,48 @@ def parseFeatureFromCsvRow(row):
         img = "{}.jpg".format(date)
         curHike = "{}".format(date)
 
+    if len(date) < 10:
+        errors += 1
+        print('🔴 incorrect date format {}'.format(curHike))
+        return
+
+    if len(trailShortLink) < 1:
+        errors += 1
+        print('🔴 missing trailShortLink for {}'.format(curHike))
+        return
+
+    if len(km) < 1:
+        errors += 1
+        print('🔴 missing km for {}'.format(curHike))
+        return
+
+    if len(dplus) < 1:
+        errors += 1
+        print('🔴 missing dplus for {}'.format(curHike))
+        return
+
+    if len(top) < 1:
+        errors += 1
+        print('🔴 missing top for {}'.format(curHike))
+        return
+
+    if len(people) < 1:
+        errors += 1
+        print('🔴 missing people for {}'.format(curHike))
+        return
+
+    if len(name) < 1:
+        errors += 1
+        print('🔴 missing name for {}'.format(curHike))
+        return
+
+    if len(eventLink) < 1:
+        errors += 1
+        print('🔴 missing eventLink for {}'.format(curHike))
+        return
+
     if prevHike == curHike:
+        errors += 1
         print('🔴 hike with same date & suffix: {}'.format(curHike))
         return
     
@@ -170,6 +179,7 @@ def parseFeatureFromCsvRow(row):
     geojson = json.loads(geojsonStr)
     
     if len(geojson['features']) > 1:
+        errors += 1
         print('🔴 geojson contains more than one feature for gpx {}'.format(gpxPath))
         return
 

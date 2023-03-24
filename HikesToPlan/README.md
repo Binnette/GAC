@@ -25,6 +25,7 @@ A list of hike to do/re-do with the GAC
 - 3000+ peaks accessibles by hike
 - [Le Grand Colon](https://www.decathlon-outdoor.com/fr-fr/solo/tour-du-grand-colon-et-reveil-au-chant-des-grenouilles-5fb6b4639c067)
 - [La Grande Lauzière](https://www.decathlon-outdoor.com/fr-fr/solo/la-grande-lauziere-depuis-le-recoin-624efa2638d7f)
+- [Le Grand Veymont](https://www.decathlon-outdoor.com/fr-fr/solo/gresse-en-vercors-et-la-grimpette-au-grand-veymont-62e82aff0d9e9)
 - [Le Grand Veymont](https://www.decathlon-outdoor.com/fr-fr/solo/escapade-vivifiante-au-grand-veymont-et-recherche-d-animaux-5ea81d56ccf1f)
 - [Tour du Grand Veymont](https://www.decathlon-outdoor.com/fr-fr/solo/gresse-en-vercors-et-superbe-tour-du-grand-veymont-5f8e74adeb2e2)
 
