@@ -23,12 +23,16 @@ var t=[]; document.querySelectorAll(".eventList-list .eventCard").forEach(e => {
     attendees = Number(section.innerText.split(" ")[0]);
   }
   var title = e.querySelector(".eventCardHead--title").innerText.replaceAll('"', "'");
+  var type = ''
+  if (title.includes('🥾') || title.toLowerCase().includes('hike')) {
+    type = 'Hike'
+  }
   var url = e.querySelector("a").href;
   var trails = [];
   e.querySelectorAll("a[href*='https://s.42l.fr']").forEach(a => { trails.push(a.href); });
-  t.unshift([date, suffix, km, dplus, ele, attendees, '"' + title + '"', comment, url, trails.join(",")].join(";"));
+  t.unshift([date, suffix, km, dplus, ele, attendees, '"' + title + '"', type, comment, url, trails.join(",")].join(";"));
 });
-var headers = ["date", "suffix", "km", "dplus", "ele", "attendees", "title", "comment", "url", "trails"];
+var headers = ["date", "suffix", "km", "dplus", "ele", "attendees", "title", "type", "comment", "url", "trails"];
 t.unshift(headers.join(";"));
 t.push(headers.join(";"));
 t.join('\n');
