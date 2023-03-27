@@ -7,38 +7,23 @@ from gpx_converter import Converter
 csvFilename = '9igf-gac.csv'
 errors = 0
 prevHike = ''
+colors = {
+    '2020': '#1766B5',
+    '2021': '#504488',
+    '2022': '#8FBE23',
+    '2023': '#C03535'
+}
+stats = {}
+total = 0
 
-def dumpYear(year, features):
-    sYear = str(year)
+def dumpUmapByLayers(filename, layers, name, description):
     opts = {
-        "properties": {
-            "name": "Grenoble Adventure Club " + sYear,
-            "description": "All hikes dones with the GAC in " + sYear
-        },
-        "layers": [
-            {
-                "type": "FeatureCollection",
-                "features": features,
-                "_umap_options": {
-                    "displayOnLoad": True,
-                    "browsable": True,
-                    "remoteData": {},
-                    "name": sYear + " hikes",
-                    "opacity": "0.8",
-                    "color": "#0013e6",
-                    "weight": "6"
-                }
-            }
-        ]
+        "layers": layers
     }
-    
-    filename = "gac-" + sYear + ".umap"
-    dumpUmap(filename, opts)
-
-def dumpUmap(filename, opts):
 
     template = {
         "type": "umap",
+        "uri": "",
         "properties": {
             "easing": True,
             "embedControl": True,
@@ -58,8 +43,8 @@ def dumpUmap(filename, opts):
                 "url_template": "https://{s}.tile.osm.ch/switzerland/{z}/{x}/{y}.png"
             },
             "licence": "",
-            "name": "",
-            "description": "All hikes dones with the GAC in 2021",
+            "name": name,
+            "description": description,
             "displayPopupFooter": False,
             "miniMap": False,
             "moreControl": True,
@@ -79,12 +64,15 @@ def dumpUmap(filename, opts):
 
     data = template | opts
 
-    with open(filename, 'w') as f:
-        json.dump(data, f)
+    filepath = path.join('umap', filename)
+    with open(filepath, 'w') as f:
+        json.dump(data, f, indent=2)
+
+    print('🟢 umap file created {}'.format(filename))
 
 #Date,Suffix,KM,Dplus,Top,People,Name,Type,Comment,EventLink,TrailShortLink,TrailFullLink,Trail1,Trail2
 def parseFeatureFromCsvRow(row):
-    global errors, prevHike
+    global errors, prevHike, curYear, stats, total
 
     date = row['Date']
     suffix = row['Suffix']
@@ -97,6 +85,14 @@ def parseFeatureFromCsvRow(row):
     comment = row['Comment']
     eventLink = row['EventLink']
     trailShortLink = row['TrailShortLink']
+
+    if type.lower() != 'Cancelled':
+        total += 1
+    
+    if type in stats:
+        stats[type] += 1
+    else:
+        stats[type] = 1
 
     if 'Hike' not in type:
         print('🟡 not a hike: {}'.format(name))
@@ -195,15 +191,12 @@ def parseFeatureFromCsvRow(row):
         "properties": {
             "name": name,
             "description": desc,
-            "time": date,
-            "_umap_options": {
-                "color": "#6fde3c"
-            }
+            "time": date
         },
         "geometry": geometry
     }
 
-def parseLayerFromCsvFile():
+def parseFeaturesFromCsvFile():
     features = []
     with open(csvFilename) as f:
         reader = csv.DictReader(f, delimiter=',')
@@ -211,31 +204,72 @@ def parseLayerFromCsvFile():
             feature = parseFeatureFromCsvRow(row)
             if feature is not None:
                  features.append(feature)
-    return {
-        "type": "FeatureCollection",
-        "features": features, 
-        "_umap_options": {
-            "displayOnLoad": True,
-            "browsable": True,
-            "remoteData": {},
-            "name": "All hikes",
-            "opacity": "0.8",
-            "color": "#0013e6",
-            "weight": "6"
-        }
-    }
 
-def generetateAllHikesUmap():
-    layer = parseLayerFromCsvFile();
-    opts = {
-         "layers": [layer]
-    }
-    dumpUmap('grenoble_adventure_club_all_hikes.umap', opts)
-    print('🟢 File umap ready. {} errors'.format(errors))
-     
+    return features
+
+def getLayerFromFeatures(year, features):
+    color = colors[year]
+    return {
+            "type": "FeatureCollection",
+            "features": features, 
+            "_umap_options": {
+                "displayOnLoad": True,
+                "browsable": True,
+                "remoteData": {},
+                "name": "{} hikes".format(year),
+                "id": "",
+                "opacity": "0.8",
+                "color": color,
+                "weight": "6"
+            }
+        }
+
+def getLayersFromFeatures(features):
+    layers = []
+    toDump = []
+    curYear = ''
+    for f in features:
+        year = f['properties']['time'][:4]
+        if curYear == '':
+            curYear = year
+        if year != curYear:
+            layers.append(getLayerFromFeatures(curYear, toDump))
+            curYear = year
+            toDump = []
+        toDump.append(f)
+    # dump last year
+    layers.append(getLayerFromFeatures(curYear, toDump))
+    return layers        
+
+def generetateAllUmap():
+    features = parseFeaturesFromCsvFile()
+    if errors > 0:
+        print('🔴 CSV parsing done with {} errors'.format(errors))
+    else:
+        print('🟢 CSV parsing done without error')
+
+    print("Stats :")
+    for s in stats:
+        print(" - {} = {}".format(s, stats[s]))
+    print(" # Total = {}".format(total))
+
+    layers = getLayersFromFeatures(features);
+    for l in layers:
+        layerName = l['_umap_options']['name']
+        year = layerName[:4]
+        filename = layerName.replace(' ', '_')
+        filename = 'grenoble_adventure_club_{}.umap'.format(filename)
+        name = 'Grenoble Adventure Club {} hikes'.format(year)
+        description = 'All hikes done with the GAC in {}'.format(year)
+        dumpUmapByLayers(filename, [l], name, description)
+
+    filename = 'grenoble_adventure_club_all_hikes.umap'
+    name = 'Grenoble Adventure Club all hikes'
+    description = 'All hikes done with the GAC'
+    dumpUmapByLayers(filename, layers, name, description)
 
 def main():
-    generetateAllHikesUmap()
+    generetateAllUmap()
 
 if __name__ == "__main__":
     main()
