@@ -5,23 +5,16 @@ from os import path
 from gpx_converter import Converter
 
 csvFilename = '9igf-gac.csv'
-errors = 0
-prevHike = ''
+errors = 0; total = 0; stats = {}; prevHike = ''
 colors = {
     '2020': '#1766B5',
     '2021': '#504488',
     '2022': '#8FBE23',
     '2023': '#C03535'
 }
-stats = {}
-total = 0
 
 def dumpUmapByLayers(filename, layers, name, description):
-    opts = {
-        "layers": layers
-    }
-
-    template = {
+    data = {
         "type": "umap",
         "uri": "",
         "properties": {
@@ -59,20 +52,18 @@ def dumpUmapByLayers(filename, layers, name, description):
                 45.182036837015886
             ]
         },
-        "layers": []
+        "layers": layers
     }
-
-    data = template | opts
 
     filepath = path.join('umap', filename)
     with open(filepath, 'w') as f:
         json.dump(data, f, indent=2)
 
-    print('🟢 umap file created {}'.format(filename))
+    print(f'🟢 umap file created: {filename}')
 
 #Date,Suffix,KM,Dplus,Top,People,Name,Type,Comment,EventLink,TrailShortLink,TrailFullLink,Trail1,Trail2
 def parseFeatureFromCsvRow(row):
-    global errors, prevHike, curYear, stats, total
+    global errors, prevHike, stats, total
 
     date = row['Date']
     suffix = row['Suffix']
@@ -86,7 +77,7 @@ def parseFeatureFromCsvRow(row):
     eventLink = row['EventLink']
     trailShortLink = row['TrailShortLink']
 
-    if type.lower() != 'Cancelled':
+    if type.lower() != 'cancelled':
         total += 1
     
     if type in stats:
@@ -95,96 +86,93 @@ def parseFeatureFromCsvRow(row):
         stats[type] = 1
 
     if 'Hike' not in type:
-        print('🟡 not a hike: {}'.format(name))
+        print(f'🟡 not a hike: {name}')
         return
 
     if len(suffix) > 0:
-        gpx = "{}-{}.gpx".format(date, suffix)
-        img = "{}-{}.jpg".format(date, suffix)
-        curHike = "{}-{}".format(date, suffix)
+        gpx = f'{date}-{suffix}.gpx'
+        img = f'{date}-{suffix}.jpg'
+        curHike = f'{date}-{suffix}'
     else:
-        gpx = "{}.gpx".format(date)
-        img = "{}.jpg".format(date)
-        curHike = "{}".format(date)
+        gpx = f'{date}.gpx'
+        img = f'{date}.jpg'
+        curHike = f'{date}'
 
     if len(date) < 10:
         errors += 1
-        print('🔴 incorrect date format {}'.format(curHike))
+        print(f'🔴 incorrect date format {curHike}')
         return
 
     if len(trailShortLink) < 1:
         errors += 1
-        print('🔴 missing trailShortLink for {}'.format(curHike))
+        print(f'🔴 missing trailShortLink for {curHike}')
         return
 
     if len(km) < 1:
         errors += 1
-        print('🔴 missing km for {}'.format(curHike))
+        print(f'🔴 missing km for {curHike}')
         return
 
     if len(dplus) < 1:
         errors += 1
-        print('🔴 missing dplus for {}'.format(curHike))
+        print(f'🔴 missing dplus for {curHike}')
         return
 
     if len(top) < 1:
         errors += 1
-        print('🔴 missing top for {}'.format(curHike))
+        print(f'🔴 missing top for {curHike}')
         return
 
     if len(people) < 1:
         errors += 1
-        print('🔴 missing people for {}'.format(curHike))
+        print(f'🔴 missing people for {curHike}')
         return
 
     if len(name) < 1:
         errors += 1
-        print('🔴 missing name for {}'.format(curHike))
+        print(f'🔴 missing name for {curHike}')
         return
 
     if len(eventLink) < 1:
         errors += 1
-        print('🔴 missing eventLink for {}'.format(curHike))
+        print(f'🔴 missing eventLink for {curHike}')
         return
 
     if prevHike == curHike:
         errors += 1
-        print('🔴 hike with same date & suffix: {}'.format(curHike))
+        print(f'🔴 hike with same date & suffix: {curHike}')
         return
     
     prevHike = curHike
 
-    gpxPath = 'gpx/{}'.format(gpx)
-    imgPath = 'img/{}'.format(img)
+    gpxPath = f'gpx/{gpx}'
+    imgPath = f'img/{img}'
 
     if not path.exists(gpxPath):
         errors += 1
-        print('🔴 gpx not found: {} -> {}'.format(gpxPath, trailShortLink))
+        print(f'🔴 gpx not found: {gpxPath} -> {trailShortLink}')
         return
 
     if not path.exists(imgPath):
         errors += 1
-        print('🔴 img not found: {} -> {}'.format(imgPath, eventLink))
+        print(f'🔴 img not found: {imgPath} -> {eventLink}')
         return
 
     # Create an empty GeoDataFrame
-    gdf = gpd.GeoDataFrame(columns=['name', 'geometry'])
-    track = gpd.read_file(gpxPath, layer='tracks')
-    track = track.explode(index_parts=False)
-    geojsonStr = track.to_json()
-    geojson = json.loads(geojsonStr)
+    track = gpd.read_file(gpxPath, layer='tracks').explode(index_parts=False)
+    geojson = json.loads(track.to_json())
     
     if len(geojson['features']) > 1:
         errors += 1
-        print('🔴 geojson contains more than one feature for gpx {}'.format(gpxPath))
+        print(f'🔴 geojson contains more than one feature for gpx {gpxPath}')
         return
 
     geometry = geojson['features'][0]['geometry']
     
-    desc = '{} km - d+ {}m - top {}m\n'.format(km, dplus, top)
+    desc = f'{km} km - d+ {dplus}m - top {top}m\n'
     desc += '{{https://binnette.github.io/GAC/Stats/img/' + img + '}}\n'
-    desc += 'GPX: {}\n'.format(trailShortLink)
-    desc += 'Meetup {}: [[{}|{}]]'.format(date, eventLink, name)
+    desc += f'GPX: {trailShortLink}\n'
+    desc += f'Meetup {date}: [[{eventLink}|{name}]]'
 
     return {
         "type": "Feature",
@@ -216,7 +204,7 @@ def getLayerFromFeatures(year, features):
                 "displayOnLoad": True,
                 "browsable": True,
                 "remoteData": {},
-                "name": "{} hikes".format(year),
+                "name": f'{year} hikes',
                 "id": "",
                 "opacity": "0.8",
                 "color": color,
@@ -244,23 +232,22 @@ def getLayersFromFeatures(features):
 def generetateAllUmap():
     features = parseFeaturesFromCsvFile()
     if errors > 0:
-        print('🔴 CSV parsing done with {} errors'.format(errors))
+        print(f'🔴 CSV parsing done with {errors} errors')
     else:
         print('🟢 CSV parsing done without error')
 
     print("Stats :")
     for s in stats:
-        print(" - {} = {}".format(s, stats[s]))
-    print(" # Total = {}".format(total))
+        print(f' - {s} = {stats[s]}')
+    print(f' # Total = {total}')
 
     layers = getLayersFromFeatures(features);
     for l in layers:
-        layerName = l['_umap_options']['name']
+        layerName = l['_umap_options']['name'].replace(' ', '_')
         year = layerName[:4]
-        filename = layerName.replace(' ', '_')
-        filename = 'grenoble_adventure_club_{}.umap'.format(filename)
-        name = 'Grenoble Adventure Club {} hikes'.format(year)
-        description = 'All hikes done with the GAC in {}'.format(year)
+        filename = f'grenoble_adventure_club_{layerName}.umap'
+        name = f'Grenoble Adventure Club {year} hikes'
+        description = f'All hikes done with the GAC in {year}'
         dumpUmapByLayers(filename, [l], name, description)
 
     filename = 'grenoble_adventure_club_all_hikes.umap'
@@ -268,8 +255,5 @@ def generetateAllUmap():
     description = 'All hikes done with the GAC'
     dumpUmapByLayers(filename, layers, name, description)
 
-def main():
-    generetateAllUmap()
-
 if __name__ == "__main__":
-    main()
+    generetateAllUmap()
