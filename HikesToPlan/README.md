@@ -28,6 +28,9 @@ A list of hike to do/re-do with the GAC
 - [Le Grand Veymont](https://www.decathlon-outdoor.com/fr-fr/solo/gresse-en-vercors-et-la-grimpette-au-grand-veymont-62e82aff0d9e9)
 - [Le Grand Veymont](https://www.decathlon-outdoor.com/fr-fr/solo/escapade-vivifiante-au-grand-veymont-et-recherche-d-animaux-5ea81d56ccf1f)
 - [Tour du Grand Veymont](https://www.decathlon-outdoor.com/fr-fr/solo/gresse-en-vercors-et-superbe-tour-du-grand-veymont-5f8e74adeb2e2)
+- [La Tour Isabelle](https://www.komoot.com/smarttour/1509789)
+- [Round tower, a lot of tree and village walk](https://brouter.de/brouter-web/#map=15/45.1964/5.8500/1069,viewpoint,attraction&lonlats=5.84055,45.201229;5.881897,45.21283;5.882111,45.213423;5.882503,45.2126;5.883704,45.21263;5.888972,45.210256;5.885598,45.196781;5.883517,45.193787;5.871291,45.187861;5.858352,45.191747;5.845048,45.200372;5.840617,45.201159&straight=3&profile=hiking-mountain)
+- [Pas de Rocheplanne](https://www.komoot.com/smarttour/10744646)
 
 ## Hikes done
 
