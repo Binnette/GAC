@@ -37,3 +37,28 @@ t.unshift(headers.join(";"));
 t.push(headers.join(";"));
 t.join('\n');
 ```
+
+## Scrapping photos
+
+```js
+var t=[];
+document.querySelectorAll("ul a img").forEach(function(e){
+  var s = e.getAttribute("src").replace("/event_", "/highres_").replace(".webp?", ".jpeg?");
+  t.push(s);
+});
+t.join("\n");
+```
+
+```bash
+# rename pictures
+date="2023-01-14"
+ext="jpg"
+
+for p in *.jpeg; do
+  p="${p/.\//}"
+  np="${p/highres/$date}"
+  np="${np/jpeg/$ext}"
+  mv $p $np
+  echo $np
+done
+```
