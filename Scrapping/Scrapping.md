@@ -52,12 +52,48 @@ document.querySelector("[data-testid=add-to-calendar]").remove();
 ## Scrapping photos
 
 ```js
-var t=[];
-document.querySelectorAll("ul a img").forEach(function(e){
-  var s = e.getAttribute("src").replace("/event_", "/highres_").replace(".webp?", ".jpeg?");
-  t.push(s);
+var commands = [];
+var submainText = document.querySelectorAll("#submain .items-start")[0].textContent;
+var match = submainText.match(/(\d+) Photo/);
+var nbPhotos = parseInt(match[1]);
+var titleText = document.querySelectorAll("#submain h1")[0].textContent;
+var match = titleText.match(/(\w{3} \d{1,2}, \d{4})/);
+var title = titleText.replace(/\s+\(\w{3} \d{1,2}, \d{4}\)/, '')
+//title = title.replaceAll(/[<>"\/\\|?*]/g, '_');
+title = title.replaceAll(/'/g, '’')
+title = title.replaceAll(/\//g, ' ')
+var date;
+if (match) {
+  date = new Date(match[1] + " 14:00");
+} else {
+  fields = submainText.split('· ');
+  date = new Date(fields[fields.length-1] + " 14:00");
+}
+var formattedDate = date.toISOString().slice(0, 10);
+var folder = `${formattedDate} ${title}`;
+document.querySelectorAll("ul a img").forEach(function(imgElement){
+  var src = imgElement.getAttribute("src");
+  var url = src.replace("/event_", "/highres_").replace(".webp?", ".jpeg?");
+  var match = url.match(/\/highres_([0-9]+)\.jpeg/);
+  var fileName = match ? `${match[1]}.jpg` : '';
+  var wgetCommand = `wget -nv ${url} -O "${fileName}" 2>&1`;
+  commands.push(wgetCommand);
 });
-t.join("\n");
+if (commands.length != nbPhotos) {
+  console.error(`nbPhotos=${nbPhotos};commands=${commands.length}`);
+}
+var resultCommands = [];
+resultCommands.push(`\nmkdir '${folder}'`);
+resultCommands.push(`cd '${folder}'`);
+resultCommands = resultCommands.concat(commands);
+resultCommands.push(`num_files=$(ls . | wc -l)`)
+resultCommands.push(`cd ..`)
+resultCommands.push(`if [ $num_files -ne '${nbPhotos}' ]; then`);
+resultCommands.push(`  echo "🔴 Incorrect number of pictures ${nbPhotos}"`);
+resultCommands.push(`else`);
+resultCommands.push(`  echo "🟢 Correct number of pictures ${nbPhotos}"`);
+resultCommands.push(`fi\n`);
+resultCommands.join("\n");
 ```
 
 ```bash
