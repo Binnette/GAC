@@ -31,11 +31,11 @@ document.querySelectorAll(".eventList-list .eventCard").forEach(eventElement => 
   km = distanceMatch ? parseFloat(distanceMatch[1]) : '';
   var dplusMatch = eventElement.textContent.match(/D\+: ([0-9]+)m/);
   dplus = dplusMatch ? parseFloat(dplusMatch[1]) : '';
-  events.unshift([dateString, suffix, km, dplus, ele, attendees, `"${title}"`, type, comment, url, trails.join(",")].join(";"));
+  events.unshift([dateString, suffix, km, dplus, ele, attendees, `"${title}"`, type, comment, url, trails.join(";")].join(","));
 });
 var headers = ["date", "suffix", "km", "dplus", "ele", "attendees", "title", "type", "comment", "url", "trails"];
-events.unshift(headers.join(";"));
-events.push(headers.join(";"));
+events.unshift(headers.join(","));
+events.push(headers.join(","));
 events.join('\n');
 ```
 

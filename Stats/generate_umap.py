@@ -3,6 +3,9 @@ import geopandas as gpd
 import json
 from os import path
 from gpx_converter import Converter
+from datetime import datetime
+import requests
+from urllib.parse import quote
 
 csvFilename = '9igf-gac.csv'
 errors = 0; total = 0; stats = {}; prevHike = ''
@@ -12,6 +15,7 @@ colors = {
     '2022': '#8FBE23',
     '2023': '#C03535'
 }
+albumRoot = 'https://binnette.github.io/GacImg'
 
 def dumpUmapByLayers(filename, layers, name, description):
     data = {
@@ -66,6 +70,8 @@ def parseFeatureFromCsvRow(row):
     global errors, prevHike, stats, total
 
     date = row['Date']
+    date_object = datetime.strptime(date, "%Y-%m-%d")
+    year = date_object.year
     suffix = row['Suffix']
     km = row['KM']
     dplus = row['Dplus']
@@ -76,6 +82,7 @@ def parseFeatureFromCsvRow(row):
     comment = row['Comment']
     eventLink = row['EventLink']
     trailShortLink = row['TrailShortLink']
+    album = row['Album']
 
     if type.lower() != 'cancelled':
         total += 1
@@ -107,6 +114,9 @@ def parseFeatureFromCsvRow(row):
         errors += 1
         print(f'🔴 missing trailShortLink for {curHike}')
         return
+    
+    if len(album) < 1:
+        print(f'🟡 missing Album for {curHike}')
 
     if len(km) < 1:
         errors += 1
@@ -172,7 +182,18 @@ def parseFeatureFromCsvRow(row):
     desc = f'{km} km - d+ {dplus}m - top {top}m\n'
     desc += '{{https://binnette.github.io/GAC/Stats/img/' + img + '}}\n'
     desc += f'GPX: {trailShortLink}\n'
-    desc += f'Meetup {date}: [[{eventLink}|{name}]]'
+
+    if len(album) < 1:
+        desc += f'{date}: [[{eventLink}|Meetup]]'
+    else:
+        album = quote(album)
+        albumUrl = f'{albumRoot}{year}/{album}'
+        desc += f'{date}: [[{albumUrl}|Album]] - [[{eventLink}|Meetup]]'
+
+        response = requests.get(albumUrl)
+        if response.status_code != 200:
+            errors += 1
+            print(f'🔴 Incorrect album url: {albumUrl}')
 
     return {
         "type": "Feature",

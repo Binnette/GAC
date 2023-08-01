@@ -4,6 +4,8 @@ A list of hike to do/re-do with the GAC
 
 | Name | KM | D+ | GPX |
 |------|----|----|-----|
+| 🟢 Le Château de Bressieux | 14.2 | 377 | [GPX](https://brouter.de/brouter-web/#map=15/45.3137/5.2997/1069,Waymarked_Trails-Hiking,viewpoint,water_point,information&lonlats=5.288136,45.31606;5.280519,45.320311;5.27903,45.322584;5.280068,45.322829;5.288501,45.321003;5.29438,45.319066;5.308414,45.318327;5.320559,45.314612;5.31734,45.305402;5.290807,45.307342;5.28923,45.305825;5.272064,45.307879;5.285797,45.315249;5.288259,45.315913&profile=hiking-mountain) |
+| 🟢 Loop around Notre-Dame-de-l'Osier | 11.8 | 281 | [GPX](https://brouter.de/brouter-web/#map=14/45.2408/5.4253/1069,Waymarked_Trails-Hiking,viewpoint,water_point,parking&lonlats=5.405676,45.237963;5.405343,45.238397;5.405949,45.238386;5.407406,45.237921;5.410788,45.238159;5.410058,45.241356;5.421882,45.243863;5.429628,45.245933;5.43113,45.24651;5.435808,45.251528;5.438876,45.244968;5.439327,45.242384;5.438876,45.240479;5.434692,45.240683;5.437428,45.23537;5.435303,45.237435;5.42996,45.231251;5.424821,45.234494;5.421949,45.228924;5.418277,45.228954;5.418041,45.233672;5.407312,45.234389;5.409511,45.236231;5.405805,45.237925&straight=6&profile=hiking-mountain) |
 | 🟢 Vif et le Petit Brion | 14 | 276 | [GPX](https://brouter.de/brouter-web/#map=14/45.0657/5.6904/1069,drinking_water,toilets&lonlats=5.667266,45.056611;5.688163,45.086922;5.710659,45.073273;5.711088,45.068489;5.705767,45.064731;5.690607,45.051582;5.683858,45.051619;5.679122,45.051817;5.667223,45.056482&profile=hiking-mountain) |
 | 🔵 Glacière d'Autrans | 10.7 | 513 | [GPX](https://brouter.de/brouter-web/#map=14/45.2294/5.5417/1069&lonlats=5.559779,45.212833;5.555112,45.216208;5.54992,45.230716;5.544842,45.235629;5.553288,45.237159;5.563548,45.238798;5.567472,45.233994;5.560423,45.234079;5.560048,45.228461;5.560112,45.21819;5.560037,45.212788&profile=hiking-mountain) |
 | 🔵 L'Écoutoux | 10.3 | 551 | [GPX](https://brouter.de/brouter-web/#map=14/45.2633/5.7758/1069,Waymarked_Trails-Hiking,viewpoint&lonlats=5.77707,45.259898;5.784758,45.265435;5.78186,45.267622;5.765378,45.272984;5.760376,45.26683;5.757779,45.25277;5.76102,45.266067;5.766943,45.267419;5.776557,45.259935&profile=hiking-mountain) |
@@ -31,6 +33,16 @@ A list of hike to do/re-do with the GAC
 - [La Tour Isabelle](https://www.komoot.com/smarttour/1509789)
 - [Round tower, a lot of tree and village walk](https://brouter.de/brouter-web/#map=15/45.1964/5.8500/1069,viewpoint,attraction&lonlats=5.84055,45.201229;5.881897,45.21283;5.882111,45.213423;5.882503,45.2126;5.883704,45.21263;5.888972,45.210256;5.885598,45.196781;5.883517,45.193787;5.871291,45.187861;5.858352,45.191747;5.845048,45.200372;5.840617,45.201159&straight=3&profile=hiking-mountain)
 - [Pas de Rocheplanne](https://www.komoot.com/smarttour/10744646)
+
+## Others
+
+Dacat:
+
+- [Châteaux forts de Meylan et nature apaisante](https://www.decathlon-outdoor.com/fr-fr/solo/chateaux-forts-de-meylan-et-nature-apaisante-5ccc33fd4798a)
+- [Jouer les aventuriers et découvrir une véritable fontaine ardente](https://www.decathlon-outdoor.com/fr-fr/solo/jouer-les-aventuriers-et-decouvrir-une-veritable-fontaine-ardente-5ccc47fd086be)
+- [Défilé du Coulou et paysages sublimes à Saint-Nizier](https://www.decathlon-outdoor.com/fr-fr/solo/defile-du-coulou-et-paysages-sublimes-a-saint-nizier-5fbf777a52297)
+- [Voie Sarde et un univers de pierres moussues](https://www.decathlon-outdoor.com/fr-fr/solo/voie-sarde-et-un-univers-de-pierres-moussues-5fb3c7a520122)
+- [Plateaux suspendus au Mont Margériaz et canyons vertigineux](https://www.decathlon-outdoor.com/fr-fr/solo/plateaux-suspendus-au-mont-margeriaz-et-canyons-vertigineux-5ea56cea45391)
 
 ## Hikes done
 
