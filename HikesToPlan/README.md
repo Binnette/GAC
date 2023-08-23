@@ -21,6 +21,13 @@ A list of hike to do/re-do with the GAC
 | 🔴 Grotte des Gaulois | 6.6 | 1171 | [Topo](https://www.decathlon-outdoor.com/fr-fr/solo/grotte-des-gaulois-et-ascension-vertigineuse-en-vercors-5ea033660b25e) |
 | 🔴 Lac du Rif Bruyant | 13.2 | 1168 | [Topo](https://www.decathlon-outdoor.com/fr-fr/solo/lac-du-rif-bruyant-6308b9b1cd3bf) |
 | 🔴 Le Pinet | 9.3 | 1089 | [Topo](https://www.decathlon-outdoor.com/fr-fr/solo/sommet-du-pinet-et-cheminee-suspendue-en-chartreuse-5ec69b82a7137) |
+| 🔴 Dôme de Bellefont et pas de Rocheplane | 17.3 | 1400 | [Topo](https://brouter.de/brouter-web/#map=16/45.3107/5.8756/1069,Waymarked_Trails-Hiking&lonlats=5.875905,45.309522;5.876495,45.310783;5.872364,45.329973;5.877954,45.337706;5.879928,45.341222;5.888972,45.351992;5.897244,45.358418;5.895689,45.35654;5.90292,45.354708;5.897341,45.350903;5.889165,45.332662;5.876098,45.309439) [2](https://www.altituderando.com/Dome-de-Bellefont-1975m-traversee-du-pas-de-Rocheplane-a-l-Aulp-du-Seuil) |
+| 🔴 Arche + Dôme de Bellefont + pas de Rocheplane | 17.3 | 1400 | [Topo](https://brouter.de/brouter-web/#map=16/45.3107/5.8756/1069,Waymarked_Trails-Hiking&lonlats=5.875905,45.309522;5.876495,45.310783;5.872364,45.329973;5.877954,45.337706;5.879928,45.341222;5.888972,45.351992;5.897244,45.358418;5.895689,45.35654;5.90292,45.354708;5.897341,45.350903;5.889165,45.332662;5.876098,45.309439) [2](https://www.altituderando.com/Dome-de-Bellefont-1975m-traversee-du-pas-de-Rocheplane-a-l-Aulp-du-Seuil) |
+| 🔴 Le Grand Galbert | 16.7 | 960 | [Topo](https://brouter.de/brouter-web/#map=14/45.0705/5.9260/1069&lonlats=5.898972,45.053121;5.959311,45.090218;5.934076,45.055688;5.899025,45.053041) |
+| 🔴 Le Lac Lautier | 16.4 | 1435 | [Topo](https://brouter.de/brouter-web/#map=15/44.8364/6.1501/1069&lonlats=6.141357,44.82492;6.166763,44.842462;6.146593,44.845102;6.139984,44.825407&profile=hiking-mountain) |
+| 🔴 Tête des vautes 2188m | 14.6 | 1386 | [Topo](https://brouter.de/brouter-web/#map=15/44.7061/5.7863/1069&lonlats=5.767715,44.714416;5.759368,44.706091;5.813828,44.70362;5.768369,44.714073&profile=hiking-mountain) |
+| 🔴 Lac de l'Eychauda | 16.2 | 1133 | [Topo](https://brouter.de/brouter-web/#map=14/44.9237/6.5032/1069&lonlats=6.492877,44.901551;6.477814,44.938192;6.508112,44.931389;6.493134,44.901514) |
+
 
 ## Ideas
 
@@ -33,19 +40,18 @@ A list of hike to do/re-do with the GAC
 - [La Tour Isabelle](https://www.komoot.com/smarttour/1509789)
 - [Round tower, a lot of tree and village walk](https://brouter.de/brouter-web/#map=15/45.1964/5.8500/1069,viewpoint,attraction&lonlats=5.84055,45.201229;5.881897,45.21283;5.882111,45.213423;5.882503,45.2126;5.883704,45.21263;5.888972,45.210256;5.885598,45.196781;5.883517,45.193787;5.871291,45.187861;5.858352,45.191747;5.845048,45.200372;5.840617,45.201159&straight=3&profile=hiking-mountain)
 - [Pas de Rocheplanne](https://www.komoot.com/smarttour/10744646)
+- [Grotte de St-Christophe](https://brouter.de/brouter-web/#map=15/45.4409/5.7939/1069&lonlats=5.784194,45.448133;5.785302,45.447511;5.784409,45.441194;5.785439,45.446802;5.79017,45.444407;5.794462,45.443941;5.795127,45.444694;5.794054,45.444618;5.793293,45.445846;5.792166,45.447908;5.789655,45.450196;5.791801,45.451393;5.784602,45.448288)
+
+## Cirkwi
+
+- https://www.cirkwi.com/fr/recherche?lat=44.80959&lng=6.19573&zoom=17&types=circuit;poi;&locomotions=6;&categories=6;
 
 ## Others
 
-Dacat:
+Decat:
 
 - [Châteaux forts de Meylan et nature apaisante](https://www.decathlon-outdoor.com/fr-fr/solo/chateaux-forts-de-meylan-et-nature-apaisante-5ccc33fd4798a)
 - [Jouer les aventuriers et découvrir une véritable fontaine ardente](https://www.decathlon-outdoor.com/fr-fr/solo/jouer-les-aventuriers-et-decouvrir-une-veritable-fontaine-ardente-5ccc47fd086be)
 - [Défilé du Coulou et paysages sublimes à Saint-Nizier](https://www.decathlon-outdoor.com/fr-fr/solo/defile-du-coulou-et-paysages-sublimes-a-saint-nizier-5fbf777a52297)
 - [Voie Sarde et un univers de pierres moussues](https://www.decathlon-outdoor.com/fr-fr/solo/voie-sarde-et-un-univers-de-pierres-moussues-5fb3c7a520122)
 - [Plateaux suspendus au Mont Margériaz et canyons vertigineux](https://www.decathlon-outdoor.com/fr-fr/solo/plateaux-suspendus-au-mont-margeriaz-et-canyons-vertigineux-5ea56cea45391)
-
-## Hikes done
-
-| Name | KM | D+ | GPX |
-|------|----|----|-----|
-| 🔵 Le sentier du facteur | 10 | 680 | [GPX](https://brouter.de/brouter-web/#map=15/45.0996/5.8169/1069,Waymarked_Trails-Hiking&lonlats=5.803877,45.103464;5.80841,45.104387;5.817491,45.107577;5.825675,45.100548;5.817937,45.091846;5.815426,45.094966;5.807626,45.088263;5.798399,45.091793;5.804676,45.09945;5.803707,45.103094&profile=hiking-mountain) |

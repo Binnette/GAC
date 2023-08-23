@@ -14,13 +14,14 @@
 
 ### 💫 Previous hikes
 - [Maps with (almost) all our previous hikes](Stats/PreviousHikes.md)
+- [Statistics on our hikes (km, elevation, attendees)](Stats/README.md)
 
-### 🟡 Hikes from LaMetro
+### ✨ Hikes ideas
+- [Hikes to plan 🕘](HikesToPlan/README.md)
 - [Hikes from LaMetro](BaladesLaMetro/README.md)
 - [Hikes without a car 🚗](BaladesLaMetro/NoCar/README.md)
 
-### ✨ Hikes to plan
-- [Hikes to plan with GAC](HikesToPlan/README.md)
 
-### 💹 Stats
-- [Statistics on our hikes (km, elevation, attendees)](Stats/README.md)
+### 📚 Resources
+
+- [Bivouac ⛺](Bivouac/README.md)
