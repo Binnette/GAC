@@ -21,12 +21,12 @@ What is bivouac:
 
 |Place|Allowed|Links|
 |-----|-------|-----|
-|Lac Merlat; Lac Claret|❌|[📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf)|
-|Plaine de la Pra|✅ From September to July 13|[📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf)|
-|Plaine de la Pra|❌ From July 14 to August 31|[📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf)|
-|Chamrousse: Tourbière de l'Arselle; Lac Achard; Infernet|❌ From May 1 to October 30|[📄 Belledonne p21](2023-07_Bivouac_Belledonne.pdf)|
-|Haut Bréda: Chalet du Bout; Espace Naturel Sensible du Praillet|❌|[📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf)|
-|Réserve Naturelle du Luitel|❌|[📄 Belledone p21](Bivouac_Belledonne_2023-07.pdf)|
+|Lac Merlat; Lac Claret|❌|[📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf#page=11)|
+|Plaine de la Pra|✅ From September to July 13|[📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf#page=11)|
+|Plaine de la Pra|❌ From July 14 to August 31|[📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf#page=11)|
+|Chamrousse: Tourbière de l'Arselle; Lac Achard; Infernet|❌ From May 1 to October 30|[📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf#page=11)|
+|Haut Bréda: Chalet du Bout; Espace Naturel Sensible du Praillet|❌|[📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf#page=11)|
+|Réserve Naturelle du Luitel|❌|[📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf#page=11)|
 
 ## Bivouac La Pra
 
@@ -35,7 +35,7 @@ What is bivouac:
 
 ![Bivouac La Pra](2023_Bivouac_Belledonne_La_Pra.png)
 
-Source: [📄 Belledone p21](Bivouac_Belledonne_2023-07.pdf)
+Source: [📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf#page=11)
 
 # Bivouac in Chartreuse
 
@@ -57,7 +57,7 @@ Source: [📄 2023 Memento RNHC](2023_Bivouac_Chartreuse_memento_RNHC.pdf)
 
 > ❌ Bivouac is forbidden on top of Mont Aiguille.
 
-Source: [📄 2023-06 Bivouac Isere](2023-06_Bivouac_Isere.pdf)
+Source: [📄 2023-06 Bivouac Isere p24](2023-06_Bivouac_Isere.pdf#page=26)
 
 # Bivouac Ecrins
 
@@ -73,10 +73,9 @@ Source: [📄 2023-06 Bivouac Isere](2023-06_Bivouac_Isere.pdf)
 |------|-------|-----|
 |Champoléon: Pré de la Chaumette|✅ Free of charge|[📄 2014-06-01 Arrêté Cœur Ecrins](2014-06-01_Bivouac_Arr%C3%AAt%C3%A9_Coeur_Ecrins.pdf)|
 
-
 |Place|Allowed|Links|
 |-----|-------|-----|
-|Plateau d'Emparis|✅|[📄 2023-01-13 Arrêté Emparis La Grave](2023-04-13_Ecrins_Arr%C3%AAt%C3%A9_Emparis_La_Grave.pdf)|
+|Plateau d'Emparis|✅|[📄 2023-01-13 Arrêté Emparis La Grave](2023-04-13_Bivouac_Arr%C3%AAt%C3%A9_Emparis_La_Grave.pdf)|
 |Lac de la Muzelle|✅|See below section|
 |Lac Lauvitel|✅|See below section|
 
@@ -130,7 +129,7 @@ Source: [📄 2023-05-23 Arrêté Taillefer Livet Gavet](2023-05-23_Bivouac_Arr%
 
 > ✅ Only paid bivouac with reservation near the refuge is allowed (from June 1 to September 30).
 
-Source: [📄 2023-06 Bivouac Vanoise p4](2023-06_Bivouac_Vanoise.pdf)
+Source: [📄 2023-06 Bivouac Vanoise p4](2023-06_Bivouac_Vanoise.pdf#page=4)
 
 # Queyras
 
