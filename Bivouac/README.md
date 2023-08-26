@@ -30,7 +30,7 @@ What is bivouac:
 
 ## Bivouac La Pra
 
-- 🟦 Blue area: forbidden during all the year
+- 🟦 Blue area: forbidden during the whole year
 - 🟥 Red area: forbidden from July 14 to August 31
 
 ![Bivouac La Pra](2023_Bivouac_Belledonne_La_Pra.png)
@@ -87,6 +87,8 @@ Source:
 
 > ✅ Bivouac with tent is allowed only in 1 location from 7pm to 9am.
 
+Location:
+
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.0562992095947275%2C44.96784938840356%2C6.083893775939941%2C44.97823251040234&amp;layer=mapnik&amp;marker=44.97304118438496%2C6.070096492767334" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=44.9730&amp;mlon=6.0701#map=16/44.9730/6.0701">View Larger Map</a></small>
 
 ![Bivouac Lauvitel](2023-plan-autorisation-bivouac-lac-lauvitel-ecrins-isere.jpg)
@@ -96,6 +98,8 @@ Sources: [🌐 2023-08-11 Le Bivouac en Isère](https://www.isere-tourisme.com/i
 ## Lac de la Muzelle
 
 > ✅ Bivouac with tent is allowed only in 1 location from 7pm to 9am.
+
+Location:
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.081919670104981%2C44.94379858700239%2C6.109514236450196%2C44.95418606207096&amp;layer=mapnik&amp;marker=44.94899255951841%2C6.095716953277588" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=44.9490&amp;mlon=6.0957#map=16/44.9490/6.0957">View Larger Map</a></small>
 
