@@ -13,9 +13,20 @@ What is bivouac:
 - Not on the shores of the sea
 - Not within 200m of a water point intended for consumption
 
-# Bivouac in Belledonne
+What bivouac is not:
+- Bivouac is not camping. You can not leave your tent for more than 1 day at the same place
 
-> ✅ Bivouac with tent is allowed in Belledonne from 7pm to 9am.
+## Logos
+
+Here are the logo as shown on some parc signs.
+
+|Camping prohibed|Bivouac 19h-9h|Bivouac|
+|:-----:|:------------:|:-----:|
+|![Logo Camping](logo-camping.png)|![Logo bivouac 19h-9h](logo-bivouac-19-9.png)|![Logo Bivouac](logo-bivouac.png)|
+
+# Belledonne
+
+> ✅ Bivouac is allowed in Belledonne from 7pm to 9am.
 
 > 🔥 Fire is forbidden within 200m around forests. ⚠ See local restrictions.
 
@@ -28,7 +39,7 @@ What is bivouac:
 |Haut Bréda: Chalet du Bout; Espace Naturel Sensible du Praillet|❌|[📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf#page=11)|
 |Réserve Naturelle du Luitel|❌|[📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf#page=11)|
 
-## Bivouac La Pra
+## La Pra
 
 - 🟦 Blue area: forbidden during the whole year
 - 🟥 Red area: forbidden from July 14 to August 31
@@ -37,9 +48,9 @@ What is bivouac:
 
 Source: [📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf#page=11)
 
-# Bivouac in Chartreuse
+# Chartreuse
 
-> ✅ Bivouac with tent is allowed in Chartreuse from 7pm to 9am.
+> ✅ Bivouac is allowed in Chartreuse from 7pm to 9am.
 
 > ⚠ Some restrictions applies in the RNHC (Réserve Naturelle nationale des Hauts de Chartreuse), materialized in green in the following map.
 
@@ -51,23 +62,23 @@ Restrictions in RNHC:
 
 Source: [📄 2023 Memento RNHC](2023_Bivouac_Chartreuse_memento_RNHC.pdf)
 
-# Bivouac in Vercors
+# Vercors
 
-> ✅ Bivouac with tent is allowed in Vercors from 7pm to 9am.
+> ✅ Bivouac is allowed in Vercors from 7pm to 9am.
 
 > ❌ Bivouac is forbidden on top of Mont Aiguille.
 
 Source: [📄 2023-06 Bivouac Isere p24](2023-06_Bivouac_Isere.pdf#page=26)
 
-# Bivouac Ecrins
+# Ecrins
 
-> ✅ Bivouac with tent is allowed in Ecrins from 7pm to 9am.
+> ✅ Bivouac is allowed in Ecrins from 7pm to 9am.
 
-> ✅ Bivouac with tent is allowed in "Cœur du Parc national des Écrins" from 7pm to 9am.
+> ✅ Bivouac is allowed in "Cœur du Parc national des Écrins" from 7pm to 9am.
 > - Allowed after 1h of walking from road/parking or the limit of the "Cœur"
 > - Allowed before 1h but near refuges (list below)
 
-> 🔥 Fire is forbidden in "Cœur du Parc national des Écrins".
+> ❌🔥 Fire is forbidden in "Cœur du Parc national des Écrins".
 
 |Refuge|Allowed|Links|
 |------|-------|-----|
@@ -85,7 +96,7 @@ Source:
 
 ## Lac Lauvitel
 
-> ✅ Bivouac with tent is allowed only in 1 location from 7pm to 9am.
+> ✅ Bivouac is allowed only in 1 location from 7pm to 9am.
 
 Location:
 
@@ -97,7 +108,7 @@ Sources: [🌐 2023-08-11 Le Bivouac en Isère](https://www.isere-tourisme.com/i
 
 ## Lac de la Muzelle
 
-> ✅ Bivouac with tent is allowed only in 1 location from 7pm to 9am.
+> ✅ Bivouac is allowed only in 1 location from 7pm to 9am.
 
 Location:
 
@@ -109,7 +120,7 @@ Sources: [🌐 2023-08-11 Le Bivouac en Isère](https://www.isere-tourisme.com/i
 
 ## Taillefer: Plateau des Lacs
 
-> ✅ Bivouac with tent is allowed only in 2 locations from 7pm to 9am.
+> ✅ Bivouac is allowed only in 2 locations from 7pm to 9am.
 
 Locations:
 
@@ -119,13 +130,44 @@ Source: [📄 2023-04-13 Arrêté Emparis La Grave](2023-04-13_Bivouac_Arr%C3%AA
 
 ## Taillefer: Around Poursollet
 
-> ✅ Bivouac with tent is allowed near Le Poursollet from 7pm to 9am.
+> ✅ Bivouac is allowed near Le Poursollet from 7pm to 9am.
 
 Location:
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.897287130355835%2C45.048967143259546%2C5.911084413528443%2C45.05415159155345&amp;layer=mapnik&amp;marker=45.05155942615194%2C5.904185771942139" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=45.05156&amp;mlon=5.90419#map=17/45.05156/5.90419">View Larger Map</a></small>
 
 Source: [📄 2023-05-23 Arrêté Taillefer Livet Gavet](2023-05-23_Bivouac_Arr%C3%AAt%C3%A9_Taillefer_Livet_Gavet.pdf)
+
+# Beaufortain
+
+> ✅ Bivouac is allowed but some restrictions applies.
+
+> ❌🔥 Fire is forbidden.
+
+> ❌🏊‍♀️ Swimming in lakes and natural bodies of water is prohibited. Ok in stream/river.
+
+Restrictions for bivouac:
+
+- Bivouac is forbidden within 100m around any lake, reservoir, water bodies.
+
+Sources:
+- [🌐 Office de Tourisme d'Arêches Beaufort](https://www.areches-beaufort.com/la-montagne-respect/)
+- [📄 2023-04-31 Arrêté Beaufort](2023-04-31_Bivouac_Beaufortain.pdf)
+
+## Lac de Presset
+
+> ✅ Bivouac is allowed but only on 3 areas for free but need reservation
+
+> ❌🏊‍♀️ Swimming is forbidden (like the others lakes in Beaufortain).
+
+
+![Bivouac Lac de Presset](2021-camping-bivouac-lac-de-presset-massif-du-beaufortain-savoie.jpg)
+
+Locations:
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.66046142578125%2C45.647363358858414%2C6.668132543563844%2C45.65062586567171&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=18/45.64899/6.66430">View Larger Map</a></small>
+
+Source: [🌐 Bivouac au lac de Presset](https://www.refugedepresset.fr/fr/bivouac-au-lac-de-presset-beaufortain-savoie)
 
 # Vanoise
 
@@ -137,21 +179,73 @@ Source: [📄 2023-06 Bivouac Vanoise p4](2023-06_Bivouac_Vanoise.pdf#page=4)
 
 # Queyras
 
+> ✅ Bivouac is allowed but some restrictions applies.
+
 > 🔥 Fire is forbidden from Mars 15 to September 15 in Hautes-Alpes department
 
-Todo:
-- https://www.ecrins-parcnational.fr/dossier/belles-nuits-pleine-nature
-- https://www.pnr-queyras.fr/bivouac-rnn/
+Bivouac restrictions:
+- Bivouac is allowed after 1h of walk from villages/hamlets
+- Tents must be set up after 6pm and taken down before 9am
+- The discharge of dishwater and toilet water must be done more than 20 meters from lakes, streams, and wetlands
+- Vallon de Bouchouse: see below section
+- Ristolas-Mont-Viso: see below section
 
-Sources:
-- [🌐 2023-08-09 Bivouac Queyras](https://www.pnr-queyras.fr/bivouac/)
+Source: [🌐 2023-08-09 Bivouac Queyras](https://www.pnr-queyras.fr/bivouac/)
+
+## Vallon de Bouchouse
+
+> ✅ Bivouac is allowed except around the lakes
+
+Below image shows:
+- <span style="color:lightblue">■</span> lakes
+- <span style="color:blue">■</span> areas where access is forbidden
+
+![Bivouac Vallon de Bouchouse](<2005 Vallon de Bouchouse.png>)
+
+Source:
+- [🌐 Le Vallon des Lacs et le Col Agnel](https://www.pnr-queyras.fr/le-vallon-des-lacs-et-le-col-agnel/)
+- [📄 2017-10 Brochure Bouchouse](2017-10_Brochure_Bouchouse.pdf)
+
+## Ristolas-Mont-Viso
+
+> ✅ Bivouac is allowed but some restrictions applies.
+
+Bivouac restrictions:
+- Bivouac is allowed between 6pm and 9am
+- Bivouac is allowed within less than 20m from the authorized marked trails
+- Bivouac is allowed after 1h of walk from the hamlet of l’Echalp
+- Bivouac is forbidden inside the prohibited areas marked on the ground
+- Bivouac is forbidden within a radius of 20m around the shores of lakes
+- Bivouac is forbidden within a radius of 500m around the Refuge du Viso
+- Bivouac is forbidden in areas used by livestock
+
+Source:
+- [🌐 2023 Réglementation du bivouac dans la réserve naturelle](https://www.pnr-queyras.fr/bivouac-rnn/)
+- [📄 2023-05-15 Arrêté préfectoral Ristolas-Mont-Viso](2023-05-15_Bivouac_Ristolas-Mont-Viso.pdf)
+- [📄 2023-06 Panneau Bivouac Ristolas-Mont-Viso](2023-06_Panneau_bivouac_Ristolas-Mont-Viso.jpg)
+
+# Mercantour
+
+> ✅ Bivouac is allowed after 1h of walk after area "Coeur du parc" and after 1h of walk from any road
+
+TODO:
+- Read https://www.mercantour-parcnational.fr/fr/le-parc-national-du-mercantour/la-reglementation
+
+Source: [🌐 2023 Réglementation du bivouac dans la réserve naturelle](https://www.mercantour-parcnational.fr/fr/le-parc-national-du-mercantour/la-reglementation)
+
+
 
 # Todo 
 
-- Beaufortain
-- Mercantour
-- Verdon
-- https://www.pnr-queyras.fr/ecmedias/2023/06/AP_bivouac_15-05-2023.pdf
+Read: https://www.randonner-malin.com/bivouacs-et-camping-sauvage-en-france/
+- Parc national des Pyrénées http://www.pyrenees-parcnational.fr/fr/le-parc-national-des-pyrenees/la-reglementation
+- Parc national de Port-Cros http://www.portcros-parcnational.fr/fr/le-parc-national-de-port-cros/la-reglementation/reglementation-terre
+- Parc national des Cévennes http://www.cevennes-parcnational.fr/fr/les-regles-pour-tous
+- Parc national des Calanques
+- Parc national de forêts
+
+Other articles to read/find:
+- Verdon ?
 - https://www.savoie.gouv.fr/contenu/telechargement/25002/192642/file/Arr%C3%AAt%C3%A9+interd%C3%A9partemental+reconduction+RNCFS+-+Version_juillet2018.pdf
 - https://www.lecampingsauvage.fr/legislation-et-reglementation/camping-sauvage-bivouac
 - https://www.ecrins-parcnational.fr/sites/ecrins-parcnational.com/files/fiche_doc/16338/gte-cartepratique2017web.pdf
