@@ -150,9 +150,16 @@ Restrictions for bivouac:
 
 - Bivouac is forbidden within 100m around any lake, reservoir, water bodies.
 
+| Lac d'Amour | Lac des Fées | Lac de Saint-Guérin |
+|:-----------:|:------------:|:-------------------:|
+|![Lac d'Amour](20230906-Bivouac-Lac-dAmour.jpg)|![Lac des Fées](20230906-Bivouac-Lac-des-Fees.jpg)|![Lac de Saint-Guérin](20230907-Bivouac-Lac-Saint-Guerin.jpg)|
+
 Sources:
 - [🌐 Office de Tourisme d'Arêches Beaufort](https://www.areches-beaufort.com/la-montagne-respect/)
 - [📄 2023-04-31 Arrêté Beaufort](2023-04-31_Bivouac_Beaufortain.pdf)
+- [📷️ Sign Lac d'Amour](20230907-Bivouac-Lac-Saint-Guerin.jpg)
+- [📷️ Sign Lac des Fées](20230906-Panneau-Lac-des-Fees.jpg)
+- [📷️ Sign Lac de Saint-Guérin](20230907-Panneau-Lac-Saint-Guerin.jpg)
 
 ## Lac de Presset
 
