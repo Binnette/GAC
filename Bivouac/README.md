@@ -3,7 +3,7 @@
 What is bivouac:
 
 - Sleeping in tent ⛺
-- Only 1 nigth 🌙
+- Only 1 night 🌙
 - Planting the tent after 7pm
 - Removing the tent before 9am
 - Not on public roads
@@ -20,7 +20,7 @@ What bivouac is not:
 
 Here are the logo as shown on some parc signs.
 
-|Camping prohibed|Bivouac 19h-9h|Bivouac|
+|Camping prohibited|Bivouac 19h-9h|Bivouac|
 |:-----:|:------------:|:-----:|
 |![Logo Camping](logo-camping.png)|![Logo bivouac 19h-9h](logo-bivouac-19-9.png)|![Logo Bivouac](logo-bivouac.png)|
 
@@ -68,11 +68,11 @@ Source: [📄 2023 Memento RNHC](2023_Bivouac_Chartreuse_memento_RNHC.pdf)
 
 > ❌ Bivouac is forbidden on top of Mont Aiguille.
 
-Source: [📄 2023-06 Bivouac Isere p24](2023-06_Bivouac_Isere.pdf#page=26)
+Source: [📄 2023-06 Bivouac Isère p24](2023-06_Bivouac_Isere.pdf#page=26)
 
-# Ecrins
+# Écrins
 
-> ✅ Bivouac is allowed in Ecrins from 7pm to 9am.
+> ✅ Bivouac is allowed in Écrins from 7pm to 9am.
 
 > ✅ Bivouac is allowed in "Cœur du Parc national des Écrins" from 7pm to 9am.
 > - Allowed after 1h of walking from road/parking or the limit of the "Cœur"
@@ -82,17 +82,17 @@ Source: [📄 2023-06 Bivouac Isere p24](2023-06_Bivouac_Isere.pdf#page=26)
 
 |Refuge|Allowed|Links|
 |------|-------|-----|
-|Champoléon: Pré de la Chaumette|✅ Free of charge|[📄 2014-06-01 Arrêté Cœur Ecrins](2014-06-01_Bivouac_Arr%C3%AAt%C3%A9_Coeur_Ecrins.pdf)|
+|Champoléon: Pré de la Chaumette|✅ Free of charge|[📄 2014-06-01 Arrêté Cœur Écrins](2014-06-01_Bivouac_Arr%C3%AAt%C3%A9_Coeur_Ecrins.pdf)|
 
 |Place|Allowed|Links|
 |-----|-------|-----|
 |Plateau d'Emparis|✅|[📄 2023-01-13 Arrêté Emparis La Grave](2023-04-13_Bivouac_Arr%C3%AAt%C3%A9_Emparis_La_Grave.pdf)|
-|Lac de la Muzelle|✅|See below section|
-|Lac Lauvitel|✅|See below section|
+|Lac de la Muzelle|✅❕|See below section|
+|Lac Lauvitel|✅❕|See below section|
 
 Source:
-- [🌐 2023-06-21 Ecrins règles été](https://www.ecrins-parcnational.fr/breve/plateaux-emparis-taillefer-nouvelles-regles-ete)
-- [🌐 2023-06-21 Belles nuits en Ecrins](https://www.ecrins-parcnational.fr/dossier/belles-nuits-pleine-nature)
+- [🌐 2023-06-21 Écrins règles été](https://www.ecrins-parcnational.fr/breve/plateaux-emparis-taillefer-nouvelles-regles-ete)
+- [🌐 2023-06-21 Belles nuits en Écrins](https://www.ecrins-parcnational.fr/dossier/belles-nuits-pleine-nature)
 
 ## Lac Lauvitel
 
@@ -137,6 +137,29 @@ Location:
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.897287130355835%2C45.048967143259546%2C5.911084413528443%2C45.05415159155345&amp;layer=mapnik&amp;marker=45.05155942615194%2C5.904185771942139" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=45.05156&amp;mlon=5.90419#map=17/45.05156/5.90419">View Larger Map</a></small>
 
 Source: [📄 2023-05-23 Arrêté Taillefer Livet Gavet](2023-05-23_Bivouac_Arr%C3%AAt%C3%A9_Taillefer_Livet_Gavet.pdf)
+
+# Dévoluy
+
+> ✅ Bivouac is allowed but some restrictions applies.
+
+Bivouac restrictions:
+- Bivouac is forbidden on "Plateau de Bure" (see below).
+
+## Plateau de Bure
+
+> ❌ Bivouac is forbidden on "Plateau de Bure".
+
+> ❌🔥 Fire is forbidden.
+
+The area "Plateau de Bure" in 🟥 below:
+
+![Plateau de Bure](2011_APPB_Plateau_de_Bure.jpg)
+
+Sources:
+- [🌐 2023-08-28 Le Dévoluy - Espaces partagés et protégés](https://www.ledevoluy.com/ete/espaces-partages-et-proteges/)
+- [📄 2011-07-26 Arrêté Plateau de Bure](2011-07-26_Arr%C3%AAt%C3%A9_Plateau_de_Bure.pdf)
+- [📄 2022-10 Arrêté Plateau de Bure](2022-10_Arr%C3%AAt%C3%A9_Plateau_de_Bure.pdf)
+- [📷️ Sign on Plateau de Bure](20231001_Panneau_Plateau_de_Bure.jpg)
 
 # Beaufortain
 
@@ -233,7 +256,7 @@ Source:
 
 # Mercantour
 
-> ✅ Bivouac is allowed after 1h of walk after area "Coeur du parc" and after 1h of walk from any road
+> ✅ Bivouac is allowed after 1h of walk after area "Cœur du parc" and after 1h of walk from any road
 
 TODO:
 - Read https://www.mercantour-parcnational.fr/fr/le-parc-national-du-mercantour/la-reglementation
