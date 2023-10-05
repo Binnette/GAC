@@ -137,7 +137,7 @@ Locations:
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.932456254959107%2C45.05365860523198%2C5.946253538131715%2C45.058842628252876&amp;layer=mapnik&amp;marker=45.05625067548783%2C5.93935489654541" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=45.05625&amp;mlon=5.93935#map=17/45.05625/5.93935">View Larger Map</a></small>
 
-Source: [📄 2023-04-13 Arrêté Emparis La Grave](2023-04-13_Bivouac_Arr%C3%AAt%C3%A9_Emparis_La_Grave.pdf)
+Source: [📄 2023 Bivouac Arrêté Taillefer Ornon](2023_Bivouac_Arr%C3%AAt%C3%A9_Taillefer_Ornon.pdf)
 
 ## Taillefer: Around Poursollet
 
