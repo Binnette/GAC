@@ -94,6 +94,17 @@ Source:
 - [🌐 2023-06-21 Écrins règles été](https://www.ecrins-parcnational.fr/breve/plateaux-emparis-taillefer-nouvelles-regles-ete)
 - [🌐 2023-06-21 Belles nuits en Écrins](https://www.ecrins-parcnational.fr/dossier/belles-nuits-pleine-nature)
 
+## Plateau d'Emparis
+
+> ✅ Bivouac is allowed from 7pm to 9am.
+
+> ❌🔥 Fire is forbidden.
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/massifs-et-plateaux_969457?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe>
+<a href="//umap.openstreetmap.fr/en/map/massifs-et-plateaux_969457?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true">See full screen</a>
+
+Source: [📄 2023-04-13 Arrêté Emparis La Grave](2023-04-13_Bivouac_Arr%C3%AAt%C3%A9_Emparis_La_Grave.pdf)
+
 ## Lac Lauvitel
 
 > ✅ Bivouac is allowed only in 1 location from 7pm to 9am.
