@@ -218,6 +218,24 @@ Source: [🌐 Bivouac au lac de Presset](https://www.refugedepresset.fr/fr/bivou
 
 Source: [📄 2023-06 Bivouac Vanoise p4](2023-06_Bivouac_Vanoise.pdf#page=4)
 
+# Vallée de la Clarée / Névache
+
+> ✅ Bivouac is allowed from 7pm to 9am with but some restrictions.
+
+> 🔥 Fire is forbidden, even gas stove!
+
+Bivouac restrictions:
+- Bivouac is allowed after 1h of walk from villages/hamlets/road access
+- Bivouac is forbidden within 500 meters around [Refuge des Drayères](https://osm.org/go/0CCJUcu6V-?m=)
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/vallee-de-la-claree_969973?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe>
+<a href="//umap.openstreetmap.fr/en/map/vallee-de-la-claree_969973?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true">See full screen</a>
+
+Sources: 
+- [🌐 2023 La Clarée - Infos pratiques](https://www.claree-tourisme.fr/la-claree/sur-place/infos-pratiques/)
+- [🌐 2023-07-17 Réglementation Camping Bivouac Feu](https://www.nevache.fr/2023/07/17/reglementation-camping-bivouac-feux/)
+- [📄 2023-06-15 Arrêté Bivouac Névache](2023-06-15_Arr%C3%AAt%C3%A9_Bivouac_N%C3%A9vache.pdf)
+
 # Queyras
 
 > ✅ Bivouac is allowed but some restrictions applies.
