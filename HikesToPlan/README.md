@@ -27,6 +27,7 @@ A list of hike to do/re-do with the GAC
 | 🔴 Le Lac Lautier | 16.4 | 1435 | [Topo](https://brouter.de/brouter-web/#map=15/44.8364/6.1501/1069&lonlats=6.141357,44.82492;6.166763,44.842462;6.146593,44.845102;6.139984,44.825407&profile=hiking-mountain) |
 | 🔴 Tête des vautes 2188m | 14.6 | 1386 | [Topo](https://brouter.de/brouter-web/#map=15/44.7061/5.7863/1069&lonlats=5.767715,44.714416;5.759368,44.706091;5.813828,44.70362;5.768369,44.714073&profile=hiking-mountain) |
 | 🔴 Lac de l'Eychauda | 16.2 | 1133 | [Topo](https://brouter.de/brouter-web/#map=14/44.9237/6.5032/1069&lonlats=6.492877,44.901551;6.477814,44.938192;6.508112,44.931389;6.493134,44.901514) |
+| 🔴 Pic du mas de la Grave | 20 | 1358 | [Topo](https://brouter.de/brouter-web/#map=13/45.0915/6.2656/1069&lonlats=6.283874,45.054816;6.24618,45.120507;6.271482,45.07449;6.283914,45.054864&profile=hiking-mountain) |
 
 
 ## Ideas

@@ -2,7 +2,8 @@
 
 What is bivouac:
 
-- Sleeping in tent ⛺
+- Sleeping in tent ⛺ or under the stars 🌠
+- With a tent that does not allow standing
 - Only 1 night 🌙
 - Planting the tent after 7pm
 - Removing the tent before 9am
@@ -48,7 +49,7 @@ Here are the logo as shown on some parc signs.
 
 Source: [📄 Belledone p21](2023-07_Bivouac_Belledonne.pdf#page=11)
 
-# Chartreuse
+# PNR Chartreuse
 
 > ✅ Bivouac is allowed in Chartreuse from 7pm to 9am.
 
@@ -62,15 +63,17 @@ Restrictions in RNHC:
 
 Source: [📄 2023 Memento RNHC](2023_Bivouac_Chartreuse_memento_RNHC.pdf)
 
-# Vercors
+# PNR Vercors
 
-> ✅ Bivouac is allowed in Vercors from 7pm to 9am.
+> ✅ Bivouac is allowed in Vercors from 5pm to 9am.
 
 > ❌ Bivouac is forbidden on top of Mont Aiguille.
 
-Source: [📄 2023-06 Bivouac Isère p24](2023-06_Bivouac_Isere.pdf#page=26)
+Source:
+- [📄 2023-06 Bivouac Isère p24](2023-06_Bivouac_Isere.pdf#page=26)
+- [🌐 2020-06-03 FF Rando - Bivouac dans le Vercors](https://www.ffrandonnee.fr/s-informer/actualites/le-bivouac-dans-le-vercors)
 
-# Écrins
+# Parc national des Écrins
 
 > ✅ Bivouac is allowed in Écrins from 7pm to 9am.
 
@@ -111,7 +114,7 @@ Source: [📄 2023-04-13 Arrêté Emparis La Grave](2023-04-13_Bivouac_Arr%C3%AA
 
 Location:
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.0562992095947275%2C44.96784938840356%2C6.083893775939941%2C44.97823251040234&amp;layer=mapnik&amp;marker=44.97304118438496%2C6.070096492767334" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=44.9730&amp;mlon=6.0701#map=16/44.9730/6.0701">View Larger Map</a></small>
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.0562992095947275%2C44.96784938840356%2C6.083893775939941%2C44.97823251040234&amp;layer=mapnik&amp;marker=44.97304118438496%2C6.070096492767334" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=44.9730&amp;mlon=6.0701#map=16/44.9730/6.0701">View Larger Map</a></small>
 
 ![Bivouac Lauvitel](2023-plan-autorisation-bivouac-lac-lauvitel-ecrins-isere.jpg)
 
@@ -123,7 +126,7 @@ Sources: [🌐 2023-08-11 Le Bivouac en Isère](https://www.isere-tourisme.com/i
 
 Location:
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.081919670104981%2C44.94379858700239%2C6.109514236450196%2C44.95418606207096&amp;layer=mapnik&amp;marker=44.94899255951841%2C6.095716953277588" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=44.9490&amp;mlon=6.0957#map=16/44.9490/6.0957">View Larger Map</a></small>
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.081919670104981%2C44.94379858700239%2C6.109514236450196%2C44.95418606207096&amp;layer=mapnik&amp;marker=44.94899255951841%2C6.095716953277588" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=44.9490&amp;mlon=6.0957#map=16/44.9490/6.0957">View Larger Map</a></small>
 
 ![Bivouac Muzelle](2023-plan-autorisation-bivouac-lac-muzelle-ecrins-isere.jpg)
 
@@ -135,7 +138,7 @@ Sources: [🌐 2023-08-11 Le Bivouac en Isère](https://www.isere-tourisme.com/i
 
 Locations:
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.932456254959107%2C45.05365860523198%2C5.946253538131715%2C45.058842628252876&amp;layer=mapnik&amp;marker=45.05625067548783%2C5.93935489654541" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=45.05625&amp;mlon=5.93935#map=17/45.05625/5.93935">View Larger Map</a></small>
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.932456254959107%2C45.05365860523198%2C5.946253538131715%2C45.058842628252876&amp;layer=mapnik&amp;marker=45.05625067548783%2C5.93935489654541" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=45.05625&amp;mlon=5.93935#map=17/45.05625/5.93935">View Larger Map</a></small>
 
 Source: [📄 2023 Bivouac Arrêté Taillefer Ornon](2023_Bivouac_Arr%C3%AAt%C3%A9_Taillefer_Ornon.pdf)
 
@@ -145,7 +148,7 @@ Source: [📄 2023 Bivouac Arrêté Taillefer Ornon](2023_Bivouac_Arr%C3%AAt%C3%
 
 Location:
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.897287130355835%2C45.048967143259546%2C5.911084413528443%2C45.05415159155345&amp;layer=mapnik&amp;marker=45.05155942615194%2C5.904185771942139" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=45.05156&amp;mlon=5.90419#map=17/45.05156/5.90419">View Larger Map</a></small>
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=5.897287130355835%2C45.048967143259546%2C5.911084413528443%2C45.05415159155345&amp;layer=mapnik&amp;marker=45.05155942615194%2C5.904185771942139" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=45.05156&amp;mlon=5.90419#map=17/45.05156/5.90419">View Larger Map</a></small>
 
 Source: [📄 2023-05-23 Arrêté Taillefer Livet Gavet](2023-05-23_Bivouac_Arr%C3%AAt%C3%A9_Taillefer_Livet_Gavet.pdf)
 
@@ -206,11 +209,23 @@ Sources:
 
 Locations:
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.66046142578125%2C45.647363358858414%2C6.668132543563844%2C45.65062586567171&amp;layer=mapnik" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/#map=18/45.64899/6.66430">View Larger Map</a></small>
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.66046142578125%2C45.647363358858414%2C6.668132543563844%2C45.65062586567171&amp;layer=mapnik" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/#map=18/45.64899/6.66430">View Larger Map</a></small>
 
 Source: [🌐 Bivouac au lac de Presset](https://www.refugedepresset.fr/fr/bivouac-au-lac-de-presset-beaufortain-savoie)
 
-# Vanoise
+# PNR Bauges
+
+> ✅ Bivouac is allowed in Bauges from 7pm to 9am.
+
+> ❌ Bivouac is forbidden in Réserve Nationale de Chasse et de Faune Sauvage (RNCFS).
+
+Réserve Nationale de Chasse et de Faune Sauvage (RNCFS) on a [map](https://www.openstreetmap.org/relation/1151635)
+
+Sources:
+- [🌐 2023-06-23 Réserve Nationale de Chasse et de Faune Sauvage (RNCFS)](https://parcdesbauges.com/reserve-nationale-de-chasse-et-de-faune-sauvage-rncfs/)
+- [📄 2018-08-31 Arrêté Bivouac RNCFS Bauges](2018-08-31_Arr%C3%AAt%C3%A9_Bivouac_RNCFS_Bauges.pdf)
+
+# Parc National de la Vanoise
 
 > ❌ "Free" bivouac is forbidden
 
@@ -285,26 +300,95 @@ Source:
 
 # Mercantour
 
-> ✅ Bivouac is allowed after 1h of walk after area "Cœur du parc" and after 1h of walk from any road
+> ✅ Bivouac is allowed from 7pm to 9am
+> - After 1h of walk after area "Cœur du parc"
+> - After 1h of walk from any road
 
-TODO:
-- Read https://www.mercantour-parcnational.fr/fr/le-parc-national-du-mercantour/la-reglementation
+> ❌ Bivouac is forbidden in the area "Zone réglementée des Merveilles"
+> - Except in the bivouac Area near Refuge des Merveilles.
+> - Except in the bivouac Area near Refuge des Merveilles.
 
-Source: [🌐 2023 Réglementation du bivouac dans la réserve naturelle](https://www.mercantour-parcnational.fr/fr/le-parc-national-du-mercantour/la-reglementation)
+Zone réglementée des Merveilles on a [map](https://www.openstreetmap.org/way/291944129)
 
+| Bivouac Refuge des Merveilles | Bivouac Refuge de Fontanalbe |
+| ----------------------------- | ---------------------------- |
+| <iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=7.449626326560975%2C44.054932231450536%2C7.456707358360291%2C44.05840186821443&amp;layer=mapnik&amp;marker=44.056667075245265%2C7.453166842460632" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=44.05667&amp;mlon=7.45317#map=18/44.05667/7.45317">View Larger Map</a></small> |  <iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=7.473750114440919%2C44.084001500914745%2C7.487912178039552%2C44.09093716373162&amp;layer=mapnik&amp;marker=44.08746943397783%2C7.480831146240234" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=44.08747&amp;mlon=7.48083#map=17/44.08747/7.48083">View Larger Map</a></small> |
 
+Source:
+- [🌐 2023 Réglementation du bivouac dans la réserve naturelle](https://www.mercantour-parcnational.fr/fr/le-parc-national-du-mercantour/la-reglementation)
+- [📄 2018 Arrêté Bivouac Mercantour](2018_Arr%C3%AAt%C3%A9_Bivouac_Mercantour.pdf)
 
-# Todo 
+# Cévennes
 
-Read: https://www.randonner-malin.com/bivouacs-et-camping-sauvage-en-france/
-- Parc national des Pyrénées http://www.pyrenees-parcnational.fr/fr/le-parc-national-des-pyrenees/la-reglementation
-- Parc national de Port-Cros http://www.portcros-parcnational.fr/fr/le-parc-national-de-port-cros/la-reglementation/reglementation-terre
-- Parc national des Cévennes http://www.cevennes-parcnational.fr/fr/les-regles-pour-tous
-- Parc national des Calanques
-- Parc national de forêts
+> ✅ Bivouac is allowed in Cévennes from 7pm to 9am.
 
-Other articles to read/find:
-- Verdon ?
-- https://www.savoie.gouv.fr/contenu/telechargement/25002/192642/file/Arr%C3%AAt%C3%A9+interd%C3%A9partemental+reconduction+RNCFS+-+Version_juillet2018.pdf
-- https://www.lecampingsauvage.fr/legislation-et-reglementation/camping-sauvage-bivouac
-- https://www.ecrins-parcnational.fr/sites/ecrins-parcnational.com/files/fiche_doc/16338/gte-cartepratique2017web.pdf
+> ✅ Bivouac is allowed in "Cœur du Parc national des Cévennes" from 7pm to 9am.
+> - Allowed only for non-motorized hikers
+> - Allowed along the marked trails of long-distance hiking routes (GR and GRP) (see exceptions below)
+> - Allowed within 50 meters on either side of the long-distance hiking trail (GR and GRP)
+
+Exception in "Cœur du Parc national des Cévennes":
+
+| GR | Place | Bivouac | Detail/Map |
+| -- | ----- | ------- | ---------- | 
+| 66/71 | Portion sur le secteur du Lac des Pises | ❌ | [Image](https://www.cevennes-parcnational.fr/sites/cevennes-parcnational.fr/files/2023-06/reglementation_bivouac_gr_lacdespises.jpg) |
+| 60/6b/7/66 | Portion sur le secteur du sommet de l'Aigoual | ❌ | [Image](https://www.cevennes-parcnational.fr/sites/cevennes-parcnational.fr/files/2023-06/reglementation_bivouac_gr_sommetdelaigoual.jpg) |
+| 7/72 | Portion sur Pont du Tarn | ❌ | [Image](https://www.cevennes-parcnational.fr/sites/cevennes-parcnational.fr/files/2023-06/reglementation_bivouac_gr7gr72_pontdutarn.jpg) |
+| 70 | Portion sur le secteur de Finiels | ❌ | [Image](https://www.cevennes-parcnational.fr/sites/cevennes-parcnational.fr/files/2023-06/reglementation_bivouac_gr70_sommetdefiniels.jpg) |
+| 71 | Portion sur le secteur de Saint-Guiral | ❌ | [Image](https://www.cevennes-parcnational.fr/sites/cevennes-parcnational.fr/files/2023-06/reglementation_bivouac_gr71_stguiral.jpg) |
+| GRP tour du Méjean | Secteur Mercoire | ❌ | [Image](https://www.cevennes-parcnational.fr/sites/cevennes-parcnational.fr/files/2023-06/reglementation_bivouac_grp_tourdumejean.jpg) |
+| 72 | Portion interdite au bivouac entre Bellecoste et Mas Camargues | ❌ | [Image](https://www.cevennes-parcnational.fr/sites/cevennes-parcnational.fr/files/2023-06/reglementation_bivouac_gr72_mascamarguesbellecoste.jpg) |
+| GRP tour du Méjean | Saint Pierre des Tripiers | ❌ | [Image](https://www.cevennes-parcnational.fr/sites/cevennes-parcnational.fr/files/2023-06/reglementation_bivouac_grp_stpierredestripiers.jpg) |
+| GRP tour du Méjean | Deïdou - Villeneuve | ❌ | [Image](https://www.cevennes-parcnational.fr/sites/cevennes-parcnational.fr/files/2023-06/reglementation_bivouac_grp_villeneuvedeidou.jpg) |
+| GRP tour du Méjean | Aures - Pauparelle | ❌ | [Image](https://www.cevennes-parcnational.fr/sites/cevennes-parcnational.fr/files/2023-06/reglementation_bivouac_grp_aurespauparelle.jpg) |
+
+Sources:
+- [🌐 2022-08-02 Régles Parc National des Cévennes](https://www.cevennes-parcnational.fr/fr/le-parc-national-des-cevennes/la-reglementation-du-coeur/les-regles-pour-tous)
+- [📄 2014-01-20 Arrêté Bivouac Cévennes](2014-01-20_Arr%C3%AAt%C3%A9_Bivouac_C%C3%A9vennes.pdf)
+
+# PNR du Verdon
+
+> ✅ Bivouac is allowed in Verdon from 7pm to 9am.
+
+> ❌ Bivouac is forbidden near lakes and in the gorges.
+
+Source: [PNR du Verdon - Réglementation](https://www.parcduverdon.fr/fr/conseils-des-ecogardes/rappel-de-la-reglementation-par-type-de-milieu)
+
+# Pyrénées
+
+> ✅ Bivouac is allowed in Pyrénées from 7pm to 9am.
+
+> ✅ Bivouac is allowed in "Cœur du Parc national des Pyrénées" from 7pm to 9am.
+> - Allowed after 1h of walking from road/parking or the limit of the "Cœur".
+> - Allowed before 1h but near somes refuges.
+
+Cœur du Parc national des Pyrénées on a [map](https://www.openstreetmap.org/relation/1024513).²
+
+Sources:
+- [🌐 2023-10 Campement et bivouac - Parc national des Pyrénées](https://www.pyrenees-parcnational.fr/fr/le-parc-national-des-pyrenees/la-reglementation/campement-et-bivouac)
+- [📄 2023-08-29 Arrêté Bivouac Pyrénées](2023-08-29_Arr%C3%AAt%C3%A9_Bivouac_Pyr%C3%A9n%C3%A9es.pdf)
+
+# Parc national de forêts
+
+> ✅ Bivouac is allowed from 7pm to 9am.
+> - Allowed for non-motorized hikers
+> - Allowed near roads and trails.
+
+# Others
+
+| Name | Bivouac | Fire | Source |
+| ---- | ------- | ---- | ------ |
+| Port-Cros/Porquerolles | ❌ | ❌ | [Source](https://www.portcros-parcnational.fr/fr/le-parc-national-de-port-cros/la-reglementation/reglementation-terre) |
+| Cap Lardier et de la Presqu'île de Giens | ❌ | ❌ | [Source](https://www.portcros-parcnational.fr/fr/le-parc-national-de-port-cros/la-reglementation/reglementation-terre) |
+| Parc national des Calanques | ❌ | ❌ | [Source](https://www.calanques-parcnational.fr/fr/actualites/camping-sauvage-et-bivouac-rappel-des-reglementations-et-des-bons-gestes) |
+| PNR Baronnies provençales | ✅ 7pm-9am | ❌ | [Source](https://www.baronnies-provencales.fr/actualite/des-montagnes-a-partager-bivouac-sans-couac/) |
+
+# Read More
+
+- [Altituderando - Bivouac](https://www.altituderando.com/Bivouac-autorise-ou-non-ou-planter-sa-tente-en-montagne)
+- [Randonner Malin - Bivouac et camping sauvage](https://www.randonner-malin.com/bivouacs-et-camping-sauvage-en-france/)
+- [La Camping Sauvage - Réglementation bivouac et camping sauvage](https://www.lecampingsauvage.fr/legislation-et-reglementation/camping-sauvage-bivouac)
+
+# Todo
+
+- Phone Tourism Office of Clarée to be sure is even gas stove are forbidden 04 92 20 02 20
