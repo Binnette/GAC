@@ -261,7 +261,7 @@ def generetateAllUmap():
     print("Stats :")
     for s in stats:
         print(f' - {s} = {stats[s]}')
-    print(f' # Total = {total}')
+    print(f' # Total (without canceled) = {total}')
 
     layers = getLayersFromFeatures(features);
     for l in layers:

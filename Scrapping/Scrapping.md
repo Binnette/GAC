@@ -4,22 +4,23 @@
 
 ```js
 var events = [];
-document.querySelectorAll(".eventList-list .eventCard").forEach(eventElement => {
+document.querySelectorAll("ul.w-full > li").forEach(eventElement => {
   var timestamp = Number(eventElement.querySelector("time").getAttribute("datetime"));
   var date = new Date(timestamp);
   var dateString = `'${date.toISOString().slice(0, 10)}`;
   var suffix = "", km = "", dplus = "", ele = "", comment = "", attendees = "";
-  var attendeesSection = eventElement.querySelector(".avatarRow--attendingCount");
+  var attendeesSection = eventElement.querySelector(".items-center span.sm:inline");
   if (attendeesSection) {
     attendees = Number(attendeesSection.innerText.split(" ")[0]);
   }
-  var titleElement = eventElement.querySelector(".eventCardHead--title");
+  var titleElement = eventElement.querySelector(".ds-font-title-3");
   var title = titleElement.innerText.replaceAll('"', "'");
   var type = '';
   if (title.includes('🎿')){
     type = 'Ski';
-  }
-  if (title.includes('🥾') || title.toLowerCase().includes('hike')) {
+  } else if (title.includes('🧗')){
+    type = 'Via';
+  } else if (title.includes('🥾') || title.toLowerCase().includes('hike')) {
     type = 'Hike';
   }
   var url = eventElement.querySelector("a").href;
