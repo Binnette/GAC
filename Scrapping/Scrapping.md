@@ -9,7 +9,7 @@ document.querySelectorAll("ul.w-full > li").forEach(eventElement => {
   var date = new Date(timestamp);
   var dateString = `'${date.toISOString().slice(0, 10)}`;
   var suffix = "", km = "", dplus = "", ele = "", comment = "", attendees = "";
-  var attendeesSection = eventElement.querySelector(".items-center span.sm:inline");
+  var attendeesSection = eventElement.querySelector(".items-center span.hidden");
   if (attendeesSection) {
     attendees = Number(attendeesSection.innerText.split(" ")[0]);
   }
