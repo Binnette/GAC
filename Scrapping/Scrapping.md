@@ -43,11 +43,11 @@ events.join('\n');
 ## Telegram screenshot
 
 ```js
-document.querySelector("[data-testid=organizer-panel-button]").parentNode.parentNode.parentNode.remove();
-document.querySelectorAll("[data-event-label=event-group]").forEach(e => console.log(e.parentNode.parentNode.remove()));
-document.querySelector("[data-event-label=event-map]").parentNode.remove();
-document.querySelector("[data-event-label=event-chat]").parentNode.parentNode.remove();
-document.querySelector("[data-testid=add-to-calendar]").remove();
+document.querySelector("[data-testid=organizer-panel-button]").parentNode.parentNode.parentNode.remove(); // Organizer tools
+document.querySelectorAll("[data-event-label=event-group]").forEach(e => e.parentNode.parentNode.remove()); // GAC
+document.querySelector("[data-event-label=event-map]").parentNode.remove(); // Map
+document.querySelector("[data-testid=add-to-calendar]").remove(); // Calendar
+document.querySelector("[data-event-label=action-bar]").remove(); // action-bar
 ```
 
 ## Scrapping photos
