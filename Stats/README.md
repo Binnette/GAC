@@ -2,6 +2,19 @@
 
 GAC was created on 2020-06-22
 
+## 2024-02-05
+
+As of 2024-02-05:
+
+- We organized 278 events! (hikes, via, BBQ, ...)
+- We've done 2 586 km of hikes! 😎
+  - Flight distance between Grenoble and Vik (Iceland)
+  - Flight distance between Grenoble and Moscow (Russia)
+  - Flight distance between Grenoble and Mersin (Turkey)
+  - Flight distance between Grenoble and Tamanrasset (Algeria)
+- We've done hike for a total of 162 000 meters of elevation
+- We've done events for a total of 3 275 participations
+
 ## 2023-08-26
 
 As of 2023-08-26:

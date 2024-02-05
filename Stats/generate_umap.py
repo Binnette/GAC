@@ -9,7 +9,17 @@ import requests
 from urllib.parse import quote
 
 csvFilename = '9igf-gac.csv'
-errors = 0; total = 0; stats = {}; prevHike = ''
+prevHike = '';
+stats = {
+    'types': {},
+    'errors': 0,
+    'total': 0,
+    'km': 0,
+    'dplus': 0,
+    'people': 0,
+    'kmpp': 0
+};
+
 colors = {
     '2020': '#1766B5',
     '2021': '#504488',
@@ -18,6 +28,12 @@ colors = {
     '2024': '#FF7800'
 }
 albumRoot = 'https://binnette.github.io/GacImg'
+
+def parseFloat(s):
+  try:
+    return float(s)
+  except ValueError:
+    return 0.0
 
 def dumpUmapByLayers(filename, layers, name, description):
     data = {
@@ -69,7 +85,7 @@ def dumpUmapByLayers(filename, layers, name, description):
 
 #Date,Suffix,KM,Dplus,Top,People,Name,Type,Comment,EventLink,TrailShortLink,TrailFullLink,Trail1,Trail2
 def parseFeatureFromCsvRow(row):
-    global errors, prevHike, stats, total
+    global prevHike, stats
 
     date = row['Date']
     date_object = datetime.strptime(date, "%Y-%m-%d")
@@ -87,12 +103,16 @@ def parseFeatureFromCsvRow(row):
     album = row['Album']
 
     if type.lower() != 'cancelled':
-        total += 1
+        stats['total'] += 1
+        stats['km'] += parseFloat(km)
+        stats['dplus'] += parseFloat(dplus)
+        stats['people'] += parseFloat(people)
+        stats['kmpp'] += (parseFloat(km) * parseFloat(people))
     
-    if type in stats:
-        stats[type] += 1
+    if type in stats['types']:
+        stats['types'][type] += 1
     else:
-        stats[type] = 1
+        stats['types'][type] = 1
 
     if 'Hike' not in type:
         print(f'🟡 not a hike: {name}')
@@ -108,12 +128,12 @@ def parseFeatureFromCsvRow(row):
         curHike = f'{date}'
 
     if len(date) < 10:
-        errors += 1
+        stats['errors'] += 1
         print(f'🔴 incorrect date format {curHike}')
         return
 
     if len(trailShortLink) < 1:
-        errors += 1
+        stats['errors'] += 1
         print(f'🔴 missing trailShortLink for {curHike}')
         return
     
@@ -121,37 +141,37 @@ def parseFeatureFromCsvRow(row):
         print(f'🟡 missing Album for {curHike}')
 
     if len(km) < 1:
-        errors += 1
+        stats['errors'] += 1
         print(f'🔴 missing km for {curHike}')
         return
 
     if len(dplus) < 1:
-        errors += 1
+        stats['errors'] += 1
         print(f'🔴 missing dplus for {curHike}')
         return
 
     if len(top) < 1:
-        errors += 1
+        stats['errors'] += 1
         print(f'🔴 missing top for {curHike}')
         return
 
     if len(people) < 1:
-        errors += 1
+        stats['errors'] += 1
         print(f'🔴 missing people for {curHike}')
         return
 
     if len(name) < 1:
-        errors += 1
+        stats['errors'] += 1
         print(f'🔴 missing name for {curHike}')
         return
 
     if len(eventLink) < 1:
-        errors += 1
+        stats['errors'] += 1
         print(f'🔴 missing eventLink for {curHike}')
         return
 
     if prevHike == curHike:
-        errors += 1
+        stats['errors'] += 1
         print(f'🔴 hike with same date & suffix: {curHike}')
         return
     
@@ -161,12 +181,12 @@ def parseFeatureFromCsvRow(row):
     imgPath = f'img/{img}'
 
     if not path.exists(gpxPath):
-        errors += 1
+        stats['errors'] += 1
         print(f'🔴 gpx not found: {gpxPath} -> {trailShortLink}')
         return
 
     if not path.exists(imgPath):
-        errors += 1
+        stats['errors'] += 1
         print(f'🔴 img not found: {imgPath} -> {eventLink}')
         return
 
@@ -175,7 +195,7 @@ def parseFeatureFromCsvRow(row):
     geojson = json.loads(track.to_json())
     
     if len(geojson['features']) > 1:
-        errors += 1
+        stats['errors'] += 1
         print(f'🔴 geojson contains more than one feature for gpx {gpxPath}')
         return
 
@@ -194,7 +214,7 @@ def parseFeatureFromCsvRow(row):
 
         response = requests.get(albumUrl)
         if response.status_code != 200:
-            errors += 1
+            stats['errors'] += 1
             print(f'🔴 Incorrect album url: {albumUrl}')
 
     return {
@@ -254,15 +274,21 @@ def getLayersFromFeatures(features):
 
 def generetateAllUmap():
     features = parseFeaturesFromCsvFile()
-    if errors > 0:
-        print(f'🔴 CSV parsing done with {errors} errors')
+    if stats['errors'] > 0:
+        print(f'🔴 CSV parsing done with {stats["errors"]} errors')
     else:
         print('🟢 CSV parsing done without error')
 
-    print("Stats :")
-    for s in stats:
-        print(f' - {s} = {stats[s]}')
-    print(f' # Total (without canceled) = {total}')
+    print('Stats - event types :')
+    for s in stats['types']:
+        print(f' - {s} = {stats["types"][s]}')
+    print(f' # Total (without canceled) = {stats["total"]}')
+
+    print('Stats :')
+    print(f' - km = {stats["km"]}')
+    print(f' - dplus = {stats["dplus"]}')
+    print(f' - people = {stats["people"]}')
+    print(f' - kmpp = {stats["kmpp"]}')
 
     layers = getLayersFromFeatures(features);
     for l in layers:

@@ -15,6 +15,7 @@ Choose one of the following map. When the map is loaded, click on one of the GPS
 - [2021](https://umap.openstreetmap.fr/en/map/grenoble-adventure-club-2021-hikes_854133)
 - [2022](https://umap.openstreetmap.fr/en/map/grenoble-adventure-club-2022-hikes_889713)
 - [2023](https://umap.openstreetmap.fr/en/map/grenoble-adventure-club-2023-hikes_894210)
+- [2024](https://umap.openstreetmap.fr/en/map/grenoble-adventure-club-2024-hikes_1019589)
 
 ## All the hikes on a map
 
