@@ -1,9 +1,9 @@
-# pip install geopandas gpx_converter
+# pip install geopandas
+# sudo apt install python3-geopandas
 import csv
 import geopandas as gpd
 import json
 from os import path
-from gpx_converter import Converter
 from datetime import datetime
 import requests
 from urllib.parse import quote
@@ -14,7 +14,8 @@ colors = {
     '2020': '#1766B5',
     '2021': '#504488',
     '2022': '#8FBE23',
-    '2023': '#C03535'
+    '2023': '#C03535',
+    '2024': '#FF7800'
 }
 albumRoot = 'https://binnette.github.io/GacImg'
 
