@@ -74,10 +74,11 @@ resultCommands = resultCommands.concat(commands);
 resultCommands.push(`num_files=$(ls . | wc -l)`)
 resultCommands.push(`cd ..`)
 resultCommands.push(`if [ $num_files -ne '${nbPhotos}' ]; then`);
-resultCommands.push(`  echo "🔴 Incorrect number of pictures ${nbPhotos}"`);
+resultCommands.push(`  echo "🔴 Incorrect number of pictures $num_files / ${nbPhotos}"`);
 resultCommands.push(`else`);
-resultCommands.push(`  echo "🟢 Correct number of pictures ${nbPhotos}"`);
-resultCommands.push(`fi\n`);
+resultCommands.push(`  echo "🟢 Correct number of pictures $num_files / ${nbPhotos}"`);
+resultCommands.push(`fi`);
+resultCommands.push(`# Script end\n`);
 resultCommands.join("\n");
 ```
 

@@ -60,9 +60,11 @@ def remove_emoji(string):
   return emoji_pattern.sub(r'', string)
 
 # Define a function to replace letters with accent by letters without accent
-def remove_accents(string):
+def replace_char(string):
   # Use a dictionary to map the letters with accent to the letters without accent
   accent_map = {
+    " ": "-",
+    ":": "",
     "á": "a",
     "é": "e",
     "í": "i",
@@ -169,7 +171,7 @@ def map_event_to_csv_row(event):
   csv_row["Trail2"] = ''
 
   # Map the album using the format_date function, the title and the remove_accents function
-  csv_row["Album"] = format_date(event["dateTime"]) + "-" + remove_accents(event["title"].strip()).replace(" ", "-") + ".html"
+  csv_row["Album"] = format_date(event["dateTime"]) + "-" + replace_char(event["title"].strip()) + ".html"
 
   # Return the csv row
   return csv_row
