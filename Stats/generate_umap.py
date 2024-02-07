@@ -101,6 +101,7 @@ def parseFeatureFromCsvRow(row):
     eventLink = row['EventLink']
     trailShortLink = row['TrailShortLink']
     album = row['Album']
+    havePhoto = False if row['HavePhoto'] == 'No' else True
 
     if type.lower() != 'cancelled':
         stats['total'] += 1
@@ -115,7 +116,7 @@ def parseFeatureFromCsvRow(row):
         stats['types'][type] = 1
 
     if 'Hike' not in type:
-        print(f'🟡 not a hike: {name}')
+        print(f'🔵 not a hike: {name}')
         return
 
     if len(suffix) > 0:
@@ -137,7 +138,7 @@ def parseFeatureFromCsvRow(row):
         print(f'🔴 missing trailShortLink for {curHike}')
         return
     
-    if len(album) < 1:
+    if havePhoto and len(album) < 1:
         print(f'🟡 missing Album for {curHike}')
 
     if len(km) < 1:
