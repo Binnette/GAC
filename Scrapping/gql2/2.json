@@ -1,0 +1,1611 @@
+{
+    "data": {
+        "groupByUrlname": {
+            "id": "33873418",
+            "events": {
+                "totalCount": 276,
+                "pageInfo": {
+                    "endCursor": "Mjk0NzU3NTQ1OjE2ODk0MjQyMDAwMDA=",
+                    "hasNextPage": true,
+                    "__typename": "PageInfo"
+                },
+                "edges": [
+                    {
+                        "node": {
+                            "id": "289327751",
+                            "title": "🥾🌚Harvest Moon (\"lune de moisson\") - Night Hike to Mt. Jala (Bastille)🌚🥾",
+                            "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/289327751/",
+                            "description": "== Summary ==\n\nPack a thermos of hot tea and your headlight/torch!\n\nAn urban night hike above the city to catch a sight the Harvest Moon in all of its celestial magnificence from a spot high above the city.\n\nSunset for 29th September 2023 is forecast [ 19:30 ]\n\n== Route ==\n\nThere are 3 well known paths from Grenoble to the Bastille. There is one less well known, and that's the one for us! You may look at the route here:\n\n* https://www.alltrails.com/explore/map/map-da0b566--45\n* https://www.mapmyrun.com/routes/view/3413049679\n\n== Headlight / Lamp / Torch ==\n\nIf you do not already own a head-light, may we recommend :\n\n* https://www.amazon.fr/Petzl-Tikka-Lampe-Frontale-Adulte/dp/B01KYTQKBE\n* https://www.amazon.fr/Petzl-Lampe-frontale-Reactik-Orange/dp/B01FIDI4UQ\n* https://www.amazon.fr/Petzl-E099GA01-Lampe-Frontale-Unique/dp/B07T5RLZTX\n\n(Pro Tip: Do not waste your money on a non-Petzl brand headlight!)\n\n== General Plan / Schedule ==\n\n( To be revised based on the Almanac time of sunset for 2023)\n\n* 19:45-20:05 Meet at the Fountain (Water, Beer, Cafe, Toilet available at the local pub \"The Old Bridge\")\n* 20:05 Walk towards Port de France\n* 20:15 Hike up the mountain to the memorial (1.5 hours max)\n* 21:15-21:45 Arrive at top. Warm Drinks and small snacks and enjoy the moon, as well as any other astronomical elements that can be observed (Telechargez an app on your phone?).\n* 22:00-22:30 Begin Hike back to Grenoble city center\n\n(1 primary exit option, 3 possible exit options)\n\nNOTE: The gate will be locked behind us at 21h after we pass through it; we'll take an alternative route back (there are 3 choices).\n\n== Suggested Supplies to Bring ==\n\n* 1.5-to-2 Liters of Water absolute minimum (\\*) plus a small emergency bottle (200-300ml)\n* Good Hiking 🥾shoes and socks\n* (MANDATORY) Head Lamp Flashlight\n* Rain jacket and/or Layers of clothes as Temperatures will change and/or Precipitation may be intermittent\n* Food and or small snacks \"À partager\". We will have a picnic up top!\n* Any medicines or allergy treatments you may have pre-existing (EPI PEN)\n* 😁 Your smile / 😊 Happiness (Hard to see in the dark?)\n\nRecommended:\n\n* Whistle ( Sifflet )\n* Gloves ( Gants )\n* USB PowerBank battery for mobile phone (ensure charged!)\n\n== 💡 Rules of The Day 💡 ==\n\n* 🚶‍♀️🚶‍♂️ The GAC group is about hiking 🥾 , fitness, nature, active lifestyle --- and sure, also socializing and making friends and language/cultural exchange. **BUT NOT about flirting or speed dating!** We want everyone to feel comfortable during our events. ⛔\n* 😍 Hiking is about enjoying and respecting mother nature!\n* Don't throw/dump any garbage 🚮 in nature, not even fruit pelt: 🍌(2 years for decomposition), 🍊 (6 months); egg shell 🥚 (3 years)\n* Don't be (too) late 😇 We have a large 30 minute queue window. If you arrive after we depart, call my mobile and we'll find a way for you to connect with us down the road.\n* If you finally can't join us, please unsubscribe from the event or at least write a message here to announce your cancellation. 💜 That way, we won't wait for you 💜\n* 💟 You are responsible of your own health and security\n* If you have any medical conditions that we should be aware of in an emergency, please feel free to contact me privately!\n* 😷 COVID-19 rules at the moment: [https://www.gouvernement.fr/en/coronavirus-covid-19](https://www.gouvernement.fr/en/coronavirus-covid-19)\n\nIf you have any questions, please ask! Feel free to send me a Private Message or on WhatsApp (+1-412-378-3823)",
+                            "group": {
+                                "id": "33873418",
+                                "name": "Grenoble Adventure Club (English/French)",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "192746151",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "192746151",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26933350",
+                                "name": "Fontaine au Lion",
+                                "address": "105 Rue Saint-Laurent",
+                                "city": "Grenoble",
+                                "state": "",
+                                "country": "fr",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-09-29T20:45:00+02:00",
+                            "createdTime": "2022-10-25T05:07:56-04:00",
+                            "endTime": "2023-09-29T23:45:00+02:00",
+                            "going": {
+                                "totalCount": 74,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": false,
+                            "isOnline": false,
+                            "eventType": "PHYSICAL",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "492100000",
+                                "source": "https://secure.meetupstatic.com/photos/event/9/c/4/0/highres_492100000.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1932709084",
+                                            "member": {
+                                                "id": "301379475",
+                                                "name": "Hassan",
+                                                "memberPhoto": {
+                                                    "id": "318260579",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/5/0/6/3/highres_318260579.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1932709085",
+                                            "member": {
+                                                "id": "192746151",
+                                                "name": "Brian A. Seklecki",
+                                                "memberPhoto": {
+                                                    "id": "295277063",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/4/2/a/7/highres_295277063.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1939145661",
+                                            "member": {
+                                                "id": "364395098",
+                                                "name": "Salma Gamil",
+                                                "memberPhoto": {
+                                                    "id": "311783965",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/5/d/9/d/highres_311783965.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1942269039",
+                                            "member": {
+                                                "id": "335204202",
+                                                "name": "Sami Salem",
+                                                "memberPhoto": {
+                                                    "id": "305822522",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/9/d/a/highres_305822522.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1944870058",
+                                            "member": {
+                                                "id": "294081764",
+                                                "name": "Cristina",
+                                                "memberPhoto": {
+                                                    "id": "293571434",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/c/8/e/a/highres_293571434.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [
+                                "DELETE_CHAT_MESSAGE",
+                                "CHAT",
+                                "TAKE_ATTENDANCE",
+                                "DOWNLOAD_ATTENDEES",
+                                "UPLOAD_PHOTO",
+                                "ATTENDANCE",
+                                "EMAIL_ATTENDEES",
+                                "COMMENT",
+                                "COPY"
+                            ],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "295503471",
+                            "title": "🥾⛺🔴 Hike : 2 days/1 night Mont Thabor 3178m 🌄 & the lakes 🏊️",
+                            "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/295503471/",
+                            "description": "💡 Read full page by clicking on \"Read more\"/\"Lire la suite\"...💜\n\nJoining the event = Accepting the rules (See rule section below)\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Paul (5), Roman(5), Chunchun (4)\n\n== 🗨️ EN/FR 🗨️ ==\n\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\n\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\n\nWe ride our cars for \\~2h and park at \"Parking du Lavoir\" after Valfréjus:\n\n* 🅿️ [https://osm.org/go/0CCPPoiHF--?m=](https://osm.org/go/0CCPPoiHF--?m=)\n\n* 🅿️ [https://goo.gl/maps/D15rRtyyJwZ2BVZN6](https://goo.gl/maps/D15rRtyyJwZ2BVZN6)\n\n== 🚗 Car share 🚗 ==\n\nCar share is 20€ per person. Include fuel, the expensive toll (\\~35€). We will be 5 by cars with big/heavy bags. You will probably have some stuffs on your knees, our cars are not that big.\n\n== 🥾⛺🔴 Hike : 2 days/1 night Mont Thabor 3178m 🌄 & the lakes 🏊️ ==\n\n* ⚫ Not for noobs/beginners\n\n* 🔴 Hard for good hikers\n\n=== Day 1 ===\n\n🚗 Let’s go on an adventure! We’ll drive for 2 hours and park after Valfréjus. Then, we’ll hike with our tents and all our equipment 🎒🥾. We’ll take a break at Refuge du Mont Thabor to fill our bottles 🚰. Finally, we’ll reach the Lac du Peyron (no water, no facility) to plant our tent at 2450m of elevation ⛺️🏔️. It’ll be around 6°C 🥶 during the night, so make sure to bring warm clothes! 🧣🧤🧦\n\n🗺️ Topo & GPX track: [https://s.42l.fr/_tBGN2b8](https://s.42l.fr/_tBGN2b8) (click Export > GPX)\n\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n\n📏 Distance: 7.2km\n\n⏱️ Time: \\~4/5h of hike\n\n📈 D+: 580m\n\n=== Day 2 ===\n\n🍳🥓🍞 After a big, fat and nice breakfast, we’ll pick up our tents and start our ascent to the really top of the Mont Thabor 3178m! 🏔️ Once we reach the top, we’ll enjoy the view and make a wish at the chapel 🙏. Then, we’ll go all the way down, back to the refuge and back to our cars with our memories full of tons of scenic views 🌄🤩.\n\n🗺️ Topo & GPX track: [https://s.42l.fr/63cv0dtr](https://s.42l.fr/63cv0dtr) (click Export > GPX)\n\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n\n📏 Distance: 15km\n\n⏱️ Time: \\~5/6h of hike\n\n📈 D+: 787m\n\n== 🎒 What to bring 🎒 ==\n\n=== For hiking ===\n\n* 🎒 Big hiking bag 50/60L mini ❗️**MANDATORY**\n\n* 🥾 Hiking shoes ❗️**MANDATORY**\n\n* 🥢 Hiking pole **🔰Recommended**\n\n* 🩳🩱 swimsuit + towel\n\n* 🧃 Water 3 or 4L mini. We can refill at the refuge\n\n* 🍫 Some snack\n\n* 🥕 food for 4 meals:\n\n* Saturday lunch - picnic/sandwich\n\n* dinner - food to cook if you have cooking stove + gas\n\n* Sunday breakfast\n\n* lunch - again picnic/sandwich\n\n* 🍵 Ecocup/mug + fork, knife, trash bag, ...\n\n* ❄️🌧️ Cold & rain gear (15°C during the day)\n\n* 🌞 Sunscreen, 😎 Sunglasses\n\n* 😁 Smile, 😊 Happiness\n\n* 💵 Car share money (exact change in cash)\n\n=== For the night ===\n\n* ⛺ Tent ❗️❗️❗️**MANDATORY** (let us know in comments in you have more than 1 place in it)\n\n* 💤 Sleeping bag ❗️❗️❗️**MANDATORY** 0°c bag is a must\n\n* 🥶 6°C during the night. Do not join if you don't have a GOOD sleeping bag (some people will recognize themselves 😅)\n\n* 🟦💤 Sleeping pad **🔰Recommended**\n\n* 💡 Headlamp ❗️**MANDATORY**\n\n* Inflatable pillow (or use your shoes as pillow)\n\n* 🔥 Cooking stove + gas if you want to cook food\n\n* 🥶 Warm clothes for the night. 6°c during the night\n\n* 🧻 Toilet paper, soap, toothbrush, ...\n\n* 🟨/⬜ Space blanket (just in case)\n\n== ❔ Want to bring more stuff ❔ ==\n\n* ♣️ Card games to play during Saturday afternoon/night\n\n* 🥨 Some food to share\n\n* 🫖 Tea bags to share or other stuffs\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n\n* 🚗 Join waiting list for car availability\n\n* ⏰ Don’t be late, we won’t wait\n\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n\n* ❌ Unsubscribe or 💬 message if can’t join\n\n* 🚗 Drivers: message me ASAP if you can’t join\n\n* 💟 You are responsible for your own health and security\n\n\\*\\*\\*\n\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\n\nAlbin from GAC\n\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). Message me on Meetup for the link.",
+                            "group": {
+                                "id": "33873418",
+                                "name": "Grenoble Adventure Club (English/French)",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "241140849",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "241140849",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26960063",
+                                "name": "Parking Public Clemenceau",
+                                "address": "20 Bd Clemenceau",
+                                "city": "Grenoble",
+                                "state": "",
+                                "country": "fr",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-08-19T08:30:00+02:00",
+                            "createdTime": "2023-08-17T07:07:04-04:00",
+                            "endTime": "2023-08-20T22:00:00+02:00",
+                            "going": {
+                                "totalCount": 14,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": true,
+                            "isOnline": false,
+                            "eventType": "PHYSICAL",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "515194758",
+                                "source": "https://secure.meetupstatic.com/photos/event/8/7/c/6/highres_515194758.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1967405358",
+                                            "member": {
+                                                "id": "241140849",
+                                                "name": "Albin GAC",
+                                                "memberPhoto": {
+                                                    "id": "295286670",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/8/2/e/highres_295286670.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1967405379",
+                                            "member": {
+                                                "id": "338377186",
+                                                "name": "Paulo",
+                                                "memberPhoto": {
+                                                    "id": "306553726",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/3/5/9/e/highres_306553726.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1967406748",
+                                            "member": {
+                                                "id": "255214173",
+                                                "name": "Aryan Arora",
+                                                "memberPhoto": {
+                                                    "id": "306259999",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/4/e/1/f/highres_306259999.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1967406820",
+                                            "member": {
+                                                "id": "372023833",
+                                                "name": "Ali",
+                                                "memberPhoto": {
+                                                    "id": "316213455",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/3/4/8/f/highres_316213455.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1967406951",
+                                            "member": {
+                                                "id": "364051830",
+                                                "name": "Christopher",
+                                                "memberPhoto": {
+                                                    "id": "311044763",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/1/2/9/b/highres_311044763.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [
+                                "DELETE_CHAT_MESSAGE",
+                                "CHAT",
+                                "TAKE_ATTENDANCE",
+                                "DOWNLOAD_ATTENDEES",
+                                "UPLOAD_PHOTO",
+                                "ATTENDANCE",
+                                "EMAIL_ATTENDEES",
+                                "COMMENT",
+                                "COPY"
+                            ],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "295381068",
+                            "title": "🥾⛺🔴 Hike Camp: after-work car ride + 🌠 night in tent + lake hike #Valsenestre",
+                            "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/295381068/",
+                            "description": "💡 Read full page by clicking on \"Read more\"/\"Lire la suite\"...💜\nJoining the event = Accepting the rules\n\n== ⭐⭐ Updates ⭐⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Chunchun (4), Manu (2)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Car share 🚗 ==\nCar share is 8€ per person.\n\n== 🥾⛺🔴 Hike Camp: after-work car ride + 🌠 night in tent + lake hike #Valsenestre ==\nWe take cars after-work and ride to Valsenestre. We hike with headlamp for \\~20mn with our tents and reach the bivouac place. There we eat/cook food, enjoy some shooting stars and sleep in our tents. The second day, we get back to the cars, drop our tents and start our day hike with our picnic and water. When we are done, we go back to Grenoble (before traffic jam?).\n\n=== Day 1 ===\nWe ride our cars for \\~1h30 and park at \"Valsenestre\":\n\n* 🅿️ [https://osm.org/go/xXVx\\~Bm2n?m=](https://osm.org/go/xXVx~Bm2n?m=)\n* 🅿️ [https://goo.gl/maps/KsZQ1Ra6wKRsm7BTA](https://goo.gl/maps/KsZQ1Ra6wKRsm7BTA)\n\nWe do a 20mn hike with our tents, water and food (night and breakfast). We spend the night with the shooting stars.\n\n🗺️ Topo & GPX track: [https://s.42l.fr/9IBV9CmM](https://s.42l.fr/9IBV9CmM) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 1km\n⏱️ Time: \\~10mn of hike\n📈 D+: 61m 🤣\n\n=== Day 2 ===\nBreakfast near the tents. We go back to the cars and drop our tents. We take a small backpack with our food and water and start our hike! We will hike up to the Lac Labarre, swim 🥶, eat and chill. Then we go back to the cars and go back to Grenoble (hopefully before the August 15th traffic jam).\n\n🗺️ Topo: [https://s.42l.fr/J0wLL_Xs](https://s.42l.fr/J0wLL_Xs)\n📏 Distance: 12km\n⏱️ Time: \\~5/6h of hike\n📈 D+: 1150m 🥵\n\n== 🎒 What to bring 🎒 ==\nBig backpack is not mandatory. We will only hike with our picnic during the day. For the night, you will carry your tent+food for 20mn up to the bivouac place.\n\n=== For hikes ===\n\n* 🎒 Regular bag for picnic+water\n* 🥾 Hiking shoes + poles\n* 🩳🩱 swimsuit + towel\n* 🧃 Water 1 or 2L mini.\n* 🍫 Snack and 🥕 food for 3 meals:\n* Monday dinner: food to cook if you have cooking stove/gas (we can share) + Tuesday breakfast\n* Tuesday lunch: picnic/sandwich (bought in Grenoble)\n* 🍵 Ecocup/mug, fork, knife,...\n* ❄️ 10°C cold gears\n* 🌞 Sunscreen, 😎 Sunglasses\n\n=== For the night ===\n\n* 💡 Headlamp ❗️**MANDATORY**\n* 💤 Sleeping bag ❗️**MANDATORY** 0°c bag is a must\n* Tent + pad + pillow\n* 🔥 Cooking stove + gas if you want to cook food\n* 👡 Flip-flop to walk around tent\n* 🥶 Warm clothes 10°c during the night\n* 🧻 Toilet paper, soap, toothbrush...\n* 💰 Cash to buy drinks at the Valsenestre Gîte 🍺\n\n== ❔ Want to bring more ❔ ==\n\n* ♣️ Card games\n* 🥨 Food, 🫖 Tea bags or other stuffs to share\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n\\*\\*\\*\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\nAlbin from GAC\n\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). PM me on Meetup for the link.",
+                            "group": {
+                                "id": "33873418",
+                                "name": "Grenoble Adventure Club (English/French)",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "241140849",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "241140849",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26960063",
+                                "name": "Parking Public Clemenceau",
+                                "address": "20 Bd Clemenceau",
+                                "city": "Grenoble",
+                                "state": "",
+                                "country": "fr",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-08-14T18:30:00+02:00",
+                            "createdTime": "2023-08-11T04:07:40-04:00",
+                            "endTime": "2023-08-15T18:30:00+02:00",
+                            "going": {
+                                "totalCount": 12,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": true,
+                            "isOnline": false,
+                            "eventType": "PHYSICAL",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "515050653",
+                                "source": "https://secure.meetupstatic.com/photos/event/2/9/9/d/highres_515050653.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1966693980",
+                                            "member": {
+                                                "id": "241140849",
+                                                "name": "Albin GAC",
+                                                "memberPhoto": {
+                                                    "id": "295286670",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/8/2/e/highres_295286670.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966694517",
+                                            "member": {
+                                                "id": "285203748",
+                                                "name": "Paulo",
+                                                "memberPhoto": {
+                                                    "id": "290363083",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/5/a/2/b/highres_290363083.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966696025",
+                                            "member": {
+                                                "id": "327912321",
+                                                "name": "Marwa",
+                                                "memberPhoto": {
+                                                    "id": "316312671",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/c/d/b/f/highres_316312671.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966696646",
+                                            "member": {
+                                                "id": "399089360",
+                                                "name": "IDRYSY ",
+                                                "memberPhoto": {
+                                                    "id": "316324020",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/f/b/4/highres_316324020.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966696968",
+                                            "member": {
+                                                "id": "398678998",
+                                                "name": "Cherif",
+                                                "memberPhoto": {
+                                                    "id": "316234895",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/8/8/4/f/highres_316234895.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [
+                                "DELETE_CHAT_MESSAGE",
+                                "CHAT",
+                                "TAKE_ATTENDANCE",
+                                "DOWNLOAD_ATTENDEES",
+                                "UPLOAD_PHOTO",
+                                "ATTENDANCE",
+                                "EMAIL_ATTENDEES",
+                                "COMMENT",
+                                "COPY"
+                            ],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "295315263",
+                            "title": "🥾🟢Tour: Grotte les Cuves de Sassenage et Hike (Easy) Cascades (Waterfall) 🥾🟢",
+                            "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/295315263/",
+                            "description": "💡 Read the full page by clicking on \"Read more\"/\"Lire la suite\"...💜\n\nJoining the event = Accepting the rules (See rule section below)\n\n== 🥾🟢 Plan ==\n\nA continuation in a series of \"Easy Hikes Around Town Without Cars\" GAC Events I'll be hosting this summer. In two (2) parts:\n\nWe will meet at the rally point and walk to the village of Sassenage.\n\n1. We will visit the underground Caves/Cuves du Sassenage for a guided tour. The cost is [Adult: 8 € ; Student : 7 € ; Enfant : 5 €] and it takes about 30 minutes.\n\nNOTE: The temperature underground is 10 - 15degC, so one must bring a jacket or hoodie, even if it is 35degC on the surface.\n\n2. After the tour is over, we will take a walk and follow the beautiful trail that shadows \"Le Furon\", named for it's stunning beauty and potential ferocity, a series of cascades that descend from the heart of the Vercor Mountains down into the village of Sassenage (just north-west of Grenoble).\n\nNear the cascades, temperatures are normally 5degC cooler than in the city center, so this is an exceptionally good place/location to visit during the \"dog days of summer\" in Grenoble to beat the heat.\n\n== Walking Route Details ==\n\nThe walk/hike part of the event event is 5 miles / 8km distance over mixed terrain (Roads, Trails, Cascades/Boulders) - Out and Back\n\nRoute Details at: https://www.alltrails.com/explore/map/thu-07-jan-2021-21-25-0906061\n\nDuration: 3 hours max\n\nRally Point on Google Maps: https://goo.gl/maps/n9V3aFhov3GWrQ5F9\n(Bus Shelter on North West side of station)\n\nIf you're new to Grenoble, just board the Tram-A anywhere headed West (towards La Poya) and get off at the last stop!\n\n== Detailed Plan ==\n\nExpected Schedule:\n\n* 12:59-13:15: Rally between at Tram-A line stop \"La Poya\"\n* 13:15h: Walk to Village/Caves de Sassenage (20-30 mins)\n* 13:40: Arrive in Village Sassenage / Caves\n* 14:00-14:30h: Arrive and start Guided Tour of Caves (\\*)\n* 14:30-15:30h: Hike along Furon (Stops along the way to enjoy the cool temps)\n* 15:30 \\~ 16:30: Walk Back to Tram-A/La Poya Station\n* 16:30h: (End of Event) Arrive/Return Back to Tram Line-A at stop \"La Poya\"\n* (\\*) If there is a delay arriving at 14h, we can take the tour at 14:30h as-well.\n\nNOTE: The event is officially over after we board the return A tram!\n\nHowever, if anyone wats to take a coffee or bubble tea after the event, I wont object proposal!\n\n== 🗨️ EN/FR 🗨️ ==\n\n🦅/🐓 : We speak English/French in all our events. Don't worry if your English/French is not that good. Nos évènements sont en Anglais et Français. Ne soyez pas inquiets si votre niveau d'anglais n'est pas \"suffisant\".\n\n== ❔ What do you need ❔ ==\n\n* Jacket/Hoodie to wear inside the caves (Temperature will be -10 to -15degC and damp/humid)\n* Money/Les Argent ( for admittance fee to caves, the Tram , etc. )\n* 🥾 Hiking shoes (or any good/non slippery shoes)\n* Hiking poles (only if you want; optional)\n* 🧃 Water (1.5L - 3L depending on your fitness)\n* 🍫 Some snacks + 🥗 Food for a lunch / picnic\n* 🌬 Clothes for hiking between 28degC and 30degC\n* Something to dry yourself off (a towel) if you decide to jump into the water to cool off\n* 🌞 Sun-cream (creme Solaire) / 😎 Sun glasses (lunettes de Solaire) / Chapeau (Hat)\n* 😁 Your smile / 😊 Happiness\n* Bug Spray / Any other safety gear you need (Prescriptions or **EpiPen**)\n\nWATER NOTE: We will pass a public water fountain in Village Sassenage where you can [re]fill your water bottles / reservoir.\n\n== Learn More About this place ==\n\nInstagram tagged at that location:\nhttps://www.instagram.com/grottelescuvesdesassenage/\n\nMore about the caves:\n\nhttps://www.sassenage.fr/14601-les-cuves.htm\nhttps://www.facebook.com/GrotteLesCuvesdeSassenage/\n\n== 💡 Rules of The Day 💡 ==\n\n* 🚶‍♀️🚶‍♂️ The GAC group is about hiking 🥾 , fitness, nature, active lifestyle --- and sure, also socializing and making friends and language/cultural exchange. BUT NOT about flirting or speed dating! We want everyone to feel comfortable during our events. ⛔\n* 😍 Hiking is about enjoying and respecting mother nature!\n* Don't throw/dump any garbage 🚮 in nature, not even fruit pelt: 🍌(2 years for decomposition), 🍊 (6 months); egg shell 🥚 (3 years)\n* Don't be (too) late 😇 We have a large 30 minute queue window. If you arrive after we depart, call my mobile and we'll find a way for you to connect with us down the road.\n* If you finally can't join us, please unsubscribe from the event or at least write a message here to announce your cancellation. 💜 That way, we won't wait for you 💜\n* 💟 You are responsible of your own health and security\n* If you have any medical conditions that we should be aware of in an emergency, please feel free to contact me privately!\n* 😷 COVID-19 rules at the moment: [https://www.gouvernement.fr/en/coronavirus-covid-19](https://www.gouvernement.fr/en/coronavirus-covid-19)",
+                            "group": {
+                                "id": "33873418",
+                                "name": "Grenoble Adventure Club (English/French)",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "192746151",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "192746151",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26952046",
+                                "name": "La Poya",
+                                "address": "",
+                                "city": "Fontaine",
+                                "state": "",
+                                "country": "fr",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-08-12T13:05:00+02:00",
+                            "createdTime": "2023-08-08T01:42:49-04:00",
+                            "endTime": "2023-08-12T16:05:00+02:00",
+                            "going": {
+                                "totalCount": 30,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": false,
+                            "isOnline": false,
+                            "eventType": "PHYSICAL",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "514987129",
+                                "source": "https://secure.meetupstatic.com/photos/event/1/b/d/9/highres_514987129.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1966322692",
+                                            "member": {
+                                                "id": "192746151",
+                                                "name": "Brian A. Seklecki",
+                                                "memberPhoto": {
+                                                    "id": "295277063",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/4/2/a/7/highres_295277063.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966323609",
+                                            "member": {
+                                                "id": "358476651",
+                                                "name": "Clare LaVergne",
+                                                "memberPhoto": {
+                                                    "id": "313682770",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/a/d/2/highres_313682770.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966324011",
+                                            "member": {
+                                                "id": "397149727",
+                                                "name": "Med Amine Chagour",
+                                                "memberPhoto": {
+                                                    "id": "315910349",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/2/8/6/d/highres_315910349.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966324779",
+                                            "member": {
+                                                "id": "391875612",
+                                                "name": "Manu",
+                                                "memberPhoto": {
+                                                    "id": "315341106",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/a/0/9/2/highres_315341106.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966326843",
+                                            "member": {
+                                                "id": "230943610",
+                                                "name": "Idriss Alaoui Amini",
+                                                "memberPhoto": {
+                                                    "id": "268541958",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/a/3/e/6/highres_268541958.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [
+                                "DELETE_CHAT_MESSAGE",
+                                "CHAT",
+                                "TAKE_ATTENDANCE",
+                                "DOWNLOAD_ATTENDEES",
+                                "UPLOAD_PHOTO",
+                                "ATTENDANCE",
+                                "EMAIL_ATTENDEES",
+                                "COMMENT",
+                                "COPY"
+                            ],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "295359916",
+                            "title": "🥾⛺🔴 Hike Camp: 2 single-day hikes + 🌠 night in refuge/tent #Ecrins",
+                            "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/295359916/",
+                            "description": "💡 Read full page by clicking on \"Read more\"/\"Lire la suite\"...💜\nJoining the event = Accepting the rules\n\n== ⭐⭐ Updates ⭐⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Paul (5)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Car share 🚗 ==\nCar share is 15€ per person.\n\n== 🥾⛺🔴 Hike Camp: 2 single-day hikes + 🌠 night in refuge/tent #Ecrins ==\nWe go in Ecrins for 2 single-day hike and enjoy the shooting stars during the night! Bring your tent or sleep in the $refuge.\n\n=== About the $ refuge ===\n[https://refugepredelachaumette.ffcam.fr/home.html](https://refugepredelachaumette.ffcam.fr/home.html)\n\n* Reservation: 04 92 55 95 34\n* Night\\~20.5€ dinner\\~$19.5€ breakfast\\~7.4€\n* Bring food for dinner+breakfast or buy at refuge (ask for it when you phone)\n\n=== Day 1 ===\nWe ride our cars for \\~2h and park near \"Champoléon\":\n\n* 🅿️ [https://osm.org/go/xXVrTdljn?m=](https://osm.org/go/xXVrTdljn?m=)\n* 🅿️ [https://goo.gl/maps/exDM5LeGTmb3m7LQ6](https://goo.gl/maps/exDM5LeGTmb3m7LQ6)\n\nWe do a \"1 day hike\" to a waterfall, only with picnic and water. Then go back to cars.\n\n🗺️ Topo & GPX track: [https://s.42l.fr/Z4--x0ok](https://s.42l.fr/Z4--x0ok) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 10km\n⏱️ Time: \\~2/3h of hike\n📈 D+: 577m\n\nWe ride cars and park closer to the refuge:\n\n* 🅿️ [https://osm.org/go/xXVua2ALl-?m=](https://osm.org/go/xXVua2ALl-?m=)\n* 🅿️ [https://goo.gl/maps/etN3JZFQKsdqw2k88](https://goo.gl/maps/etN3JZFQKsdqw2k88)\n\nS**econd** hike of 1h30 with our tents, food (dinner+breakfast) and stuffs for the night (except if you sleep/eat in the refuge). Bring cash $ to pay for drinks and other stuffs 🍺\n\n🗺️ Topo: [https://s.42l.fr/MK9M1mqx](https://s.42l.fr/MK9M1mqx)\n📏 Distance: 4.4km\n⏱️ Time: \\~1h30 of hike\n📈 D+: 335m\n\n=== Day 2 ===\nBreakfast near the refuge. We hike down to the cars and ride to Orcières :\n\n* 🅿️ [https://osm.org/go/xXXBBIY6S?m=](https://osm.org/go/xXXBBIY6S?m=)\n* 🅿️ [https://goo.gl/maps/wDTkXErDLmPoypJj8](https://goo.gl/maps/wDTkXErDLmPoypJj8)\n\nBuy sandwich? Then loop hike to visit lakes with our picnic+water.\n\n🗺️ Topo: [https://s.42l.fr/JVt-ic3w](https://s.42l.fr/JVt-ic3w)\n📏 Distance: 16km\n⏱️ Time: \\~5/6h of hike\n📈 D+: 960m\n\n== 🎒 What to bring 🎒 ==\nBig backpack is not mandatory. We will only hike with our picnic during the days. For the night, you will carry your tent+food for 1h30 up to the refuge (or sleep in $ refuge)\n\n=== For hikes ===\n\n* 🎒 Regular bag for picnic+water\n* 🥾 Hiking shoes + poles\n* 🩳🩱 swimsuit + towel\n* 🧃 Water 1 or 2L mini.\n* 🍫 Snack and 🥕 food for 4 meals:\n* Saturday lunch: picnic/sandwich (bought in Grenoble)\n* Saturday dinner: food to cook if you have cooking stove/gas (we can share) + Sunday breakfast\n* Sunday lunch: picnic/sandwich (we can buy at 2nd hike start)\n* 🍵 Ecocup/mug, fork, knife,...\n* ❄️ 10°C cold gears\n* 🌞 Sunscreen, 😎 Sunglasses\n\n=== For the night ===\n\n* 💡 Headlamp ❗️**MANDATORY**\n* 💤 Sleeping bag ❗️**MANDATORY** 0°c bag is a must\n* Tent + pad + pillow\n* 🔥 Cooking stove + gas if you want to cook food\n* 👡 Flip-flop to walk in/around the refuge\n* 🥶 Warm clothes 10°c during the night\n* 🧻 Toilet paper, soap, toothbrush...\n* 💰 Cash to buy drinks at the refuge 🍺\n\n== ❔ Want to bring more ❔ ==\n\n* ♣️ Card games\n* 🥨 Food, 🫖 Tea bags or other stuffs to share\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n\\*\\*\\*\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\nAlbin from GAC\n\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). PM me on Meetup for the link.",
+                            "group": {
+                                "id": "33873418",
+                                "name": "Grenoble Adventure Club (English/French)",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "241140849",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "241140849",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26960063",
+                                "name": "Parking Public Clemenceau",
+                                "address": "20 Bd Clemenceau",
+                                "city": "Grenoble",
+                                "state": "",
+                                "country": "fr",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-08-12T08:30:00+02:00",
+                            "createdTime": "2023-08-10T04:59:26-04:00",
+                            "endTime": "2023-08-13T21:30:00+02:00",
+                            "going": {
+                                "totalCount": 10,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": true,
+                            "isOnline": false,
+                            "eventType": "PHYSICAL",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "515031005",
+                                "source": "https://secure.meetupstatic.com/photos/event/c/7/3/d/highres_515031005.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1966575354",
+                                            "member": {
+                                                "id": "241140849",
+                                                "name": "Albin GAC",
+                                                "memberPhoto": {
+                                                    "id": "295286670",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/8/2/e/highres_295286670.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966575572",
+                                            "member": {
+                                                "id": "379281351",
+                                                "name": "Red Persik",
+                                                "memberPhoto": {
+                                                    "id": "313727187",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/b/8/5/3/highres_313727187.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966576329",
+                                            "member": {
+                                                "id": "367249908",
+                                                "name": "Mohamed Ali El-Harsal",
+                                                "memberPhoto": {
+                                                    "id": "311728696",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/7/0/1/8/highres_311728696.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966576433",
+                                            "member": {
+                                                "id": "390967086",
+                                                "name": "Anna",
+                                                "memberPhoto": {
+                                                    "id": "315052947",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/c/e/d/3/highres_315052947.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1966576434",
+                                            "member": {
+                                                "id": "366668736",
+                                                "name": "naima yakou",
+                                                "memberPhoto": null,
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [
+                                "DELETE_CHAT_MESSAGE",
+                                "CHAT",
+                                "TAKE_ATTENDANCE",
+                                "DOWNLOAD_ATTENDEES",
+                                "UPLOAD_PHOTO",
+                                "ATTENDANCE",
+                                "EMAIL_ATTENDEES",
+                                "COMMENT",
+                                "COPY"
+                            ],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "295213821",
+                            "title": "🥾🔴 Hike: Long 🥵 rewarding hike to 🏊‍♀️ in Lac du Vallon 🧊",
+                            "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/295213821/",
+                            "description": "💡 Click “Read more”/“Lire la suite” for full page ✅ Joining = Accepting rules (see below)\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Paul (5), Daniel (5)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\nWe ride our cars for \\~1h20 and park on the track after Chantelouve:\n\n* 🅿️ [https://osm.org/go/xXV1RB1Rk?m=](https://osm.org/go/xXV1RB1Rk?m=)\n* 🅿️ [https://goo.gl/maps/oNwSFFX1WUguZpYr9](https://goo.gl/maps/oNwSFFX1WUguZpYr9)\n\n== 🚗 Car share 🚗 ==\nCar share is 6€ per person (fuel + \"compensation\" to get more drivers).\n\n== 🥾🔴 Hike: Long 🥵 rewarding hike to 🏊‍♀️ in Lac du Vallon 🧊 ==\n\n* ⚫ Not for beginners\n* 🔵/🔴 Medium/Hard for good hikers. Very steep hike ↗⬆\n\nWe will meet at the parking lot 🅿️ at the end of the track, or as close as we can get by car 🚗. If the track is not accessible, we will have to hike a bit more, but it will be worth it 😍. The hike will start from the parking lot and follow the \"Malsanne\" river upstream ⬆️. Along the way, we will see some tiny huts 🏠 used by the sheepkeepers 🐑, and some waterfalls 💦. Our destination is the Lac du Vallon, a stunning lake 🏞 surrounded by mountains ⛰. There, we will have our picnic, take a nap 😴, and maybe even swim 🏊‍♂️🏊‍♀️ in the refreshing water 💧. After that, we will head back to the parking lot by almost the same route 😎.\n\n🗺️ Topo & GPX track: [https://s.42l.fr/FGrvBkw8](https://s.42l.fr/FGrvBkw8) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 10.7km (or 15km if the track is closed)\n⏱️ Time: \\~6/7h of hike + lake\n📈 D+: 1142m (or 1420m if the track is closed 😅)\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n== 🎒 What to bring 🎒 ==\n\n* 🥾 Hiking shoes\n* 🥢 Hiking poles (optional)\n* 🧃 Water (1-2L) + 🍫 Snacks + 🥗 Lunch\n* ❄️🌧️ Cold & rain gear (around 15°C on top)\n* 🩳 Swimsuit 🩱, towel 🏖️💦\n* 😁 Smile, 😊 Happiness\n* 💵 Car share money (exact change in cash)\n\n***\n\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\nAlbin from GAC\n\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). Message me on Meetup for the link.",
+                            "group": {
+                                "id": "33873418",
+                                "name": "Grenoble Adventure Club (English/French)",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "241140849",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "241140849",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "27119265",
+                                "name": "Boulevard Clemenceau",
+                                "address": "Bd Clemenceau",
+                                "city": "Grenoble",
+                                "state": "",
+                                "country": "fr",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-08-06T08:30:00+02:00",
+                            "createdTime": "2023-08-03T06:05:33-04:00",
+                            "endTime": "2023-08-06T21:00:00+02:00",
+                            "going": {
+                                "totalCount": 9,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": true,
+                            "isOnline": false,
+                            "eventType": "PHYSICAL",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "514863549",
+                                "source": "https://secure.meetupstatic.com/photos/event/d/d/d/highres_514863549.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1965744140",
+                                            "member": {
+                                                "id": "241140849",
+                                                "name": "Albin GAC",
+                                                "memberPhoto": {
+                                                    "id": "295286670",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/8/2/e/highres_295286670.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1965747510",
+                                            "member": {
+                                                "id": "338377186",
+                                                "name": "Paulo",
+                                                "memberPhoto": {
+                                                    "id": "306553726",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/3/5/9/e/highres_306553726.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1965748669",
+                                            "member": {
+                                                "id": "184629537",
+                                                "name": "aa",
+                                                "memberPhoto": {
+                                                    "id": "243984368",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/5/f/3/0/highres_243984368.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1965760196",
+                                            "member": {
+                                                "id": "372023833",
+                                                "name": "Ali",
+                                                "memberPhoto": {
+                                                    "id": "316213455",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/3/4/8/f/highres_316213455.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1965762721",
+                                            "member": {
+                                                "id": "327961069",
+                                                "name": "Chunchun",
+                                                "memberPhoto": {
+                                                    "id": "309210784",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/7/8/4/0/highres_309210784.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [
+                                "DELETE_CHAT_MESSAGE",
+                                "CHAT",
+                                "TAKE_ATTENDANCE",
+                                "DOWNLOAD_ATTENDEES",
+                                "UPLOAD_PHOTO",
+                                "ATTENDANCE",
+                                "EMAIL_ATTENDEES",
+                                "COMMENT",
+                                "COPY"
+                            ],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "295213425",
+                            "title": "🧗🔴 Via ferrata: 'Roche Veyrand' 😲 + 🏊‍♀️ in refreshing 🧊 river 💧",
+                            "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/295213425/",
+                            "description": "💡 Click “Read more”/“Lire la suite” for full page ✅ Joining = Accepting rules (see below).\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Paul (5)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\nWe ride our cars for 1h10. Then park our car(s) in \"St-Pierre-d'Entremont\":\n\n* 🚗 [https://osm.org/go/0CBJwqOui?m=](https://osm.org/go/0CBJwqOui?m=)\n* 🚗 [https://goo.gl/maps/5hNcyU3xTW9DvPoB7](https://goo.gl/maps/5hNcyU3xTW9DvPoB7)\n\n== 🚗 Car share 🚗 ==\nCar share is 6€ per person (fuel + \"compensation\" to get more drivers).\n\n== ⚠️ Rent your via Ferrata set on Friday afternoon ⚠️ ==\nRent your Via Ferrata equipment (helmet 🪖, harness, and Via Ferrata set) in Grenoble on Friday afternoon. You can do this at the “Adrenaline Sport” shop 🏬 near Parc Paul Mistral.\nTheir website is [http://www.adrenaline-ski-shop.com/magasins](http://www.adrenaline-ski-shop.com/magasins) and their opening hours are 10-12:30pm and 2:30-7pm. The cost for a one-day rental is around 16€ 💰.\nAfter the event, you can return the equipment to “Domino’s Pizza” 🍕 at the corner. You can find their location here: [https://osm.org/go/0CASD82h9?m=](https://osm.org/go/0CASD82h9?m=)\n\n== 🧗🔴 Via ferrata: 'Roche Veyrand' 😲 + 🏊‍♀️ in refreshing 🧊 river 💧 ==\n\n* 🔵 medium for climbers\n* 🔴 hard for noobs 🙃 + a lot of vertigo\n\nJoin me for this via ferrata in St-Pierre-d’Entremont, a beautiful village in the heart of the Chartreuse mountains 🏔. We will start with a 45-minute hike to approach the start of the via ferrata 🧗‍♂️. Enjoy this hard and breathtaking via ferrata that has a lot of vertigo 😱. After the via, we can reach the top of the mountain “Roche Veyrand”, where we can have a picnic 🥪. Then we will climb down the steep path to reach back to St-Pierre-d’Entremont. From here we can reach the nice bathing place in the village center, where we can cool off and have some fun in the water 💧. Note: the via ferrata is not mandatory, you can join just for the hike and wait for us at the top of the mountain.\n\nAbout the via:\n\n* [https://www.viaferrata-fr.net/via-ferrata-108-La-via-ferrata-de-Roche-Veyrand-St-Pierre-d%27Entremont-Savoie.html](https://www.viaferrata-fr.net/via-ferrata-108-La-via-ferrata-de-Roche-Veyrand-St-Pierre-d%27Entremont-Savoie.html)\n\n🗺️ Topo & GPX track: [https://s.42l.fr/t9FcHuw4](https://s.42l.fr/t9FcHuw4) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 5.2km\n⏱️ Time: \\~4/5h of hike\n📈 D+: 834m\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n== 🎒 What to bring 🎒 ==\n\n* 🧗‍♂️ Via ferrata set (rented in Grenoble)\n* 🥾 Hiking shoes\n* 🥢 Hiking poles (optional)\n* 🧃 Water (1-2L) + 🍫 Snacks + 🥗 Lunch\n* ❄️🌧️ Cold & rain gear (around 10°C on top)\n* 🩳 Swimsuit 🩱, towel 🏖️💦\n* 😁 Smile, 😊 Happiness\n* 💵 Car share money (exact change in cash)\n\n\\*\\*\\*\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\nAlbin from GAC\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). Message me on Meetup for the link.",
+                            "group": {
+                                "id": "33873418",
+                                "name": "Grenoble Adventure Club (English/French)",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "241140849",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "241140849",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26960063",
+                                "name": "Parking Public Clemenceau",
+                                "address": "20 Bd Clemenceau",
+                                "city": "Grenoble",
+                                "state": "",
+                                "country": "fr",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-08-05T08:30:00+02:00",
+                            "createdTime": "2023-08-03T05:31:33-04:00",
+                            "endTime": "2023-08-05T20:00:00+02:00",
+                            "going": {
+                                "totalCount": 8,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": true,
+                            "isOnline": false,
+                            "eventType": "PHYSICAL",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "514862086",
+                                "source": "https://secure.meetupstatic.com/photos/event/8/2/6/highres_514862086.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1965741994",
+                                            "member": {
+                                                "id": "241140849",
+                                                "name": "Albin GAC",
+                                                "memberPhoto": {
+                                                    "id": "295286670",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/8/2/e/highres_295286670.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1965742198",
+                                            "member": {
+                                                "id": "379281351",
+                                                "name": "Red Persik",
+                                                "memberPhoto": {
+                                                    "id": "313727187",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/b/8/5/3/highres_313727187.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1965743938",
+                                            "member": {
+                                                "id": "366668736",
+                                                "name": "naima yakou",
+                                                "memberPhoto": null,
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1965744429",
+                                            "member": {
+                                                "id": "395639036",
+                                                "name": "Mev",
+                                                "memberPhoto": {
+                                                    "id": "315707179",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/b/8/4/b/highres_315707179.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1965748130",
+                                            "member": {
+                                                "id": "396897073",
+                                                "name": "imen",
+                                                "memberPhoto": {
+                                                    "id": "315866355",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/6/f/3/highres_315866355.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [
+                                "DELETE_CHAT_MESSAGE",
+                                "CHAT",
+                                "TAKE_ATTENDANCE",
+                                "DOWNLOAD_ATTENDEES",
+                                "UPLOAD_PHOTO",
+                                "ATTENDANCE",
+                                "EMAIL_ATTENDEES",
+                                "COMMENT",
+                                "COPY"
+                            ],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "295045096",
+                            "title": "🥾🔴 Hike: Taillefer 🥵 then 🧊🏊‍♀️ in Lac de Brouffier 🥶",
+                            "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/295045096/",
+                            "description": "💡 Click “Read more”/“Lire la suite” for full page ✅ Joining = Accepting rules (see below)\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Chunchun (5), Walid (4), François (3), Chunheng (4), Rémi (5)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\nWe ride our cars for \\~1h10 and park on the road before Poursollet\n\n* 🅿️ [https://osm.org/go/0CAJowP2Q?m=](https://osm.org/go/0CAJowP2Q?m=)\n* 🅿️ [https://goo.gl/maps/NJ9GdZjLGpMxFRES7](https://goo.gl/maps/NJ9GdZjLGpMxFRES7)\n\n== 🚗 Car share 🚗 ==\nCar share is 5€ per person (fuel + \"compensation\" to get more drivers).\n\n== 🥾🔴 Hike: Taillefer 🥵 then 🧊🏊‍♀️ in Lac de Brouffier 🥶 ==\n\n* ⚫ Not for beginners\n* 🔵/🔴 Medium/Hard for good hikers\n\n😍 Join us for a hike to Le Taillefer, a peak with stunning views of the Alps 🌄 We will park our 🚗🚗 on the road between La Morte and Le Poursollet and hike up 1200 meters to the summit 🤯 At the top, we will enjoy a 360-degree panoramic view of the mountains and the lakes below 🤩🏔️ 10°C on top so take a jacket 🧥 We will also have a picnic lunch. 🍽️ We will descend the same way, but make a loop around the Lac de Brouffier, a beautiful and cold 🧊 lake. 🏊‍♂️🥶 For the adventurous ones, that can swim in the cold 🧊 water 😱 Then we will head back to our cars by the same way and end our hike 🙌\n\n🗺️ Topo & GPX track: [https://s.42l.fr/2aSZb-21](https://s.42l.fr/2aSZb-21) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 14km\n⏱️ Time: \\~6/7h of hike + lake\n📈 D+: 1200m\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n== 🎒 What to bring  ==\n\n* ð¥¾ Hiking shoes\n* ð¥¢ Hiking poles (optional)\n* ð§ Water (1-2L) + ð« Snacks + ð¥ Lunch\n* âï¸ð§ï¸ Cold & rain gear (around 10Â°C on top)\n* ð©³ Swimsuit ð©±, towel ðï¸ð¦\n* ð Smile, ð Happiness\n* ðµ Car share money (exact change in cash)\n\n***\n\nâ Need help ð¤ Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\nAlbin from GAC\n\nPS: Join our Telegram for more activities (ð§ââï¸, ð, ð³, ð², ð¥, ðµ, ð½ï¸). Message me on Meetup for the link.",
+                            "group": {
+                                "id": "33873418",
+                                "name": "Grenoble Adventure Club (English/French)",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "241140849",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "241140849",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "27119265",
+                                "name": "Boulevard Clemenceau",
+                                "address": "Bd Clemenceau",
+                                "city": "Grenoble",
+                                "state": "",
+                                "country": "fr",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-07-30T08:30:00+02:00",
+                            "createdTime": "2023-07-26T06:45:53-04:00",
+                            "endTime": "2023-07-30T20:00:00+02:00",
+                            "going": {
+                                "totalCount": 19,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": true,
+                            "isOnline": false,
+                            "eventType": "PHYSICAL",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "514676777",
+                                "source": "https://secure.meetupstatic.com/photos/event/d/d/c/9/highres_514676777.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1964824685",
+                                            "member": {
+                                                "id": "241140849",
+                                                "name": "Albin GAC",
+                                                "memberPhoto": {
+                                                    "id": "295286670",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/8/2/e/highres_295286670.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1964824919",
+                                            "member": {
+                                                "id": "327961069",
+                                                "name": "Chunchun",
+                                                "memberPhoto": {
+                                                    "id": "309210784",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/7/8/4/0/highres_309210784.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1964824997",
+                                            "member": {
+                                                "id": "187988011",
+                                                "name": "Sunil",
+                                                "memberPhoto": {
+                                                    "id": "246610838",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/2/a/5/6/highres_246610838.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1964825477",
+                                            "member": {
+                                                "id": "372023833",
+                                                "name": "Ali",
+                                                "memberPhoto": {
+                                                    "id": "316213455",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/3/4/8/f/highres_316213455.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1964825817",
+                                            "member": {
+                                                "id": "353505139",
+                                                "name": "Walid",
+                                                "memberPhoto": {
+                                                    "id": "315926423",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/7/3/7/highres_315926423.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [
+                                "DELETE_CHAT_MESSAGE",
+                                "CHAT",
+                                "TAKE_ATTENDANCE",
+                                "DOWNLOAD_ATTENDEES",
+                                "UPLOAD_PHOTO",
+                                "ATTENDANCE",
+                                "EMAIL_ATTENDEES",
+                                "COMMENT",
+                                "COPY"
+                            ],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "295044668",
+                            "title": "ð¥¾ðµ Hike: Up to Peyrague ð and back to starting lake to swim ððââï¸",
+                            "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/295044668/",
+                            "description": "ð¡ Click âRead moreâ/âLire la suiteâ for full page â Joining = Accepting rules (see below)\n\n== â­ Updates â­ ==\n\n* ð More cars = more seats. Seats: Albin (5), Chunchun (5), Hamid (5)\n\n== ð¨ï¸ EN/FR ð¨ï¸ ==\nð¦/ð Our events are in English/French. Donât worry if you are not fluent. Nos Ã©vÃ¨nements sont en Anglais/FranÃ§ais. Ne vous inquiÃ©tez pas si vous nâÃªtes pas bilingue.\n\n==ð Meeting Point ð==\nMeet at parking \"Esplanade du Souvenir FranÃ§ais\" near Parc Paul Mistral at **event start time ðºSHARPðº**:\n\n* â° [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* â° [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== ð Transportation ð ==\nWe ride our cars for \\~1h20 and park at \"Lac du Sautet\" after \"Corps\"\n\n* ð¿ï¸ [https://osm.org/go/xXVP0QnEc?m=](https://osm.org/go/xXVP0QnEc?m=)\n* ð¿ï¸ [https://goo.gl/maps/TWufqXVQM9vMuDAX6](https://goo.gl/maps/TWufqXVQM9vMuDAX6)\n\n== ð Car share ð ==\nCar share is 6â¬ per person (fuel + \"compensation\" to get more drivers).\n\n== ð¥¾ðµ Hike: Up to Peyrague ð and back to starting lake to swim ððââï¸ ==\n\n* ð´ Hard for beginners\n* ðµ Medium for good hikers\n\nWe start our hike by parking our ð at the lake, where we can leave our games and swimsuits for later ð£ We follow the trail that leads us to the village of Corps, where we can admire the old houses and the church. ð² We continue our hike through the forest, enjoying the shade and the fresh air. ð³ We reach the neighborhood of St-Julien, where we can see the impressive rock formations and the views of the valley. ð We climb up to the peak of Peyrague, where we can enjoy the panoramic view of the lake and the mountains. ð We start our descent, and make a loop back to Corps and then to the lake. ð¦ð§ðââï¸ We put on our swimsuits and jump into the lake... if you are not disturbed by the fact of swimming while it is raining ð§ Also you can have some drinks at a nearby cafe â\n\nðºï¸ Topo & GPX track: [https://s.42l.fr/vSA8Qiwq](https://s.42l.fr/vSA8Qiwq) (click Export > GPX)\nð² Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\nð Distance: 16.6km\nâ±ï¸ Time: \\~5/6h of hike + lake\nð D+: 898m\n\n== ð Rules ð ==\n\n* ð¶ââï¸ð¶ââï¸ GAC is about hiking ð¥¾ and making friends ð¤, NOT flirting â\n* ð® No littering in nature. Decomposition: ð 6m, ð 2y, ð¥ 3y\n* ð Join waiting list for car availability\n* â° Donât be late, we wonât wait\n* ðº Seats in car(s) are limited, only subscribe if sure to join\n* â Unsubscribe or ð¬ message if canât join\n* ð Drivers: message me ASAP if you canât join\n* ð You are responsible for your own health and security\n\n== ð What to bring ð ==\n\n* ð¥¾ Hiking shoes\n* ð¥¢ Hiking poles (optional)\n* ð§ Water (1-2L) + ð« Snacks + ð¥ Lunch\n* âï¸ð§ï¸ Cold & rain gear (It will probably rain during the day)\n* ð©³ Swimsuit ð©±, towel ðï¸ð¦\n* ðâ½ð¥ð² Games for the lake (in the ð for after ð¥¾)\n* ð Sunscreen, ð Sunglasses\n* ð Smile, ð Happiness\n* ðµ Car share money (exact change in cash)\n\n***\n\nâ Need help ð¤ Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\nAlbin from GAC\n\nPS: Join our Telegram for more activities (ð§ââï¸, ð, ð³, ð², ð¥, ðµ, ð½ï¸). Message me on Meetup for the link.",
+                            "group": {
+                                "id": "33873418",
+                                "name": "Grenoble Adventure Club (English/French)",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "241140849",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "241140849",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "27119265",
+                                "name": "Boulevard Clemenceau",
+                                "address": "Bd Clemenceau",
+                                "city": "Grenoble",
+                                "state": "",
+                                "country": "fr",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-07-29T08:30:00+02:00",
+                            "createdTime": "2023-07-26T06:00:44-04:00",
+                            "endTime": "2023-07-29T20:00:00+02:00",
+                            "going": {
+                                "totalCount": 11,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": true,
+                            "isOnline": false,
+                            "eventType": "PHYSICAL",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "514676509",
+                                "source": "https://secure.meetupstatic.com/photos/event/d/c/b/d/highres_514676509.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1964824566",
+                                            "member": {
+                                                "id": "241140849",
+                                                "name": "Albin GAC",
+                                                "memberPhoto": {
+                                                    "id": "295286670",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/8/2/e/highres_295286670.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1964824699",
+                                            "member": {
+                                                "id": "379281351",
+                                                "name": "Red Persik",
+                                                "memberPhoto": {
+                                                    "id": "313727187",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/b/8/5/3/highres_313727187.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1964824779",
+                                            "member": {
+                                                "id": "327961069",
+                                                "name": "Chunchun",
+                                                "memberPhoto": {
+                                                    "id": "309210784",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/7/8/4/0/highres_309210784.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1964825476",
+                                            "member": {
+                                                "id": "241110509",
+                                                "name": "Rami Taleb",
+                                                "memberPhoto": {
+                                                    "id": "272362156",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/5/6/8/c/highres_272362156.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1964828168",
+                                            "member": {
+                                                "id": "379549145",
+                                                "name": "Soroush ",
+                                                "memberPhoto": {
+                                                    "id": "317163209",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/c/8/9/highres_317163209.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [
+                                "DELETE_CHAT_MESSAGE",
+                                "CHAT",
+                                "TAKE_ATTENDANCE",
+                                "DOWNLOAD_ATTENDEES",
+                                "UPLOAD_PHOTO",
+                                "ATTENDANCE",
+                                "EMAIL_ATTENDEES",
+                                "COMMENT",
+                                "COPY"
+                            ],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    },
+                    {
+                        "node": {
+                            "id": "294757545",
+                            "title": "ð¥¾âºð´ Hike : 2 days/1 night in Merlet alpine Hut ð (Belledonne) ððï¸",
+                            "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/294757545/",
+                            "description": "ð¡ Read full page by clicking on \"Read more\"/\"Lire la suite\"...ð\nJoining the event = Accepting the rules (See rule section below)\n\nâ If you are stuck in the waiting list, it's because you didn't read the event â\n\n== â­â­ Updates â­â­ ==\n\n* ð More cars = more seats. Seats (12/12): Albin (4), Thomas (4), Paul (4)\n* ð People in tent (1) : Albin (2)\n* ð People in the hut (9/10) : Mar, Thomas, Aryan, Anna, Nizar, aa, Hamid, Paul, Samir\n\n== ð¨ï¸ EN/FR ð¨ï¸ ==\nð¦/ð Our events are in English/French. Donât worry if you are not fluent. Nos Ã©vÃ¨nements sont en Anglais/FranÃ§ais. Ne vous inquiÃ©tez pas si vous nâÃªtes pas bilingue.\n\n==ð Meeting Point ð==\nMeet at parking \"Esplanade du Souvenir FranÃ§ais\" near Parc Paul Mistral at **event start time ðºSHARPðº**:\n\n* â° [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* â° [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== ð Transportation ð ==\nWe ride our cars for \\~1h30 and park top of \"Saint-Colomban-des-Villards\"\n\n* ð¿ï¸ [https://osm.org/go/0CA9oD3p_?m=](https://osm.org/go/0CA9oD3p_?m=)\n* ð¿ï¸ [https://goo.gl/maps/AKmZEHdpqrvo5N9E7](https://goo.gl/maps/AKmZEHdpqrvo5N9E7)\n\n== ð Car share ð ==\nCar share is 15â¬ per person. Include fuel, the expensive toll. We will be 4 in each car with big/heavy bags.\n\n== ð¥¾âºð´ Hike : 2 days/1 night in Merlet alpine Hut ð (Belledonne) ððï¸ ==\n\n=== â How to subscribe â ===\nJoin the waiting list. Copy, adapt and post a message here with this:\n\n1. I am sure to join and read the event\n2. I take my tent (X places) OR I sleep in the hut\n3. I have all the required equipment\n\n=== About the hut ===\nInfos: [https://s.42l.fr/T5_8dY-q](https://s.42l.fr/T5_8dY-q)\n\n* Hopefully water ð\n* No electricity, No toilet ð§»\n\n=== Day 1 ===\n\n* Hike to reach the hut\n* Picnic/sandwich on the way\n* Free afternoon: collecting wood, hiking, games, etc.\n* Dinner and night in the hut\n\nðºï¸ Topo & GPX track: [https://s.42l.fr/HKZOnG2x](https://s.42l.fr/HKZOnG2x) (click Export > GPX)\nð² Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\nð Distance: 8.2km\nâ±ï¸ Time: \\~2/3h of hike\nð D+: 800m\n\nMore hikes:\n\n* Lakes â5km â312m [https://s.42l.fr/kWluNngz](https://s.42l.fr/kWluNngz)\n* Col de MorÃ©tan ð2510m â8km â714m [https://s.42l.fr/1gWZiLRT](https://s.42l.fr/1gWZiLRT)\n* Col de PÃ©rioule ð2182m â6.2km â528m [https://s.42l.fr/Yju5mjc4](https://s.42l.fr/Yju5mjc4)\n\n=== Day 2 ===\nAnother lake ð in the morning. Then we go back to the car with a detour to an extra saddle \"La Lavoire\" for view and some chilling at a 2200m lake ðï¸. On the ð back to Grenoble we can chill in a hotter lake.\n\nðºï¸ Topo & GPX track: [https://s.42l.fr/zim2EBow](https://s.42l.fr/zim2EBow)\nð Distance: 11km\nâ±ï¸ Time: \\~3/4h of hike\nð D+: 1064m\n\nMore hike :\n\n* Lake in morning? [https://s.42l.fr/bitgTDhl](https://s.42l.fr/bitgTDhl)\n\nHotter lake by ð:\n\n* [https://osm.org/go/0CBu1FiuR-?m=](https://osm.org/go/0CBu1FiuR-?m=)\n* [https://goo.gl/maps/PmrgXbXi87A5mRrK7](https://goo.gl/maps/PmrgXbXi87A5mRrK7)\n\n== ð What to bring ð ==\n=== For hikes ===\n\n* ð Big hiking bag 40 or 50L mini âï¸**MANDATORY**\n* ð¥¾ Hiking shoes âï¸**MANDATORY**\n* ð¥¢ Hiking pole\n* ð©³ð©± swimsuit + towel\n* ð§ Water 3 or 4L mini. We should have water near the hut but we never know\n* ð« Snack and ð¥ food for 4 meals:\n* Saturday lunch: picnic/sandwich\n* Dinner: food to cook if you have cooking stove + gas\n* Sunday breakfast\n* Lunch: again picnic/sandwich\n* ðµ Ecocup/mug, fork, knife, trash bag, ...\n* âï¸ð§ï¸ 10Â°C Cold & rain gear\n* ð Sunscreen, ð Sunglasses\n* ðµ Car share money (exact change in cash)\n\n=== For the hut/night ===\n\n* ð¡ Headlamp âï¸**MANDATORY**\n* ð¤ Sleeping bag âï¸**MANDATORY** 0Â°c bag is a must\n* Sleeping pad (some mattress in the hut)\n* Inflatable pillow\n* ð¥ Cooking stove & camping gas if you want to cook food\n* Lighter/Match to light a fire in the hut\n* ð¡ Flip-flop to walk in/around the hut\n* ð¥¶ Warm clothes for the night. 10Â°c during the night\n* ð§» Toilet paper, soap, toothbrush... (no toilet up there)\n* Space blanket just in case\n\n== â Want to bring more â ==\n\n* ðª Some candles\n* â£ï¸ Card games\n* ð A book if you want to chill\n* ð¥¨ Food, ð« Tea bags or other stuff to share\n\n== ð Rules ð ==\n\n* ð¶ââï¸ð¶ââï¸ GAC is about hiking ð¥¾ and making friends ð¤, NOT flirting â\n* ð® No littering in nature. Decomposition: ð 6m, ð 2y, ð¥ 3y\n* ð Join waiting list for car availability\n* â° Donât be late, we wonât wait\n* ðº Seats in car(s) are limited, only subscribe if sure to join\n* â Unsubscribe or ð¬ message if canât join\n* ð Drivers: message me ASAP if you canât join\n* ð You are responsible for your own health and security\n\n\\*\\*\\*\nâ Need help ð¤ Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\nAlbin from GAC\n\nPS: Join our Telegram for more activities (ð§ââï¸, ð, ð³, ð², ð¥, ðµ, ð½ï¸). PM me on Meetup for the link.",
+                            "group": {
+                                "id": "33873418",
+                                "name": "Grenoble Adventure Club (English/French)",
+                                "__typename": "Group"
+                            },
+                            "creatorMember": {
+                                "id": "241140849",
+                                "__typename": "Member"
+                            },
+                            "eventHosts": [
+                                {
+                                    "memberId": "241140849",
+                                    "__typename": "EventHost"
+                                }
+                            ],
+                            "feeSettings": null,
+                            "venue": {
+                                "id": "26960063",
+                                "name": "Parking Public Clemenceau",
+                                "address": "20 Bd Clemenceau",
+                                "city": "Grenoble",
+                                "state": "",
+                                "country": "fr",
+                                "__typename": "Venue"
+                            },
+                            "dateTime": "2023-07-15T08:30:00+02:00",
+                            "createdTime": "2023-07-12T04:45:25-04:00",
+                            "endTime": "2023-07-16T21:00:00+02:00",
+                            "going": {
+                                "totalCount": 10,
+                                "__typename": "GoingRsvpConnection"
+                            },
+                            "isAttending": true,
+                            "isOnline": false,
+                            "eventType": "PHYSICAL",
+                            "status": "PAST",
+                            "series": null,
+                            "featuredEventPhoto": {
+                                "id": "514350335",
+                                "source": "https://secure.meetupstatic.com/photos/event/7/6/7/f/highres_514350335.jpeg",
+                                "__typename": "PhotoInfo"
+                            },
+                            "rsvps": {
+                                "edges": [
+                                    {
+                                        "node": {
+                                            "id": "1963250873",
+                                            "member": {
+                                                "id": "241140849",
+                                                "name": "Albin GAC",
+                                                "memberPhoto": {
+                                                    "id": "295286670",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/8/2/e/highres_295286670.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1963251219",
+                                            "member": {
+                                                "id": "369521419",
+                                                "name": "Mar",
+                                                "memberPhoto": {
+                                                    "id": "312208514",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/6/f/6/2/highres_312208514.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1963253867",
+                                            "member": {
+                                                "id": "314355468",
+                                                "name": "Niz",
+                                                "memberPhoto": {
+                                                    "id": "313562215",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/8/a/7/highres_313562215.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1963254032",
+                                            "member": {
+                                                "id": "202584926",
+                                                "name": "Thomas",
+                                                "memberPhoto": {
+                                                    "id": "255293814",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/d/2/3/6/highres_255293814.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    },
+                                    {
+                                        "node": {
+                                            "id": "1963254298",
+                                            "member": {
+                                                "id": "255214173",
+                                                "name": "Aryan Arora",
+                                                "memberPhoto": {
+                                                    "id": "306259999",
+                                                    "source": "https://secure.meetupstatic.com/photos/member/4/e/1/f/highres_306259999.jpeg",
+                                                    "__typename": "PhotoInfo"
+                                                },
+                                                "__typename": "Member"
+                                            },
+                                            "__typename": "Rsvp"
+                                        },
+                                        "__typename": "RsvpEdge"
+                                    }
+                                ],
+                                "__typename": "RsvpConnection"
+                            },
+                            "actions": [
+                                "DELETE_CHAT_MESSAGE",
+                                "CHAT",
+                                "TAKE_ATTENDANCE",
+                                "DOWNLOAD_ATTENDEES",
+                                "UPLOAD_PHOTO",
+                                "ATTENDANCE",
+                                "EMAIL_ATTENDEES",
+                                "COMMENT",
+                                "COPY"
+                            ],
+                            "rsvpSettings": {
+                                "rsvpsClosed": false,
+                                "__typename": "RsvpOpenSettings"
+                            },
+                            "isNetworkEvent": false,
+                            "networkEvent": null,
+                            "socialLabels": [],
+                            "__typename": "Event"
+                        },
+                        "__typename": "EventEdge"
+                    }
+                ],
+                "__typename": "GroupEventConnection"
+            },
+            "__typename": "Group"
+        }
+    }
+}

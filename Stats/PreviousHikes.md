@@ -4,7 +4,7 @@
 
 Choose one of the following map. When the map is loaded, click on one of the GPS hike track, a popup will be open showing:
 
-- the name og the hike
+- the name of the hike
 - a picture from the hike
 - a link to download the GPS track
 - a link to the meetup event to see more pictures and all the hike details
