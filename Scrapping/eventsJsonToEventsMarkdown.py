@@ -220,7 +220,7 @@ def create_events_index(events):
       # Loop through the markdown files for the year
       for e in md_dict[year]:
         # Write the markdown file as a list item
-        f.write(f"- [{e['date_str']} - {e['title']}]({e['file']})\n")
+        f.write(f"1. [{e['date_str']} - {e['title']}]({e['file']})\n")
 
       # Write a blank line after each year
       f.write(f"\n")
