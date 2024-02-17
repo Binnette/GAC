@@ -5,19 +5,19 @@ title: 🥾🟢/🔴 Hike+Lake: plan A 1100m↗ 🥵 ; plan B 250m↗ 😁
 
 # 🥾🟢/🔴 Hike+Lake: plan A 1100m↗ 🥵 ; plan B 250m↗ 😁
 
-![2022-07-09-valbonnais](/Stats/img/orig/2022-07-09-valbonnais.jpg)
+![2022-07-09-valbonnais](../img/orig/2022-07-09-valbonnais.jpg)
 
 💡 Read the full page by clicking on "Read more"/"Lire la suite"...💜
 Joining the event = Accepting the rules (See rule section below)
 
-## ⭐⭐ Updates ⭐⭐
+##  ⭐⭐ Updates ⭐⭐ 
 
 * 📅 July 7 - 10am: more cars = more seats. Seats: Albin (5), Samir (5)
 
-## 🗨️ EN/FR 🗨️
+##  🗨️ EN/FR 🗨️ 
 🦅/🐓 : we speak English/French in all our events. Don't worry if your English/French is not that good. Nos évènements sont en Anglais et Français. Ne soyez pas inquiets si votre niveau d'anglais n'est pas "suffisant".
 
-## 🥾🟢/🔴 Hike+Lake: plan A 1100m↗ 🥵 ; plan B 250m↗ 😁
+##  🥾🟢/🔴 Hike+Lake: plan A 1100m↗ 🥵 ; plan B 250m↗ 😁 
 
 * 🔴 Plan A 1100m↗ hard for good hikers
 * 🟢 Plan B 250m↗ so easy for noobs 🙃
@@ -32,28 +32,28 @@ We ride our cars for about 1h10m. Then park our car(s) directly at the lake "Lac
 * 🅿️ [https://www.osm.org/way/494876369](https://www.osm.org/way/494876369)
 * 🅿️ [https://goo.gl/maps/5TCG1APrBXvaRKtF7](https://goo.gl/maps/5TCG1APrBXvaRKtF7)
 
-## 🔴 Plan A
+##  🔴 Plan A 
 We climb 1100m, go see 2 alpine hut. Do a loop until going back to cars. Then chill at the lake. Then we go back to Grenoble Caliente City.
 
-Topo & GPX track: [https://s.42l.fr/uUdAZeRH](https://s.42l.fr/uUdAZeRH) (click Export > GPX)
-▶💡 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))
-Distance: 14km
-Time: \~6/7h of hike
-D+: 1100m
+* Topo & GPX track: [https://s.42l.fr/uUdAZeRH](https://s.42l.fr/uUdAZeRH) (click Export > GPX)
+* ▶💡 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))
+* Distance: 14km
+* Time: \~6/7h of hike
+* D+: 1100m
 
-## 🟢 Plan B
+##  🟢 Plan B 
 We do a flat hike for about climb 250m, go see 1 village. Do a loop until going back to cars. Then chill at the lake. Then we go back to Grenoble Caliente City.
 
-Topo & GPX track: [https://s.42l.fr/9mBVH9K6](https://s.42l.fr/9mBVH9K6) (click Export > GPX)
-▶💡 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))
-Distance: 14km
-Time: \~6/7h of hike
-D+: 250m
+* Topo & GPX track: [https://s.42l.fr/9mBVH9K6](https://s.42l.fr/9mBVH9K6) (click Export > GPX)
+* ▶💡 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))
+* Distance: 14km
+* Time: \~6/7h of hike
+* D+: 250m
 
-## =🚗 share=
+##  🚗 share 
 Car share will cost 8€ per person (fuel + "compensation" to get more drivers). 😷 You have to wear a mask in car. Fuel is very expensive at this time...
 
-## 💡 Rules 💡
+##  💡 Rules 💡 
 
 * 🚶‍♀️🚶‍♂️ The GAC group is about hiking 🥾 and why not making friends BUT NOT about flirting or speed dating ⛔
 * 😍 Hiking is about walking and enjoying nature
@@ -66,7 +66,7 @@ Car share will cost 8€ per person (fuel + "compensation" to get more drivers).
 * 💟 You are responsible of your own health and security
 * 😷 Covid rules: [https://www.gouvernement.fr/info-coronavirus](https://www.gouvernement.fr/info-coronavirus)
 
-## ❔ What do you need ❔
+##  ❔ What do you need ❔ 
 
 * 🥾 Hiking shoes (or any good/non slippery shoes)
 * Hiking pole (if you want)
@@ -93,7 +93,6 @@ PS: for more activities (cinema, tennis table, concert, etc), you can join our T
 - Duration: 11:30:00
 - Time to event: 1 day, 22:33:58
 - Attendees: 9
-
 - KM: 14
 - D+: 1090
 - Top: 1663

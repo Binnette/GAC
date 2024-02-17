@@ -281,4 +281,17 @@ title: Events index
 - [2023-11-05 - 🥾🔵 Hike: ⛄ snow walk "La Montagne de Lans" ⛷️](2023-11-05.md)
 - [2023-11-11 - 🥾🔴 Hike: ⛄ snow walk "Les 7 Laux" ⛷️](2023-11-11.md)
 - [2023-11-18 - 🥾🔵 Hike: From Vif to Le Pieu ⛰ 1270m 🍃🍁🍂](2023-11-18.md)
+- [2023-11-26 - 🥾🟢 Hike: Easy loop around Theys 🍂🏡🍁](2023-11-26.md)
+- [2023-12-03 - 🥾🔵 Hike: Snow Walk Peyrouse from St-Jean-de-Vaulx ⛄❄](2023-12-03.md)
+- [2023-12-10 - 🥾🟢 Hike: Easy loop near Laffrey and its lakes 🌅🌲🌄🐌](2023-12-10.md)
+- [2023-12-29 - GAC indoor activities: axe throwing](2023-12-29.md)
+
+# 2024
+
+- [2024-01-06 - 🥾🔵 Hike: From Tullins 🏙️ to Chartreuse Notre-Dame de Parmenie ⛪️](2024-01-06.md)
+- [2024-01-13 -  🎿 Ski: Ski for NOOB 2024 - Session 1 ⛷](2024-01-13.md)
+- [2024-01-21 - 🥾🔵 Hike: Loop around St-Georges-de-Commiers and walk along old train path 🚂](2024-01-21.md)
+- [2024-01-27 - 🥾🔵 Hike: enjoying the panoramic views and full-moon night sky deep in Vercors](2024-01-27.md)
+- [2024-01-28 - 🥾🟢 Hike: Sainte-Agnès, a village between forest 🌲 and mountains ⛰️](2024-01-28.md)
+- [2024-02-04 - 🥾🔴 Hike: La Scia from St-Pierre-de-Chartreuse ⛄❄🛷](2024-02-04.md)
 

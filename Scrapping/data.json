@@ -27583,6 +27583,892 @@
     "__typename": "Event"
   },
   {
+    "__typename": "Event",
+    "id": "298950788",
+    "title": "🥾🔴 Hike: La Scia from St-Pierre-de-Chartreuse ⛄❄🛷",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/298950788/",
+    "description": "💡 Click “Read more”/“Lire la suite” for full page ✅ Joining = Accepting rules (see below)\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Paul (5), Rémi (5), Walid (5), Thomas (5), Catie (5), Chunchun (4)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\nWe ride our cars for about 1h and park at St-Pierre-de-Chartreuse:\n\n* 🅿️ [https://osm.org/go/0CAdWNRs4?m=](https://osm.org/go/0CAdWNRs4?m=)\n* 🅿️ [https://maps.app.goo.gl/sjcbJhjwnXf7q4ng6](https://maps.app.goo.gl/sjcbJhjwnXf7q4ng6)\n\n== 🚗 Car share 🚗 ==\nCar share is 5€ per person (fuel + \"compensation\" to get more drivers).\n\n== For drivers 🚗 ==\nDrivers needs (mandatory):\n\n* ⛄Either 4 winter or 4 four seasons tires\n* 🔗Either 2 car snow chains (\\~25€ at Carrefour)\n* 🧦Either 2 car snow socks\n\n[https://www.service-public.fr/particuliers/actualites/A14389?lang=en](https://www.service-public.fr/particuliers/actualites/A14389?lang=en)\n\n== 🥾🔴 Hike: La Scia from St-Pierre-de-Chartreuse ⛄❄🛷 ==\n\n* 🔴 Hard for noobs. Very steep path with snow on top\n* 🔵 OK for good hikers\n\nWe are going to drive for about 50 minutes and get to the town of Saint-Pierre-de-Chartreuse. There is a ski resort there but it is shut down because of money problems. That’s why we can hike in the ski resort and get to the top. 🏔️ We will begin our walk from the village by following the river Guiers Mort. 🚶‍♂️ Then we will start our hard climb to the top and do our 950 meters of elevation in one go, but we will probably take some breaks on the way up. 😅 On the top, we should enjoy a 360 view over Chartreuse. 😍 Then the way down should be quicker as we can maybe slide down on the snow until the half of the ski resort. 🛷 Then we will have to keep hiking down in the forest and then back to our starting point. 🌲\n\n🗺️ Topo & GPX track: [https://s.42l.fr/B-WDpxYh](https://s.42l.fr/B-WDpxYh) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 9.7km\n⏱️ Time: \\~4/5h of hike\n📈 D+: 948m 🐱‍👓\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n== 🎒 What to bring 🎒 ==\n\n* 🥾 Hiking snow ready shoes (or keep you feet dry with plastic bags)\n* 🥢 Hiking poles (optional)\n* 🛷 Luge/sledge or thick plastic bag to slide down!\n* 🧤 Winter gloves, 🧥 jacket, [🧣](https://wprock.fr/t/emoji/cold-face/) scarf, 🧢 beanie,...\n* 🧃 Water (1-2L) + 🍫 Snacks + 🥗 Lunch\n* 🍵 Thermos with hot tea/coffee\n* ❄️🌧️ Cold & rain gear\n* 💡 Headlamp (night fall quickly now)\n* 🌞 Sunscreen, 😎 Sunglasses, 🤐🧊 Lip balm\n* 😁 Smile, 😊 Happiness\n\n\\*\\*\\*\n\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\n\nAlbin from GAC\n\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). Message me on Meetup for the link.",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:241140849"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "241140849"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:27119265"
+    },
+    "dateTime": "2024-02-04T09:00:00+01:00",
+    "createdTime": "2024-02-02T07:44:40-05:00",
+    "endTime": "2024-02-04T18:00:00+01:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 20
+    },
+    "isAttending": true,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "PAST",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:518859482"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1985726381"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1985726413"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1985726929"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1985727954"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1985736520"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "TAKE_ATTENDANCE",
+      "DOWNLOAD_ATTENDEES",
+      "UPLOAD_PHOTO",
+      "ATTENDANCE",
+      "EMAIL_ATTENDEES",
+      "COMMENT",
+      "COPY"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
+    "__typename": "Event",
+    "id": "298820053",
+    "title": "🥾🟢 Hike: Sainte-Agnès, a village between forest 🌲 and mountains ⛰️",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/298820053/",
+    "description": "💡 Click “Read more”/“Lire la suite” for full page ✅ Joining = Accepting rules (see below)\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Thomas (5)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\nWe ride our cars for about 25m and park at Sainte-Agnès:\n\n* 🅿️ [https://osm.org/go/0CAbNu2jq?m=](https://osm.org/go/0CAbNu2jq?m=)\n* 🅿️ [https://maps.app.goo.gl/CerSae3McpfqMnbs7](https://maps.app.goo.gl/CerSae3McpfqMnbs7)\n\n== 🚗 Car share 🚗 ==\nCar share is 3€ per person (fuel + \"compensation\" to get more drivers).\n\n== For drivers 🚗 ==\nDrivers needs (mandatory):\n\n* ⛄Either 4 winter or 4 four seasons tires\n* 🔗Either 2 car snow chains (\\~25€ at Carrefour)\n* 🧦Either 2 car snow socks\n\n[https://www.service-public.fr/particuliers/actualites/A14389?lang=en](https://www.service-public.fr/particuliers/actualites/A14389?lang=en)\n\n== 🥾🟢 Hike: Sainte-Agnès, a village between forest 🌲 and mountains ⛰️ ==\n\n* 🟢 Ok for regular hikers with mud ready shoes\n* 🔵 Maybe a bit steep for noobs\n\n🚗 We will park our cars in the village of Saint-Agnès, near the church and the townhall. 🏘️ 🥾 We will start our hike from here on a nice path until we get to a hill and hopefully have a view of the Grésivaudan valley. 🌄 🌲 Then we will enter the forest and do a loop around the village. 🌳 🏡 After that, we will leave the forest and go through the village and come back to our starting point. 🚗\n\n🗺️ Topo & GPX track: [https://s.42l.fr/vxvZ2C-J](https://s.42l.fr/vxvZ2C-J) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 10.5km\n⏱️ Time: \\~4/5h of hike\n📈 D+: 510m\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n== 🎒 What to bring 🎒 ==\n\n* 🥾 Hiking mud ready shoes (or keep you feet dry with plastic bags)\n* 🥢 Hiking poles (optional)\n* 🧤 Winter gloves, 🧥 jacket, [🧣](https://wprock.fr/t/emoji/cold-face/) scarf, 🧢 beanie,...\n* 🧃 Water (1-2L) + 🍫 Snacks + 🥗 Lunch\n* 🍵 Thermos with hot tea/coffee\n* ❄️🌧️ Cold & rain gear\n* 💡 Headlamp (night fall quickly now)\n* 🌞 Sunscreen, 😎 Sunglasses, 🤐🧊 Lip balm\n* 😁 Smile, 😊 Happiness\n\n\\*\\*\\*\n\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\n\nAlbin from GAC\n\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). Message me on Meetup for the link.",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:241140849"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "241140849"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:27119265"
+    },
+    "dateTime": "2024-01-28T09:30:00+01:00",
+    "createdTime": "2024-01-27T07:38:59-05:00",
+    "endTime": "2024-01-28T17:30:00+01:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 4
+    },
+    "isAttending": true,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "PAST",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:518728032"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1984986906"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1984986924"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1985012524"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1985029671"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "TAKE_ATTENDANCE",
+      "DOWNLOAD_ATTENDEES",
+      "UPLOAD_PHOTO",
+      "ATTENDANCE",
+      "EMAIL_ATTENDEES",
+      "COMMENT",
+      "COPY"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
+    "__typename": "Event",
+    "id": "298796068",
+    "title": "🥾🔵 Hike: enjoying the panoramic views and full-moon night sky deep in Vercors",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/298796068/",
+    "description": "💡 Click “Read more”/“Lire la suite” for full page ✅ Joining = Accepting rules (see below)\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Rémi (5), Paulo (5)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\nWe ride our cars for about 1 hour and park near Villard-de-Lans (Bois Barbu : domaine nordique du Haut Vercors):\n\n* 🅿️ [https://maps.app.goo.gl/JhwYx7E27BkKWmwN7](https://maps.app.goo.gl/JhwYx7E27BkKWmwN7)\n\n== 🚗 Car share 🚗 ==\nCar share is 6€ per person (fuel + \"compensation\" to get more drivers).\n\n== For drivers 🚗 ==\nDrivers needs (mandatory):\n\n* ⛄Either 4 winter or 4 four seasons tires\n* 🔗Either 2 car snow chains (\\~25€ at Carrefour)\n* 🧦Either 2 car snow socks\n\n[https://www.service-public.fr/particuliers/actualites/A14389?lang=en](https://www.service-public.fr/particuliers/actualites/A14389?lang=en)\n\n== 🥾🔵 Hike: Belvédère Château Julien from near Villard-de-Lans\n\n* 🔵 Ok for regular hikers with slippery/ice-ready shoes\n* 🔴 Some paths can be too steep for noobs with slippery mud/ice\n\nWe will do an afternoon+night hike in Vercors. I want to enjoy fullmoon during the night. So don't forget to bring warm tea/coffee, warm clothes and so on. Also don't forget to bring good non-slippery shoes as we may encounter icy paths. Also bringing hiking poles is a good idea to prevent sliding on ice. Since we will hike during the night, make sure to bring head lamp (or any lamp) and make sure you have charged your phone in case you want to use its flashlight to walk during the night.\nRough plan:\n\\- Start the hike at around 1 pm\\.\n\\- Reach \"Scialet de Malaterre\" at around 3\\-3:30 pm\\.\n[https://maps.app.goo.gl/E1bey3WsWpSGBjL46](https://maps.app.goo.gl/E1bey3WsWpSGBjL46)\n\\- Reach Chateau Julien at around 4 pm\\.\n[https://maps.app.goo.gl/FB2Dod5RffzrN5Mr6](https://maps.app.goo.gl/FB2Dod5RffzrN5Mr6)\n\\- Reach the viewpoint at around 4:30 pm\\.\n[https://maps.app.goo.gl/dwddfGRFxNTvG3zq9](https://maps.app.goo.gl/dwddfGRFxNTvG3zq9)\n\\- Enjoy the view and the sunset till 5:30\\-6 pm\\.\n\\- Reach the second viewpoint at around 7 pm\\.\n[https://maps.app.goo.gl/Jdb5uLATaMDFWwZo9](https://maps.app.goo.gl/Jdb5uLATaMDFWwZo9)\n\\- Return back to the cars at around 8 pm\\.\n\n🗺️ Topo & GPX track: [https://shorturl.at/bgUW6](https://shorturl.at/bgUW6) (click Export > GPX)\n\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 12.5km\n⏱️ Time: \\~4 hours of hike\n📈 D+: 570 m\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n== 🎒 What to bring 🎒 ==\n\n* 🥾 Hiking snow/ice ready shoes\n* 🥢 Hiking poles to prevent sliding on ice\n* 🧤 Winter gloves, 🧥 jacket, [🧣](https://wprock.fr/t/emoji/cold-face/) scarf, 🧢 beanie,...\n* 🧃 Water (1-2L) + 🍫 Snacks + 🥗 Lunch\n* 🍵 Thermos with hot tea/coffee\n* ❄️🌧️ Cold & rain gear\n* 💡 Headlamp or any lamp to walk during the night\n* 🌞 Sunscreen, 😎 Sunglasses, 🤐🧊 Lip balm\n* 😁 Smile, 😊 Happiness\n\n\\*\\*\\*\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\nHassan from GAC\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). Message me on Meetup for the link.",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:301379475"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "301379475"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:26960063"
+    },
+    "dateTime": "2024-01-27T12:00:00+01:00",
+    "createdTime": "2024-01-26T01:38:37-05:00",
+    "endTime": "2024-01-27T21:00:00+01:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 7
+    },
+    "isAttending": false,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "PAST",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:518710015"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1984868382"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1984870445"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1984872108"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1984886296"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1984898716"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "TAKE_ATTENDANCE",
+      "DOWNLOAD_ATTENDEES",
+      "UPLOAD_PHOTO",
+      "ATTENDANCE",
+      "EMAIL_ATTENDEES",
+      "COMMENT",
+      "COPY"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
+    "__typename": "Event",
+    "id": "298638373",
+    "title": "🥾🔵 Hike: Loop around St-Georges-de-Commiers and walk along old train path 🚂",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/298638373/",
+    "description": "💡 Click “Read more”/“Lire la suite” for full page ✅ Joining = Accepting rules (see below)\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Rémi (5)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\nWe ride our cars for about 30m and park at St-Georges-de-Commiers:\n\n* 🅿️ [https://osm.org/go/0CAA_X0JB?m=](https://osm.org/go/0CAA_X0JB?m=)\n* 🅿️ [https://maps.app.goo.gl/xFu4v9XHE4XeXm8t5](https://maps.app.goo.gl/xFu4v9XHE4XeXm8t5)\n\n== 🚗 Car share 🚗 ==\nCar share is 3€ per person (fuel + \"compensation\" to get more drivers).\n\n== For drivers 🚗 ==\nDrivers needs (mandatory):\n\n* ⛄Either 4 winter or 4 four seasons tires\n* 🔗Either 2 car snow chains (\\~25€ at Carrefour)\n* 🧦Either 2 car snow socks\n\n[https://www.service-public.fr/particuliers/actualites/A14389?lang=en](https://www.service-public.fr/particuliers/actualites/A14389?lang=en)\n\n== 🥾🔵 Hike: Loop around St-Georges-de-Commiers and walk along old train path 🚂 ==\n\n* 🔵 Ok for regular hikers with mud ready shoes\n* 🔴 Some path can be too steps for noobs with slippery mud\n\n🚗 We park our cars near a church in St-Georges-de-Commiers. 🚶‍♂️ We start by hiking in fields and reach another church. 🧗‍♀️ Then we climb up and hike in the forest, passing by some viewpoints. 🌲 Then we go back down and walk in Notre-Dame-de-Commiers and visit another church. ⛪ Finally, we hike on a path along the old train line of Train de la Mure until we get back to our start point. 🚂\n\n🗺️ Topo & GPX track: [https://s.42l.fr/7s104CRd](https://s.42l.fr/7s104CRd) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 13.5km\n⏱️ Time: \\~4/5h of hike\n📈 D+: 710m\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n== 🎒 What to bring 🎒 ==\n\n* 🥾 Hiking snow ready shoes (or keep you feet dry with plastic bags)\n* 🥢 Hiking poles (optional)\n* 🧤 Winter gloves, 🧥 jacket, [🧣](https://wprock.fr/t/emoji/cold-face/) scarf, 🧢 beanie,...\n* 🧃 Water (1-2L) + 🍫 Snacks + 🥗 Lunch\n* 🍵 Thermos with hot tea/coffee\n* ❄️🌧️ Cold & rain gear\n* 💡 Headlamp (night fall quickly now)\n* 🌞 Sunscreen, 😎 Sunglasses, 🤐🧊 Lip balm\n* 😁 Smile, 😊 Happiness\n\n\\*\\*\\*\n\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\n\nAlbin from GAC\n\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). Message me on Meetup for the link.",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:241140849"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "241140849"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:27119265"
+    },
+    "dateTime": "2024-01-21T09:00:00+01:00",
+    "createdTime": "2024-01-18T17:01:30-05:00",
+    "endTime": "2024-01-21T18:30:00+01:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 7
+    },
+    "isAttending": true,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "PAST",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:518575923"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1983976525"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1983977202"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1984017277"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1984019287"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1984020352"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "TAKE_ATTENDANCE",
+      "DOWNLOAD_ATTENDEES",
+      "UPLOAD_PHOTO",
+      "ATTENDANCE",
+      "EMAIL_ATTENDEES",
+      "COMMENT",
+      "COPY"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
+    "__typename": "Event",
+    "id": "298503169",
+    "title": " 🎿 Ski: Ski for NOOB 2024 - Session 1 ⛷",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/298503169/",
+    "description": "💡 Read full page by clicking on \"Read more/Lire la suite\".\nSubscribing = Joining = Accepting the rules (See rule section)\n\n🔺 This event is dedicated to beginners. If you are a good skier, leave your seat for somebody that never ski before. Also you can take the bus and join us or go to a bigger station.\n\n👀 I am not a ski teacher, but I will teach you the basics.\n\n== ⭐⭐ Updates ⭐⭐ ==\n\n* More cars = more seats. Seats: Albin (5), Thomas (5), Rémi (5), Hamid (5)\n* 14 by car / 1 by bus : Faty\n* **Didn't answer the \"bus or car?\" question : _**\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 : we speak English/French in all our events. Don't worry if your English/French is not that good. Nos évènements sont en Anglais et Français. Ne soyez pas inquiets si votre niveau d'anglais n'est pas \"suffisant\".\n\n== 🎿 Ski: Ski for NOOB 2024 - Session 1 ⛷ ==\n🟨 DO NOT BRING YOUR SKI. Except if you have your own car (there is not enough place in my car). We will rent ski directly at the station.\n\nMeet at **event time time SHARP** in parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral:\n\n* ⏰ [https://osm.org/go/0CASJNZuW?m=](https://osm.org/go/0CASJNZuW?m=)\n* ⏰ [https://goo.gl/maps/qPgvTu2icZmE1Ke97](https://goo.gl/maps/qPgvTu2icZmE1Ke97)\n\nWe ride our cars for about 45m. Then park our car(s) directly at the ski station :\n\n* 🅿️ [https://osm.org/go/0Aqu4biBm?m=](https://osm.org/go/0Aqu4biBm?m=)\n* 🅿️ [https://maps.app.goo.gl/C9cpyrpDXZqD9XPK9](https://maps.app.goo.gl/C9cpyrpDXZqD9XPK9)\n\n== 🎿 Ski renting🎿 ==\nWe rent ski directly at ski station. The shop is open 9am-12:30pm and 1pm-5pm. So we will stop ski near 4:30pm to bring the ski to the shop.\n\nRenting Ski + helmet \\~25€ (Detail here: [https://s.42l.fr/kUBuCnzS](https://s.42l.fr/kUBuCnzS))\n\n== 💲 Ski Pass 💲 ==\n\n* ✅ 14€ \"1st track pass\" ( beginner 1 day)\n* 19€ \"2nd track pass\" (intermediate 1 day)\n* 24€ \"adult pass\" (full station 1 day)\n\nMap & price: [https://skipass.lansenvercors.com/](https://skipass.lansenvercors.com/)\n\nIf you are happy with your \"ski teacher\" you can help him (me) pay his (my) ski pass. Thank you 😇💙\n\n=== 🚗 share 5€ ===\nCar share will cost 5€ per person (fuel + \"compensation\" to get more drivers).\n\n=== 🚌 Join by bus 13.80€ ===\n\n1. Take bus T64 at 7:40am in \"Grenoble Gare Routière\". Go down at \"Lans-en-Vercors Office de Tourisme (OT)\". Cost: 6.90€ (Pay with phone by sending 3z to 93038 when getting on board)\n2. Take the free bus (navette gratuite) at 8:55am from \"Lans-en-Vercors Office de Tourisme (OT)\" to \"Montagne de Lans\"\n3. Enjoy your skiing day\n4. Either try hitchhiking for free or take the same 2 buses back. Bus to Lans at 15:08, 16:04 & 17:20. Bus Lans-Grenoble T64: 16;50, 18:05 & 19:00 or T65: 15:50 & 18:10 (6.90€ again)\n\n=== For drivers 🚗 ===\nDrivers needs (❗**mandatory**❗):\n\n* ⛄Either 4 winter or 4 four seasons tires\n* 🔗Either 2 car snow chains (\\~25€ at Carrefour)\n* 🧦Either 2 car snow socks\n\n[https://www.service-public.fr/particuliers/actualites/A14389?lang=en](https://www.service-public.fr/particuliers/actualites/A14389?lang=en)\n\n== 💡 Rules 💡 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends BUT NOT about flirting or speed dating ⛔\n* Don't throw any dump 🚮 in nature even egg shell 🥚, fruit pelt 🍌, ... 🌳 ❤️ You\n* Subscribe = you are 100% that you want to join. When you no longer want to join, please unsubscribe to leave your seat for the next one. And that way we won't wait for you in the morning.\n* Subscribe on the waiting list. Maybe more cars will be available 🚗\n* Don't be late or at least send a message here.\n* Since seats in cars are \"rare\", please do not subscribe if you are not 100% sure to join\n* If you finally can't join us, please unsubscribe from the event 💜 That way, we won't wait for you 💜\n* If you are a driver and can't join, please send me a message through meetup ASAP, that way I can remove available seats 🚗\n* 🚗 Don't forget to bring the good amount of money for car share. And please don't forget to pay your driver.\n* 💟 You are responsible of your own health and security\n\n== ❔ What do you need ❔ ==\n\n* 🆔 ID card or \"residence permit\" to rent ski at shop\n* ⛔ NO SKI (I don't have place in my car. We will rent them at the shop)\n* 🧢 A ski helmet (mandatory, rent one at the shop for 5€)\n* 🧥 Snow/Warm clothes\n* 🧤 Ski gloves\n* 👖 Ski pants\n* 🧦 Ski socks or big warm socks\n* 🥾 Any good/non slippery shoes to walk on snow/ice\n* 🧃 Water + 🥪 Food for lunch + 🍫 Some snack\n* 🌞 Sun-cream / 😎 Sun glasses\n* 🎒 Backpack to carry food, water, sun-cream, ...\n* 😁 smile / 😊 Happiness\n* 💵 Cash for car share (bring the correct change)\n\n***\n\nIf you have any questions, please ask!\n\nSee you! Albin from GAC.\n\nFor more activities (cinema, concert, etc), join our Telegram group. Just ask me by message on meetup or IRL (in real life).",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:241140849"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "241140849"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:26960063"
+    },
+    "dateTime": "2024-01-13T08:30:00+01:00",
+    "createdTime": "2024-01-12T05:02:52-05:00",
+    "endTime": "2024-01-13T18:30:00+01:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 15
+    },
+    "isAttending": true,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "PAST",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:518445740"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1983194733"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1983194759"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1983194936"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1983194980"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1983195059"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "TAKE_ATTENDANCE",
+      "DOWNLOAD_ATTENDEES",
+      "UPLOAD_PHOTO",
+      "ATTENDANCE",
+      "EMAIL_ATTENDEES",
+      "COMMENT",
+      "COPY"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
+    "__typename": "Event",
+    "id": "298335698",
+    "title": "🥾🔵 Hike: From Tullins 🏙️ to Chartreuse Notre-Dame de Parmenie ⛪️",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/298335698/",
+    "description": "💡 Click “Read more”/“Lire la suite” for full page ✅ Joining = Accepting rules (see below)\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Paul (5), Thomas (5), Hamid (5)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\nWe ride our cars for about 30m and park at Tullins :\n\n* 🅿️ [https://osm.org/go/0Aq8fIf5A?m=](https://osm.org/go/0Aq8fIf5A?m=)\n* 🅿️ [https://maps.app.goo.gl/y9Sc1o6DDaGYPDeq5](https://maps.app.goo.gl/y9Sc1o6DDaGYPDeq5)\n\n== 🚗 Car share 🚗 ==\nCar share is 4€ per person (fuel + toll + \"compensation\" to get more drivers).\n\n== For drivers 🚗 ==\nDrivers needs (mandatory):\n\n* ⛄Either 4 winter or 4 four seasons tires\n* 🔗Either 2 car snow chains (\\~25€ at Carrefour)\n* 🧦Either 2 car snow socks\n\n[https://www.service-public.fr/particuliers/actualites/A14389?lang=en](https://www.service-public.fr/particuliers/actualites/A14389?lang=en)\n\n== 🥾🔵 Hike: From Tullins 🏙️ to Chartreuse Notre-Dame de Parmenie ⛪️ ==\n\n* 🔵 Ok for regular hikers with mud ready shoes\n* 🔴 Some path can be too steps for noobs with slippery mud\n\nHow about we avoid the rain and visit a beautiful church of the chartreuse order? 🌧️ We can park in Tullins near the town hall. 🚗 Our hike will begin by crossing several small bridges. 🌉 Then we will climb up and enjoy a scenic view. 🏞️ Next, we will take a side trip to see the church Chartreuse Notre-Dame de Parmenie. 🙏 After that, we will face a steep ascent to reach the highest point of our hike Marsonnat. 🗻 Then we will descend to a village called L’Eslinard. 🏘️ Finally, we will go back to Tullins and check out another church there before getting in our cars again. 🚙\n\n🗺️ Topo & GPX track: [https://s.42l.fr/pgdVqpJV](https://s.42l.fr/pgdVqpJV) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 14.1km\n⏱️ Time: \\~4/5h of hike\n📈 D+: 727m\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n== 🎒 What to bring 🎒 ==\n\n* 🥾 Hiking snow ready shoes (or keep you feet dry with plastic bags)\n* 🥢 Hiking poles (optional)\n* 🧤 Winter gloves, 🧥 jacket, [🧣](https://wprock.fr/t/emoji/cold-face/) scarf, 🧢 beanie,...\n* 🧃 Water (1-2L) + 🍫 Snacks + 🥗 Lunch\n* 🍵 Thermos with hot tea/coffee\n* ❄️🌧️ Cold & rain gear\n* 💡 Headlamp (night fall quickly now)\n* 🌞 Sunscreen, 😎 Sunglasses, 🤐🧊 Lip balm\n* 😁 Smile, 😊 Happiness\n\n\\*\\*\\*\n\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\n\nAlbin from GAC\n\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). Message me on Meetup for the link.",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:241140849"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "241140849"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:27119265"
+    },
+    "dateTime": "2024-01-06T09:00:00+01:00",
+    "createdTime": "2024-01-04T15:27:23-05:00",
+    "endTime": "2024-01-06T18:30:00+01:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 12
+    },
+    "isAttending": true,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "PAST",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:518302517"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1982237612"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1982237725"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1982238334"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1982238761"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1982238887"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "TAKE_ATTENDANCE",
+      "DOWNLOAD_ATTENDEES",
+      "UPLOAD_PHOTO",
+      "ATTENDANCE",
+      "EMAIL_ATTENDEES",
+      "COMMENT",
+      "COPY"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": true
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
+    "__typename": "Event",
+    "id": "298190705",
+    "title": "GAC indoor activities: axe throwing",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/298190705/",
+    "description": "Hello everyone,\n\nTomorrow, I will go to an axe-throwing bar to awaken my inner viking 😁\nIt would be more enjoyable to do it together. Here is the location of the bar:\n📍 https://maps.app.goo.gl/25UcWwGTa9s2Ra2t7\n\nIt is safer than it looks😉. You can come and see if you like it, and then decide to do it and pay on-site.\n\nThe plan is very simple, I have booked one \"cible\" for tomorrow Friday December 29 at 7 pm. You can reserve your place using the following link:\n📓 https://www.vikinghouse.fr/reservation/\n\nWe can choose a place to eat dinner together afterwards 🥪🌮🍕😃",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:301379475"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "301379475"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:27722738"
+    },
+    "dateTime": "2023-12-29T19:00:00+01:00",
+    "createdTime": "2023-12-28T14:37:19-05:00",
+    "endTime": "2023-12-29T20:00:00+01:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 2
+    },
+    "isAttending": false,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "PAST",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:518155569"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1981458253"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1981466143"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "TAKE_ATTENDANCE",
+      "DOWNLOAD_ATTENDEES",
+      "UPLOAD_PHOTO",
+      "ATTENDANCE",
+      "EMAIL_ATTENDEES",
+      "COMMENT",
+      "COPY"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
+    "__typename": "Event",
+    "id": "297831868",
+    "title": "🥾🟢 Hike: Easy loop near Laffrey and its lakes 🌅🌲🌄🐌",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/297831868/",
+    "description": "💡 Click “Read more”/“Lire la suite” for full page ✅ Joining = Accepting rules (see below)\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Thomas (5), Rémi (5), Joao (5)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\nWe ride our cars for about 40m and park at Laffrey :\n\n* 🅿️ [https://osm.org/go/0CACyoOlH?m=](https://osm.org/go/0CACyoOlH?m=)\n* 🅿️ [https://maps.app.goo.gl/ZGQjwN7yPtGD67969](https://maps.app.goo.gl/ZGQjwN7yPtGD67969)\n\n== 🚗 Car share 🚗 ==\nCar share is 4€ per person (fuel + \"compensation\" to get more drivers).\n\n== For drivers 🚗 ==\nDrivers needs (mandatory):\n\n* ⛄Either 4 winter or 4 four seasons tires\n* 🔗Either 2 car snow chains (\\~25€ at Carrefour)\n* 🧦Either 2 car snow socks\n\n[https://www.service-public.fr/particuliers/actualites/A14389?lang=en](https://www.service-public.fr/particuliers/actualites/A14389?lang=en)\n\n== 🥾🟢 Hike: Easy loop near Laffrey and its lakes 🌅🌲🌄🐌 ==\n\n* 🟢 : Too easy, ask your grandma to join.\n\nHow about some sunshine in Laffrey this Sunday? 🌞 We’ll drive for 40 minutes and park in Laffrey. We will start our hike straight in plains and forest. 🌲 We'll pass by the dam of Lac Mort. 🌊 From there we’ll hike on the road until we get to the hamlet “Le Sappey”. There we’ll admire the view from an old church. ⛪ Then we’ll begin our real ascent. We’ll stop at the Belvédère du Fond des Sciaux. 🌄 Then we’ll climb to the top named Canier (1221m) and enjoy some view on the way down. 🏔 Then we’ll descend to Cholonge. Then we'll walk around the lake of Laffrey. 🌳 And finally return to our cars. 🚗\n\n🗺️ Topo & GPX track: [https://s.42l.fr/7pOUT96k](https://s.42l.fr/7pOUT96k) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 14.8km\n⏱️ Time: \\~4/5h of hike\n📈 D+: 419m\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n== 🎒 What to bring 🎒 ==\n\n* 🥾 Hiking snow ready shoes (or keep you feet dry with plastic bags)\n* 🥢 Hiking poles (optional)\n* 🧤 Winter gloves, 🧥 jacket, [🧣](https://wprock.fr/t/emoji/cold-face/) scarf, 🧢 beanie,...\n* 🧃 Water (1-2L) + 🍫 Snacks + 🥗 Lunch\n* 🍵 Thermos with hot tea/coffee\n* ❄️🌧️ Cold & rain gear\n* 💡 Headlamp (night fall quickly now)\n* 🌞 Sunscreen, 😎 Sunglasses, 🤐🧊 Lip balm\n* 😁 Smile, 😊 Happiness\n\n\\*\\*\\*\n\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\n\nAlbin from GAC\n\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). Message me on Meetup for the link.",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:241140849"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "241140849"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:27119265"
+    },
+    "dateTime": "2023-12-10T09:00:00+01:00",
+    "createdTime": "2023-12-08T09:05:27-05:00",
+    "endTime": "2023-12-10T18:30:00+01:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 12
+    },
+    "isAttending": true,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "PAST",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:517773653"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1979753169"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1979753482"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1979753629"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1979755960"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1979756033"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "TAKE_ATTENDANCE",
+      "DOWNLOAD_ATTENDEES",
+      "UPLOAD_PHOTO",
+      "ATTENDANCE",
+      "EMAIL_ATTENDEES",
+      "COMMENT",
+      "COPY"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
+    "__typename": "Event",
+    "id": "297699455",
+    "title": "🥾🔵 Hike: Snow Walk Peyrouse from St-Jean-de-Vaulx ⛄❄",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/297699455/",
+    "description": "💡 Click “Read more”/“Lire la suite” for full page ✅ Joining = Accepting rules (see below)\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Paul (5), Thomas (5), Joao+3 (5)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\nWe ride our cars for about 40m and park at Saint-Jean-de-Vaulx :\n\n* 🅿️ [https://osm.org/go/0CACkEiyT?m=](https://osm.org/go/0CACkEiyT?m=)\n* 🅿️ [https://maps.app.goo.gl/Yywi5HRk3zRKJGPVA](https://maps.app.goo.gl/Yywi5HRk3zRKJGPVA)\n\n=== For drivers 🚗 ===\nDrivers needs (mandatory):\n\n* ⛄Either 4 winter or 4 four seasons tires\n* 🔗Either 2 car snow chains (\\~25€ at Carrefour)\n* 🧦Either 2 car snow socks\n\n[https://www.service-public.fr/particuliers/actualites/A14389?lang=en](https://www.service-public.fr/particuliers/actualites/A14389?lang=en)\n== 🚗 Car share 🚗 ==\nCar share is 4€ per person (fuel + \"compensation\" to get more drivers).\n\n== 🥾🔵 Hike: Snow Walk Peyrouse from St-Jean-de-Vaulx ⛄❄ ==\n\n* 🔵/🔴 A bit steep for beginners. Don't forget snow ready shoes\n* 🟢 Easy for good hikers.\n\n🌧️🌨️ After a wet and cold Saturday, let’s enjoy a nice snow walk hike on Sunday. I have chosen a lower mountain to avoid any danger of avalanches and snow on the road. We will drive our cars for 40 minutes and park at the village of Saint-Jean-de-Vaulx. 🚗🚙 From there, we will begin our climb and pass by a small hamlet called les Arnauds. 🏘️ We will keep hiking until we reach the mountain named Beauregard (which means good looking eyes in English). 👀 We will go down and up again until la Peyrouse, which is the highest point of our journey (1710m). 🏔️ We will have our lunch break there and admire the view. 🍽️👌 Then we will start sliding down and walking down until another small hamlet named le Villaret. 🛷🚶‍♂️ From there, we will follow a path along the road to get back to our cars. 🛣️ I hope to see you for this adventure! 🙌\n\n🗺️ Topo & GPX track: [https://s.42l.fr/j1OmXr_W](https://s.42l.fr/j1OmXr_W) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 15km\n⏱️ Time: \\~4/5h of hike\n📈 D+: 763m\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n== 🎒 What to bring 🎒 ==\n\n* 🥾 Hiking snow ready shoes\n* (Put plastic bags in your shoes to keep your feet dry)\n* 🥢 Hiking poles (optional)\n* 🧤 Winter gloves, 🧥 jacket, [🧣](https://wprock.fr/t/emoji/cold-face/) scarf, 🧢 beanie,...\n* 🛷 A plastic bag or sledge to have fun in snow\n* 🧃 Water (1-2L) + 🍫 Snacks + 🥗 Lunch\n* 🍵 Thermos with hot tea/coffee\n* ❄️🌧️ Cold & rain gear (around 12°C on top)\n* 💡 Headlamp (night fall quickly now)\n* 🌞 Sunscreen, 😎 Sunglasses, 🤐🧊 Lip balm\n* 😁 Smile, 😊 Happiness\n\n\\*\\*\\*\n\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\n\nAlbin from GAC\n\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). Message me on Meetup for the link.",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:241140849"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "241140849"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:27119265"
+    },
+    "dateTime": "2023-12-03T08:30:00+01:00",
+    "createdTime": "2023-12-01T10:07:33-05:00",
+    "endTime": "2023-12-03T18:30:00+01:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 16
+    },
+    "isAttending": true,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "PAST",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:517617576"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1979075924"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1979076172"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1979076245"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1979076504"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1979077233"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "TAKE_ATTENDANCE",
+      "DOWNLOAD_ATTENDEES",
+      "UPLOAD_PHOTO",
+      "ATTENDANCE",
+      "EMAIL_ATTENDEES",
+      "COMMENT",
+      "COPY"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
+    "__typename": "Event",
+    "id": "297556849",
+    "title": "🥾🟢 Hike: Easy loop around Theys 🍂🏡🍁",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/297556849/",
+    "description": "💡 Click “Read more”/“Lire la suite” for full page ✅ Joining = Accepting rules (see below)\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Rémi (5), Thomas (5), Khaled+1 (5)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\nWe ride our cars for about 30m and park in Theys :\n\n* 🅿️ [https://osm.org/go/0CA0W2XnV?m=](https://osm.org/go/0CA0W2XnV?m=)\n* 🅿️ [https://maps.app.goo.gl/5eWLARvZcpCpHYWP8](https://maps.app.goo.gl/5eWLARvZcpCpHYWP8)\n\n== 🚗 Car share 🚗 ==\nCar share is 3€ per person (fuel + \"compensation\" to get more drivers).\n\n== 🥾🟢 Hike: Easy loop around Theys 🍂🏡🍁 ==\n\n* 🟢/🔵 Beginners welcome, no difficulty.\n* 😎 Too easy for good hikers.\n\nWe’re off for a chill hike 🥾. We even have time to sleep in 😴 on this beautiful Sunday ☀️, a perfect opportunity to picnic 🧺 in the sun 🌞 while looking at the snowy mountains 🏔️. After a short half hour drive 🚗, we’ll park in the center of Theys Village 🏘️. From there, we’ll start our little loop 🔄 by gaining some altitude 📈, which should give us a nice view 🌄 of the village and the surroundings. We’ll continue our climb 🧗‍♂️ until a large meadow 🌳 where I hope we’ll have a pleasant view 🌼 for our snack break 🍞. After that, we’ll tackle the last ascent 🚵‍♀️ of the day to be able to join the way back to Theys 🛣️. We’ll go through different hamlets and woods 🌲 on our way.\n\n🗺️ Topo & GPX track: [https://s.42l.fr/kKgo0xaH](https://s.42l.fr/kKgo0xaH) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 13km\n⏱️ Time: \\~4/5h of hike\n📈 D+: 600m\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n== 🎒 What to bring 🎒 ==\n\n* 🥾 Hiking shoes\n* 🥢 Hiking poles (optional)\n* 🧤 Winter gloves, 🧥 jacket, [🧣](https://wprock.fr/t/emoji/cold-face/) scarf, 🧢 beanie,...\n* 🧃 Water (1-2L) + 🍫 Snacks + 🥗 Lunch\n* 🍵 Thermos with hot tea/coffee\n* ❄️🌧️ Cold & rain gear (around 12°C on top)\n* 💡 Headlamp (for the fog?)\n* 🌞 Sunscreen, 😎 Sunglasses, 🤐🧊 Lip balm\n* 😁 Smile, 😊 Happiness\n\n\\*\\*\\*\n\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\n\nAlbin from GAC\n\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). Message me on Meetup for the link.",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:241140849"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "241140849"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:27119265"
+    },
+    "dateTime": "2023-11-26T09:30:00+01:00",
+    "createdTime": "2023-11-24T06:28:09-05:00",
+    "endTime": "2023-11-26T18:00:00+01:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 13
+    },
+    "isAttending": true,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "PAST",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:517480291"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1978348365"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1978348410"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1978348648"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1978349092"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1978350239"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "TAKE_ATTENDANCE",
+      "DOWNLOAD_ATTENDEES",
+      "UPLOAD_PHOTO",
+      "ATTENDANCE",
+      "EMAIL_ATTENDEES",
+      "COMMENT",
+      "COPY"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
     "id": "282066634",
     "title": " 🥾 Hike: Gorges du Bruyant + Bec de l'Aigle 🐟️🍁",
     "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/282066634/",

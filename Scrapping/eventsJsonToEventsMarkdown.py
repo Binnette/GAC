@@ -55,20 +55,38 @@ def format_description(description):
   # Split the string by newline characters
   string_list = description.split("\n")
 
+  starts = [
+    "🗺️ Topo & GPX track:",
+    "📲 Download GPX",
+    "📏 Distance:",
+    "⏱️ Time:",
+    "📈 D+:",
+    "Topo & GPX track:",
+    "▶💡 Download GPX",
+    "Distance:",
+    "Time:",
+    "D+:",
+  ]
+
   # Create an empty list to store the formatted lines
   formatted_list = []
 
   # Loop through the string list
   for line in string_list:
-    # Check if the line matches the pattern "==.*=="
-    if re.match("==.*==", line):
-      # Remove all "=" characters from the line
-      line = line.replace("== ", "")
-      line = line.replace(" ==", "")
-      line = line.replace("==", "")
+    if re.match("\*\*.*\*\*", line):
+      line = line.replace("**", "")
 
+    if re.match("^=+$", line):
+      line = "---------------"
+    elif re.match("^[\s=]+$", line):
+      line = ""
+    elif re.match("^=.*", line):
+      line = line.lstrip("=")
+      line = line.rstrip("=")
       # Add "##" at the start of the line
       line = "## " + line
+    elif any(line.startswith(x) for x in starts):
+      line = "* " + line
 
     # Append the formatted line to the list
     formatted_list.append(line)
@@ -137,14 +155,14 @@ def createMarkdownFileForEvent(event):
     f.write(f"title: {title}\n")
     f.write(f"---\n\n")
     f.write(f"# {title}\n\n")
-    f.write(f"![{date_str_with_suffix}](/Stats/img/orig/{date_str_with_suffix}.jpg)\n\n")
+    f.write(f"![{date_str_with_suffix}](../img/orig/{date_str_with_suffix}.jpg)\n\n")
     f.write(f"{description}\n\n")
     f.write(f"## Stats\n\n")
     f.write(f"- Start time: {start_str}\n")
     f.write(f"- End time: {end_str}\n")
     f.write(f"- Duration: {duration_str}\n")
     f.write(f"- Time to event: {planned_str}\n")
-    f.write(f"- Attendees: {going}\n\n")
+    f.write(f"- Attendees: {going}\n")
     f.write(f"- KM: {km}\n")
     f.write(f"- D+: {dplus}\n")
     f.write(f"- Top: {top}\n")

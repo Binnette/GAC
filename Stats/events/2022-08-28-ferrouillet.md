@@ -5,19 +5,19 @@ title: 🥾⚫ Hike: 🥵~1500m↗🤯 Ferrouillet & Lac de Crop 🏊
 
 # 🥾⚫ Hike: 🥵~1500m↗🤯 Ferrouillet & Lac de Crop 🏊 
 
-![2022-08-28-ferrouillet](/Stats/img/orig/2022-08-28-ferrouillet.jpg)
+![2022-08-28-ferrouillet](../img/orig/2022-08-28-ferrouillet.jpg)
 
 💡 Read full page by clicking on "Read more"/"Lire la suite"...💜
 Joining the event = Accepting the rules (See rule section below)
 
-## ⭐⭐ Updates ⭐⭐
+##  ⭐⭐ Updates ⭐⭐ 
 
 * 📅 August 27 - 9am: more cars = more seats. Seats: Albin (5), Sina (5)
 
-## 🗨️ EN/FR 🗨️
+##  🗨️ EN/FR 🗨️ 
 🦅/🐓 : we speak English/French in all our events. Don't worry if your English/French is not that good. Nos évènements sont en Anglais et Français. Ne soyez pas inquiets si votre niveau d'anglais n'est pas "suffisant".
 
-## 🥾⚫ Hike: 🥵\~1500m↗🤯 Ferrouillet & Lac de Crop 🏊
+##  🥾⚫ Hike: 🥵\~1500m↗🤯 Ferrouillet & Lac de Crop 🏊 
 
 * ⚫ Looong hike and walking on bare rocks (no path). Hiking shoes mandatory.
 
@@ -33,16 +33,16 @@ We ride our cars for \~45mn. Then park at "Le Muret":
 
 We will do a loop by starting to go to "Pas de la Coche". Then we go to "Le Ferrouillet". Then go down to the "Lac de Crop" and swim a bit. Finally we go back to the parking and to Grenoble Mucho Calor.
 
-Topo & GPX track: [https://s.42l.fr/URkn6x3H](https://s.42l.fr/URkn6x3H) (click Export > GPX)
-▶💡 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))
-Distance: 17km
-Time: \~7/8h of hike
-D+: 1500m
+* Topo & GPX track: [https://s.42l.fr/URkn6x3H](https://s.42l.fr/URkn6x3H) (click Export > GPX)
+* ▶💡 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))
+* Distance: 17km
+* Time: \~7/8h of hike
+* D+: 1500m
 
-## =🚗 share=
+##  🚗 share 
 Car share will cost 4€ per person (fuel + "compensation" to get more drivers). 😷 You have to wear a mask in car. Fuel is very expensive at this time...
 
-## 💡 Rules 💡
+##  💡 Rules 💡 
 
 * 🚶‍♀️🚶‍♂️ The GAC group is about hiking 🥾 and why not making friends BUT NOT about flirting or speed dating ⛔
 * 😍 Hiking is about walking and enjoying nature
@@ -55,7 +55,7 @@ Car share will cost 4€ per person (fuel + "compensation" to get more drivers).
 * 💟 You are responsible of your own health and security
 * 😷 Covid rules: [https://www.gouvernement.fr/info-coronavirus](https://www.gouvernement.fr/info-coronavirus)
 
-## ❔ What do you need ❔
+##  ❔ What do you need ❔ 
 
 * 🥾 Hiking shoes MANDATORY
 * 🥢 Hiking pole (recommended)
@@ -81,7 +81,6 @@ PS: for more activities (cinema, tennis table, concert, etc), you can join our T
 - Duration: 11:30:00
 - Time to event: 1 day, 12:55:19
 - Attendees: 10
-
 - KM: 16.6
 - D+: 1435
 - Top: 2587
