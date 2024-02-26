@@ -5,7 +5,7 @@ import re
 import requests
 
 # Open the data.json file and load it as a python dictionary
-with open("data.json") as f:
+with open("data.json", encoding='utf-8') as f:
   data = json.load(f)
 
 # Get the events from the data dictionary

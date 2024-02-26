@@ -46,7 +46,7 @@ def merge_events_lists(list1, list2):
       # Update the value of dict1 with the value of dict2
       dict1[key].update(dict2[key])
     else:
-      print(f'event not found: {key} - {dict1[key]["title"]}')
+      print(f'🔴 Event not found in CSV: {key} - {dict1[key]["title"]}')
 
   # Convert the dictionary values to a list
   return list(dict1.values())
@@ -73,14 +73,14 @@ def format_description(description):
 
   # Loop through the string list
   for line in string_list:
-    if re.match("\*\*.*\*\*", line):
+    if re.match(r"\*\*.*\*\*", line):
       line = line.replace("**", "")
 
-    if re.match("^=+$", line):
+    if re.match(r"^=+$", line):
       line = "---------------"
-    elif re.match("^[\s=]+$", line):
+    elif re.match(r"^[\s=]+$", line):
       line = ""
-    elif re.match("^=.*", line):
+    elif re.match(r"^=.*", line):
       line = line.lstrip("=")
       line = line.rstrip("=")
       # Add "##" at the start of the line
@@ -108,8 +108,9 @@ def createMarkdownFileForEvent(event):
   create = event["createdTime"]
   going = event["going"]["totalCount"]
 
-  if "Suffix" not in event:
-    print(f'🔴 No Suffix for hike {title}')
+  if "Suffix" not in event or "KM" not in event:
+    print(f'🔴 Hike not found in CSV file: {start} - {title}')
+    return
 
   suffix = event["Suffix"]
   km = event["KM"]
@@ -121,9 +122,6 @@ def createMarkdownFileForEvent(event):
   trailShortLink = event["TrailShortLink"]
   trailFullLink = event["TrailFullLink"]
   album = event["Album"]
-
-  if f'{people}' != f'{going}':
-    print(f'🔴 Error people={people} and going={going}')
 
   # Convert the date and time strings to datetime objects
   start = datetime.datetime.fromisoformat(start)
@@ -145,11 +143,14 @@ def createMarkdownFileForEvent(event):
   if len(suffix) > 1:
     date_str_with_suffix = f'{date_str}-{suffix}'
 
+  if f'{people}' != f'{going}':
+    print(f'🟡 Warning csv.people={people} json.going={going} for hike: {date_str} - {title}')
+
   # Create the markdown file name
   md_file = f"../Stats/events/{date_str_with_suffix}.md"
 
   # Write the markdown content to the file
-  with open(md_file, "w") as f:
+  with open(md_file, "w", encoding='utf-8') as f:
     f.write(f"---\n")
     f.write(f"layout: default\n")
     f.write(f"title: {title}\n")
@@ -174,7 +175,7 @@ def createMarkdownFileForEvent(event):
     f.write(f"- [Album]({albumUrl})\n")
     f.write(f"- [Meetup event]({event_url})\n")
 
-    print(f"Markdown file created: {md_file}")
+    #print(f"Markdown file created: {md_file}")
     return {
       "file": f"{date_str_with_suffix}.md",
       "date": start,
@@ -206,7 +207,7 @@ def create_events_index(events):
   md_file = "../Stats/events/index.md"
 
   # Write the markdown content to the file
-  with open(md_file, "w") as f:
+  with open(md_file, "w", encoding='utf-8') as f:
     f.write(f"---\n")
     f.write(f"layout: default\n")
     f.write(f"title: Events index\n")
@@ -231,7 +232,7 @@ def create_events_index(events):
 csv_events = csv_to_array(csv_file)
 
 # Open the json file and load the data
-with open(json_file, "r") as f:
+with open(json_file, "r", encoding='utf-8') as f:
     data = json.load(f)
 
 # Get the events from the data dictionary
@@ -245,6 +246,9 @@ merged_events = merge_events_lists(events, csv_events)
 
 # Create a list of csv rows by mapping each filtered event to a csv row
 markdown_files = [createMarkdownFileForEvent(event) for event in merged_events]
+
+# create a new list without None values
+markdown_files = [e for e in markdown_files if e is not None]
 
 # Sort the list by data in ascending order using a lambda function
 markdown_files.sort(key=lambda e: e['date'])

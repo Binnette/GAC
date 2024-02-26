@@ -45,7 +45,7 @@ for file in os.listdir(folder):
   # Check if the file is a json file
   if file.endswith(".json"):
     # Open the file and load the data
-    with open(os.path.join(folder, file), "r") as f:
+    with open(os.path.join(folder, file), "r", encoding='utf-8') as f:
       data = json.load(f)
 
     if "data" in data:
@@ -57,7 +57,7 @@ for file in os.listdir(folder):
 global_list = list(global_dict.values())
 
 # Open a file for writing the output
-with open(output, "w") as f:
+with open(output, "w", encoding='utf-8') as f:
   # Dump the global list to the file in JSON format
   json.dump(global_list, f, indent=2, ensure_ascii=False)
 

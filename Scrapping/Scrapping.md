@@ -96,18 +96,19 @@ for p in *.jpeg; do
 done
 ```
 
-## [DEPRECATED] Scrapping hikes
+## Scrap hikes for CSV
 
 ```js
 var events = [];
 document.querySelectorAll("ul.w-full > li").forEach(eventElement => {
-  var timestamp = Number(eventElement.querySelector("time").getAttribute("datetime"));
-  var date = new Date(timestamp);
-  var dateString = `'${date.toISOString().slice(0, 10)}`;
-  var suffix = "", km = "", dplus = "", ele = "", comment = "", attendees = "";
+  var strDateTime = eventElement.querySelector("time").textContent;
+  var iso = strDateTime.replace(/,|Sun|AM/g, "").trim() + "Z";
+  var date = new Date(iso);
+  var dateString = `${date.toISOString().slice(0, 10)}`;
+  var km = "", dplus = "", people = "";
   var attendeesSection = eventElement.querySelector(".items-center span.hidden");
   if (attendeesSection) {
-    attendees = Number(attendeesSection.innerText.split(" ")[0]);
+    people = Number(attendeesSection.innerText.split(" ")[0]);
   }
   var titleElement = eventElement.querySelector(".ds-font-title-3");
   var title = titleElement.innerText.replaceAll('"', "'");
@@ -119,7 +120,10 @@ document.querySelectorAll("ul.w-full > li").forEach(eventElement => {
   } else if (title.includes('🥾') || title.toLowerCase().includes('hike')) {
     type = 'Hike';
   }
-  var url = eventElement.querySelector("a").href;
+  var url = eventElement.querySelector("a").href.trim("/");
+  if (url.endsWith("/")) url = url.slice(0, -1);
+  parts = url.split("/");
+  var id = parts[parts.length - 1];
   var trails = [];
   eventElement.querySelectorAll("a[href*='https://s.42l.fr']").forEach(trailElement => {
     trails.push(trailElement.href);
@@ -128,9 +132,12 @@ document.querySelectorAll("ul.w-full > li").forEach(eventElement => {
   km = distanceMatch ? parseFloat(distanceMatch[1]) : '';
   var dplusMatch = eventElement.textContent.match(/D\+: ([0-9]+)m/);
   dplus = dplusMatch ? parseFloat(dplusMatch[1]) : '';
-  events.unshift([dateString, suffix, km, dplus, ele, attendees, `"${title}"`, type, comment, url, trails.join(";")].join(","));
+  var albumTitle = title.replaceAll(":", " ").replaceAll("  ", " ").replaceAll(" ", "-").trim();
+  var album = `${dateString}-${albumTitle}.html`;
+  events.unshift([`'${dateString}`, "", km, dplus, "", people, `"${title}"`, type, "", id, url, trails.join(";"), "", "", "", `"${album}"`, ""].join(","));
 });
-var headers = ["date", "suffix", "km", "dplus", "ele", "attendees", "title", "type", "comment", "url", "trails"];
+var headers = ["Date", "Suffix", "KM", "Dplus", "Top", "People", "Name", "Type", "Comment", "id", "EventLink", "TrailShortLink", "TrailFullLink", "Trail1", "Trail2", "Album", "HavePhoto"];
+
 events.unshift(headers.join(","));
 events.push(headers.join(","));
 events.join('\n');

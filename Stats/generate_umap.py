@@ -230,7 +230,7 @@ def parseFeatureFromCsvRow(row):
 
 def parseFeaturesFromCsvFile():
     features = []
-    with open(csvFilename) as f:
+    with open(csvFilename, encoding='utf-8') as f:
         reader = csv.DictReader(f, delimiter=',')
         for row in reader:
             feature = parseFeatureFromCsvRow(row)

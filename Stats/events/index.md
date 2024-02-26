@@ -294,4 +294,6 @@ title: Events index
 1. [2024-01-27 - 🥾🔵 Hike: enjoying the panoramic views and full-moon night sky deep in Vercors](2024-01-27.md)
 1. [2024-01-28 - 🥾🟢 Hike: Sainte-Agnès, a village between forest 🌲 and mountains ⛰️](2024-01-28.md)
 1. [2024-02-04 - 🥾🔴 Hike: La Scia from St-Pierre-de-Chartreuse ⛄❄🛷](2024-02-04.md)
+1. [2024-02-18 - 🥾🔵 Hike: Snow walk in Vercors ⛄🛷, loop around Charande 🗻](2024-02-18.md)
+1. [2024-02-25 - 🥾🟢 Hike: Easy loop between Poliénas and l'Albenc 🏡🌲🌳🍃](2024-02-25.md)
 

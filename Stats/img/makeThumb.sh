@@ -5,6 +5,11 @@
 for file in ./orig/*.jpg; do
   # Get the file name without the path
   filename=$(basename "$file")
-  # Use image magick to resize the image and save it in the . folder
-  convert "$file" -resize 400x "$filename"
+  # Check if the file already exists in the current directory
+  if [ ! -e "$filename" ]; then
+    # Use image magick to resize the image and save it in the . folder
+    convert "$file" -resize 400x "$filename"
+    # Print thumb name
+    echo "Converted: $filename"
+  fi
 done
