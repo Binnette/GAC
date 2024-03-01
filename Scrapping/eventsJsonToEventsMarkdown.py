@@ -101,7 +101,7 @@ def format_description(description):
 def createMarkdownFileForEvent(event):
   # Get the event details from the data
   title = event["title"].strip()
-  title_without_colon = title.replace(":)", "😊")
+  title_without_colon = title.replace(":)", "😊").replace('"', "")
   title_without_colon = re.sub(r"\s*:\s*", " - ", title_without_colon)
   event_url = event["eventUrl"]
   description = format_description(event["description"])

@@ -1,7 +1,10 @@
-
-{:toc}
+---
+layout: default
+---
 
 # ⛺ Bivouac
+
+{:toc}
 
 What is bivouac:
 

@@ -202,8 +202,7 @@ title: Events index
 1. [2022-08-13 - 💦🥾🔴⚫ Aqua-Hike: exploration of Sarcenas river 💦🥾🏊](2022-08-13.md)
 1. [2022-08-20 - 🥾⛺ Hike : 2 days/1 night in Belledonne 🌄🏊️](2022-08-20.md)
 1. [2022-08-21 - 🥾🔴 Hike : Not for noobs 🔴 Petit + Grand Taillefer](2022-08-21.md)
-1. [2022-08-28 - 🥾🔵 Hike: ~500m+ 12.5km randonnée du tour des passerelles himalayennes
-🏊](2022-08-28.md)
+1. [2022-08-28 - 🥾🔵 Hike: ~500m+ 12.5km randonnée du tour des passerelles himalayennes 🏊](2022-08-28.md)
 1. [2022-08-28 - 🥾⚫ Hike: 🥵~1500m↗🤯 Ferrouillet & Lac de Crop 🏊](2022-08-28-ferrouillet.md)
 1. [2022-09-04 - 🥾🔴 Hike: Cime de la Jasse ⛰️ & Lac du Vénétier 🏊](2022-09-04.md)
 1. [2022-09-10 - 🥾⚫⚫⚫ Insane 2 days hike - Only for warriors](2022-09-10.md)
