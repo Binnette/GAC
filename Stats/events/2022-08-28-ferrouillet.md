@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 🥾⚫ Hike: 🥵~1500m↗🤯 Ferrouillet & Lac de Crop 🏊 
+title: 🥾⚫ Hike - 🥵~1500m↗🤯 Ferrouillet & Lac de Crop 🏊
 ---
 
-# 🥾⚫ Hike: 🥵~1500m↗🤯 Ferrouillet & Lac de Crop 🏊 
+# 🥾⚫ Hike: 🥵~1500m↗🤯 Ferrouillet & Lac de Crop 🏊
 
 ![2022-08-28-ferrouillet](../img/orig/2022-08-28-ferrouillet.jpg)
 

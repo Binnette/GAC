@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🥾🟢/🔴 Hike+Lake: plan A 1100m↗ 🥵 ; plan B 250m↗ 😁
+title: 🥾🟢/🔴 Hike+Lake - plan A 1100m↗ 🥵 ; plan B 250m↗ 😁
 ---
 
 # 🥾🟢/🔴 Hike+Lake: plan A 1100m↗ 🥵 ; plan B 250m↗ 😁

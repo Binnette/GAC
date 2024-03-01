@@ -100,7 +100,9 @@ def format_description(description):
 # Define a function that takes a json file as an argument
 def createMarkdownFileForEvent(event):
   # Get the event details from the data
-  title = event["title"]
+  title = event["title"].strip()
+  title_without_colon = title.replace(":)", "😊")
+  title_without_colon = re.sub(r"\s*:\s*", " - ", title_without_colon)
   event_url = event["eventUrl"]
   description = format_description(event["description"])
   start = event["dateTime"]
@@ -153,7 +155,7 @@ def createMarkdownFileForEvent(event):
   with open(md_file, "w", encoding='utf-8') as f:
     f.write(f"---\n")
     f.write(f"layout: default\n")
-    f.write(f"title: {title}\n")
+    f.write(f"title: {title_without_colon}\n")
     f.write(f"---\n\n")
     f.write(f"# {title}\n\n")
     f.write(f"![{date_str_with_suffix}](../img/orig/{date_str_with_suffix}.jpg)\n\n")

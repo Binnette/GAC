@@ -9,6 +9,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 show_downloads: false
 #url: https://binnette.github.io/GAC/
 
+markdown: kramdown
 
 minima:
   skin: solarized
