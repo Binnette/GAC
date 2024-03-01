@@ -1,10 +1,13 @@
+
+{:toc}
+
 # ⛺ Bivouac
 
 What is bivouac:
 
 - Sleeping in tent ⛺ or under the stars 🌠
 - With a tent that does not allow standing
-- Only 1 night 🌙
+- Only 1 night at same place 🌙
 - Planting the tent after 7pm
 - Removing the tent before 9am
 - Not on public roads
@@ -21,7 +24,7 @@ What bivouac is not:
 
 Here are the logo as shown on some parc signs.
 
-|Camping prohibited|Bivouac 19h-9h|Bivouac|
+|Camping prohibited|Bivouac 19h-9h|Bivouac permitted|
 |:-----:|:------------:|:-----:|
 |![Logo Camping](logo-camping.png)|![Logo bivouac 19h-9h](logo-bivouac-19-9.png)|![Logo Bivouac](logo-bivouac.png)|
 

@@ -8,13 +8,13 @@
 1. [Hikes FAQ 🥾](About/Hikes.md)
 
 ### 🔍 How to?
-1. [Show hikes on your phone 📱](TutoOsmAnd/README.md)
-2. [Create or find hikes 📍](CreateFindGpx/README.md)
-3. [Create a meetup event 🚀](CreateEvent/README.md)
+1. [Display hikes on your phone 📱](TutoOsmAnd/README.md)
+2. [Find or create hiking routes 📍](CreateFindGpx/README.md)
+3. [Organize a meetup event 🚀](CreateEvent/README.md)
 
-### 💫 Past hikes
+### 🌄 Past hikes
 - [Maps 🗺️](Stats/PreviousHikes.md)
-- [Pages 📄](Stats/events/index.md)
+- [Pages 📜](Stats/events/index.md)
 - [Statistics 📊](Stats/README.md)
 
 ### ✨ Hikes ideas
