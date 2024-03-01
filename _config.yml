@@ -10,6 +10,9 @@ show_downloads: false
 #url: https://binnette.github.io/GAC/
 
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 
 minima:
   skin: solarized
