@@ -102,7 +102,9 @@ def createMarkdownFileForEvent(event):
   # Get the event details from the data
   title = event["title"].strip()
   title_without_colon = title.replace(":)", "😊").replace('"', "")
+  title_without_colon = title_without_colon.replace("[", "").replace("]", "")
   title_without_colon = re.sub(r"\s*:\s*", " - ", title_without_colon)
+  title_without_colon = title_without_colon.strip()
   event_url = event["eventUrl"]
   description = format_description(event["description"])
   start = event["dateTime"]

@@ -55,19 +55,19 @@
 What is bivouac:
 
 - Sleeping in tent ⛺ or under the stars 🌠
-- With a tent that does not allow standing
+- With a tent that does not allow standing 🙇‍♂️
 - Only 1 night at same place 🌙
-- Planting the tent after 7pm
-- Removing the tent before 9am
-- Not on public roads
-- Not in classified natural sites
-- Not in heritages sites
-- Not near historical monuments
-- Not on the shores of the sea
-- Not within 200m of a water point intended for consumption
+- Planting the tent after 7pm 🌆
+- Removing the tent before 9am 🌅
+- Not on public roads 🛣️
+- Not in classified natural sites 🌲
+- Not in heritages sites 🏛️
+- Not near historical monuments 🗽
+- Not on the shores of the sea 🌊
+- Not within 200m of a water point intended for consumption 💧
 
 What bivouac is not:
-- Bivouac is not camping. You can not leave your tent for more than 1 day at the same place
+- Bivouac is not camping. You can not leave your tent for more than 1 day at the same place 🙅‍♂️ 🎪
 
 ### Signage
 
@@ -258,6 +258,7 @@ Restrictions for bivouac:
 | Lac d'Amour | Lac des Fées | Lac de Saint-Guérin |
 |:-----------:|:------------:|:-------------------:|
 |![Lac d'Amour](assets/20230906-Bivouac-Lac-dAmour.jpg)|![Lac des Fées](assets/20230906-Bivouac-Lac-des-Fees.jpg)|![Lac de Saint-Guérin](assets/20230907-Bivouac-Lac-Saint-Guerin.jpg)|
+|[Full size](assets/20230906-Bivouac-Lac-dAmour.jpg)|[Full size](assets/20230906-Bivouac-Lac-des-Fees.jpg)|[Full size](assets/20230907-Bivouac-Lac-Saint-Guerin.jpg)|
 
 Sources:
 - [🌐 Office de Tourisme d'Arêches Beaufort](https://www.areches-beaufort.com/la-montagne-respect/)
@@ -391,13 +392,17 @@ Sources:
 
 Zone réglementée des Merveilles on a [map](https://www.openstreetmap.org/way/291944129)
 
-| Bivouac Refuge des Merveilles | Bivouac Refuge de Fontanalbe |
-| ----------------------------- | ---------------------------- |
-| <iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=7.449626326560975%2C44.054932231450536%2C7.456707358360291%2C44.05840186821443&amp;layer=mapnik&amp;marker=44.056667075245265%2C7.453166842460632" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=44.05667&amp;mlon=7.45317#map=18/44.05667/7.45317">View Larger Map</a></small> |  <iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=7.473750114440919%2C44.084001500914745%2C7.487912178039552%2C44.09093716373162&amp;layer=mapnik&amp;marker=44.08746943397783%2C7.480831146240234" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=44.08747&amp;mlon=7.48083#map=17/44.08747/7.48083">View Larger Map</a></small> |
-
-Source:
+Sources:
 - [🌐 2023 Réglementation du bivouac dans la réserve naturelle](https://www.mercantour-parcnational.fr/fr/le-parc-national-du-mercantour/la-reglementation)
 - [📄 2018 Arrêté Bivouac Mercantour](assets/2018_Arr%C3%AAt%C3%A9_Bivouac_Mercantour.pdf)
+
+### Bivouac Refuge des Merveilles
+
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=7.449626326560975%2C44.054932231450536%2C7.456707358360291%2C44.05840186821443&amp;layer=mapnik&amp;marker=44.056667075245265%2C7.453166842460632" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=44.05667&amp;mlon=7.45317#map=18/44.05667/7.45317">View Larger Map</a></small>
+
+### Bivouac Refuge de Fontanalbe
+
+<iframe width="100%" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=7.473750114440919%2C44.084001500914745%2C7.487912178039552%2C44.09093716373162&amp;layer=mapnik&amp;marker=44.08746943397783%2C7.480831146240234" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=44.08747&amp;mlon=7.48083#map=17/44.08747/7.48083">View Larger Map</a></small>
 
 # Massif Central
 
@@ -529,4 +534,4 @@ Source: [🌐 Parc national des Calanques : régelementation camping sauvage et 
 
 # Todo
 
-- Phone Tourism Office of Clarée to be sure is even gas stove are forbidden 04 92 20 02 20
+- Phone Tourism Office of Clarée to be sure is even gas stove are forbidden 04.92.20.02.20.
