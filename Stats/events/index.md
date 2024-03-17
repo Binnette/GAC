@@ -296,4 +296,6 @@ title: Events index
 1. [2024-02-18 - 🥾🔵 Hike: Snow walk in Vercors ⛄🛷, loop around Charande 🗻](2024-02-18.md)
 1. [2024-02-25 - 🥾🟢 Hike: Easy loop between Poliénas and l'Albenc 🏡🌲🌳🍃](2024-02-25.md)
 1. [2024-03-02 - 🥾🟢 Hike: Easy loop around "La Table" 🪑🏡🌞](2024-03-02.md)
+1. [2024-03-09 - 🥾🔵 Hike: Revel 🏡 Round Tower and Mongiron Peak 🏰🗻](2024-03-09.md)
+1. [2024-03-16 - 🥾🔴 Hike: Le Piquet de Nantes 2214m with snow on top? ⛄❄](2024-03-16.md)
 

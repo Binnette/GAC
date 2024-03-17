@@ -216,7 +216,7 @@ def parseFeatureFromCsvRow(row):
         response = requests.get(albumUrl)
         if response.status_code != 200:
             stats['errors'] += 1
-            print(f'🔴 Incorrect album url: {albumUrl}')
+            print(f'🔴 Unreachable album url: {albumUrl}')
 
     return {
         "type": "Feature",

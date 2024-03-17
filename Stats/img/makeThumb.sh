@@ -1,15 +1,23 @@
 #!/bin/bash
-# This script gets all JPG files from the ./orig folder, then uses image magick to convert their size to width 300px and save them with the same name in the . folder
+# Ce script récupère tous les fichiers JPG du dossier ./orig, puis utilise
+# ImageMagick pour convertir leur taille à une largeur de 300px et les
+# enregistrer avec le même nom dans le dossier courant.
 
-# Loop through all JPG files in the ./orig folder
+# Vérifie si ImageMagick est installé
+if ! type "convert" > /dev/null; then
+  echo "Le programme 'convert' d'ImageMagick n'est pas installé."
+  exit 1
+fi
+
+# Boucle à travers tous les fichiers JPG dans le dossier ./orig
 for file in ./orig/*.jpg; do
-  # Get the file name without the path
+  # Obtient le nom du fichier sans le chemin
   filename=$(basename "$file")
-  # Check if the file already exists in the current directory
+  # Vérifie si le fichier existe déjà dans le répertoire courant
   if [ ! -e "$filename" ]; then
-    # Use image magick to resize the image and save it in the . folder
-    convert "$file" -resize 400x "$filename"
-    # Print thumb name
-    echo "Converted: $filename"
+    # Utilise ImageMagick pour redimensionner l'image et l'enregistrer dans le dossier courant
+    convert "$file" -resize 300x "$filename"
+    # Affiche le nom de la miniature
+    echo "Converti : $filename"
   fi
 done

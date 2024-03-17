@@ -531,6 +531,7 @@ Source: [🌐 Parc national des Calanques : régelementation camping sauvage et 
 - [Altituderando - Bivouac](https://www.altituderando.com/Bivouac-autorise-ou-non-ou-planter-sa-tente-en-montagne)
 - [Randonner Malin - Bivouac et camping sauvage](https://www.randonner-malin.com/bivouacs-et-camping-sauvage-en-france/)
 - [La Camping Sauvage - Réglementation bivouac et camping sauvage](https://www.lecampingsauvage.fr/legislation-et-reglementation/camping-sauvage-bivouac)
+- [Hardloop - Bivouac en France : tout savoir](https://www.hardloop.fr/article/751-bivouac-en-france-tout-savoir)
 
 # Todo
 

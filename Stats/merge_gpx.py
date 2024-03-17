@@ -15,5 +15,7 @@ def merge_gpx_files(directory, output_file):
     with open(output_file, 'w') as f:
         f.write(gpx.to_xml())
 
+    print(f'Merged {len(gpx_files)} gpx in file: {output_file}')
+
 # Usage
 merge_gpx_files('gpx', 'merged.gpx')
