@@ -298,4 +298,8 @@ title: Events index
 1. [2024-03-02 - 🥾🟢 Hike: Easy loop around "La Table" 🪑🏡🌞](2024-03-02.md)
 1. [2024-03-09 - 🥾🔵 Hike: Revel 🏡 Round Tower and Mongiron Peak 🏰🗻](2024-03-09.md)
 1. [2024-03-16 - 🥾🔴 Hike: Le Piquet de Nantes 2214m with snow on top? ⛄❄](2024-03-16.md)
+1. [2024-03-23 - Hike: back to the basics (Bastille, Mont Jalla, Mont Rachais) + games + fun](2024-03-23.md)
+1. [2024-03-24 - 🥾🔵 Hike: Pic St-Michel 🌄 from Pré du Four 🌳🚙](2024-03-24.md)
+1. [2024-03-30 - 🥾🟢 Hike: Montmayeur towers rainy rendez-vous 🏰🌧️](2024-03-30.md)
+1. [2024-03-31 - 🥾🔴 Hike: Rochers 'de Lorzier 1838m' ⛰️ and 'de Chalves' 1845m 🌄](2024-03-31.md)
 

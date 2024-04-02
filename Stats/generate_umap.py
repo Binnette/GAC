@@ -7,6 +7,8 @@ from os import path
 from datetime import datetime
 import requests
 from urllib.parse import quote
+from urllib3.exceptions import InsecureRequestWarning
+import warnings
 
 csvFilename = '9igf-gac.csv'
 prevHike = '';
@@ -28,6 +30,9 @@ colors = {
     '2024': '#FF7800'
 }
 albumRoot = 'https://binnette.github.io/GacImg'
+
+# Suppress only the single InsecureRequestWarning from urllib3 needed
+warnings.filterwarnings('ignore', category=InsecureRequestWarning)
 
 def parseFloat(s):
   try:
@@ -213,7 +218,7 @@ def parseFeatureFromCsvRow(row):
         albumUrl = f'{albumRoot}{year}/{album}'
         desc += f'{date}: [[{albumUrl}|Album]] - [[{eventLink}|Meetup]]'
 
-        response = requests.get(albumUrl)
+        response = requests.get(albumUrl, verify=False)
         if response.status_code != 200:
             stats['errors'] += 1
             print(f'🔴 Unreachable album url: {albumUrl}')
