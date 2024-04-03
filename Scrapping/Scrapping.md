@@ -133,6 +133,8 @@ document.querySelectorAll("ul.w-full > li").forEach(eventElement => {
   var dplusMatch = eventElement.textContent.match(/D\+: ([0-9]+)m/);
   dplus = dplusMatch ? parseFloat(dplusMatch[1]) : '';
   var albumTitle = title.replaceAll(":", " ").replaceAll("  ", " ").replaceAll(" ", "-").trim();
+  albumTitle = albumTitle.replaceAll("é", "e").replaceAll("è", "e").replaceAll("'", "");
+  albumTitle = albumTitle.replaceAll("(", "").replaceAll(")", "").replaceAll("-+-", "-");
   var album = `${dateString}-${albumTitle}.html`;
   events.unshift([`'${dateString}`, "", km, dplus, "", people, `"${title}"`, type, "", id, url, trails.join(";"), "", "", "", `"${album}"`, ""].join(","));
 });
