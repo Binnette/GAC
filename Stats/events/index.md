@@ -302,4 +302,6 @@ title: Events index
 1. [2024-03-24 - 🥾🔵 Hike: Pic St-Michel 🌄 from Pré du Four 🌳🚙](2024-03-24.md)
 1. [2024-03-30 - 🥾🟢 Hike: Montmayeur towers rainy rendez-vous 🏰🌧️](2024-03-30.md)
 1. [2024-03-31 - 🥾🔴 Hike: Rochers 'de Lorzier 1838m' ⛰️ and 'de Chalves' 1845m 🌄](2024-03-31.md)
+1. [2024-04-07 - 🥾🔴 Hike: ⚔️ Conquering Vercors through the "Gorges du Nan" passage 🏞️](2024-04-07.md)
+1. [2024-04-13 - 🧗🔴 Via ferrata: 'Jules Carret' 🥵 + 🚿 in refreshing waterfall? 🧊](2024-04-13.md)
 

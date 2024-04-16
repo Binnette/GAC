@@ -31912,7 +31912,6 @@
       ]
     },
     "actions": [
-      "CREATE_CONNECTIONS",
       "DELETE_CHAT_MESSAGE",
       "CHAT",
       "TAKE_ATTENDANCE",
@@ -32004,7 +32003,6 @@
       ]
     },
     "actions": [
-      "CREATE_CONNECTIONS",
       "DELETE_CHAT_MESSAGE",
       "CHAT",
       "TAKE_ATTENDANCE",
@@ -32176,6 +32174,189 @@
           "__typename": "RsvpEdge",
           "node": {
             "__ref": "Rsvp:1991258056"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "TAKE_ATTENDANCE",
+      "DOWNLOAD_ATTENDEES",
+      "UPLOAD_PHOTO",
+      "ATTENDANCE",
+      "EMAIL_ATTENDEES",
+      "COMMENT",
+      "COPY"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
+    "__typename": "Event",
+    "id": "300358885",
+    "title": "🧗🔴 Via ferrata: 'Jules Carret' 🥵 + 🚿 in refreshing waterfall? 🧊",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/300358885/",
+    "description": "💡 Click “Read more”/“Lire la suite” for full page ✅ Joining = Accepting rules (see below).\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Thomas (5), Céline (5)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺with your via ferrata gears**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\nWe ride our cars for 50mn. Then park our car(s) near \"Lovettaz\":\n\n* 🚗 [https://osm.org/go/0CBb7ovPE-?m=](https://osm.org/go/0CBb7ovPE-?m=)\n* 🚗 [https://maps.app.goo.gl/yPSSjwYf466RZdH49](https://maps.app.goo.gl/yPSSjwYf466RZdH49)\n\n== 🚗 Car share 🚗 ==\nCar share is 8€ per person (fuel + toll + \"compensation\" to get more drivers).\n\n== ⚠️ Rent your via Ferrata set on Friday afternoon ⚠️ ==\nRent your Via Ferrata equipment (helmet 🪖, harness, and Via Ferrata set) in Grenoble on Friday afternoon. You can do this at the “Adrenaline Sport” shop.\nTheir website is [http://www.adrenaline-ski-shop.com/magasins](http://www.adrenaline-ski-shop.com/magasins) The cost for a one-day rental is around 16€ 💰.\nAsk shop owner if after the event, you can return the equipment to “Domino’s Pizza” 🍕 at the corner. You can find their location here: [https://osm.org/go/0CASD82h9?m=](https://osm.org/go/0CASD82h9?m=)\n\n== 🧗🔴 Via ferrata: 'Jules Carret' 🥵 + 🚿 in refreshing waterfall? 🧊 ==\n\n* 🔵 medium for climbers\n* 🔴 hard for noobs 🙃 + a lot of vertigo\n\nIs it too early for a via ferrata? **Certainly not!** 🧗‍♂️ Especially with the promise of a sunny weekend in Grenoble, where temperatures will hover around a pleasant **25°C**. ☀️\n🚗 **Our Journey Begins**: We’ll hop into our car and head toward the charming village of Lovettaz, near Chambéry. 🏘️ From there, our adventure unfolds:\n🌲 **Forest Hike**: Amidst towering trees, we’ll venture into the lush forest. Our destination? The starting point of our via ferrata.\n🧗‍♂️ **ED (Extremely Difficult) Via Ferrata**: Not for the faint-hearted! We’ll ascend rugged cliffs, clinging to iron rungs and cables. Not for Noobs!\n🏔️ **Summit Views**: At the pinnacle, we’ll pause for a detour. Behold the “Croix du Nivolat,” where the landscape unfolds beneath us. 🌅\n🎿 **Steep Descent**: The narrow path known as “Pas de l’Echelle” awaits. Our legs will feel the burn as we make our way back to Lovettaz and our parking spot. 🏞️\n💦 **Chasing Waterfalls**: If time permits, we’ll seek out the enchanting “Cascade de la Doria.” Prepare for a refreshing—and perhaps slightly chilly—🥶 shower! 🚿\n\nAbout the via: [https://www.viaferrata-fr.net/via-ferrata-32-La-via-ferrata-Jules-Carret-St-Jean-d%27Arvey-Savoie.html](https://www.viaferrata-fr.net/via-ferrata-32-La-via-ferrata-Jules-Carret-St-Jean-d%27Arvey-Savoie.html)\n\n🗺️ Topo & GPX track: [https://s.42l.fr/y9tYtabo](https://s.42l.fr/y9tYtabo) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 8.8km\n⏱️ Time: \\~5/6h of hike and via\n📈 D+: 1047m\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n== 🎒 What to bring 🎒 ==\n\n* 🧗‍♂️ Via ferrata set (rented in Grenoble)\n* 🥾 Hiking shoes\n* 🥢 Hiking poles (optional)\n* 🧥 Jacket, 👒 hat...\n* 🧃 Water (1-2L) + 🍫 Snacks + 🥗 Lunch\n* ❄️🌧️ Cold & rain gear (if needed)\n* 💡 Headlamp (why not)\n* 🩳🩱Swimsuit and towel for the braves...\n* 🌞 Sunscreen, 😎 Sunglasses, 🤐 Lip balm\n* 😁 Smile, 😊 Happiness\n* 💵 Car share money (exact change in cash)\n\n\\*\\*\\*\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\n\nAlbin from GAC\n\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). Message me on Meetup for the link.",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:241140849"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "241140849"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:26960063"
+    },
+    "dateTime": "2024-04-13T09:00:00+02:00",
+    "createdTime": "2024-04-11T18:38:19-04:00",
+    "endTime": "2024-04-13T18:30:00+02:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 11
+    },
+    "isAttending": true,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "PAST",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:520336713"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1993456659"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1993456714"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1993486078"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1993490540"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1993495090"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "CREATE_CONNECTIONS",
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "TAKE_ATTENDANCE",
+      "DOWNLOAD_ATTENDEES",
+      "UPLOAD_PHOTO",
+      "ATTENDANCE",
+      "EMAIL_ATTENDEES",
+      "COMMENT",
+      "COPY"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
+    "__typename": "Event",
+    "id": "300210117",
+    "title": "🥾🔴 Hike: ⚔️ Conquering Vercors through the \"Gorges du Nan\" passage 🏞️",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/300210117/",
+    "description": "💡 Click “Read more”/“Lire la suite” for full page ✅ Joining = Accepting rules (see below)\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin (5), Thomas (5), Karthigan(5), Paul (5), Romain (5), Federico (5), Guillaume (2)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\nWe ride our cars for about 45mn and park at Cognin-les-Gorges:\n\n* 🅿️ [https://osm.org/go/0Aqn1iTBJ--?m=](https://osm.org/go/0Aqn1iTBJ--?m=)\n* 🅿️ [https://maps.app.goo.gl/s2cQWSsZPTWfhQpw6](https://maps.app.goo.gl/s2cQWSsZPTWfhQpw6)\n\n== 🚗 Car share 🚗 ==\nCar share is 4€ per person (fuel + \"compensation\" to get more drivers).\n\n== 🥾🔴 Hike: ⚔️ Conquering Vercors through the \"Gorges du Nan\" passage 🏞️ ==\n\n* 🔴 Hard for noobs. Steep and muddy path.\n* 🔵 OK for good hikers\n\nIs summer knocking on the door? 🌞 This weekend, Grenoble is gearing up for a toasty 27°C. 🌡️ Time for a refreshing retreat! We’ll embark on a 45-minute drive 🚗 and anchor at Cognin-les-Gorges, nestled at the foot of Vercors. Our hiking adventure begins here. 🥾 We’ll befriend the forest 🌲 and saunter alongside the Nan river within the “Gorges du Nan” canyon. 🏞️ Post-canyon escape, our journey ascends through Vercors to the quaint village of Malleval-en-Vercors. Here, we’ll honor history at a resistance memorial 🎖️ and explore the local church ⛪. 🕊️ Beyond the village, our path rises to cultivated lands, then plunges back into the forest, spiraling down to where we started. 🔄 Our Vercors loop concludes, and we’ll return to Grenoble by car. 🚗💨\n\n🗺️ Topo & GPX track: [https://s.42l.fr/koZkE5Lh](https://s.42l.fr/koZkE5Lh) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 14.3km\n⏱️ Time: \\~5/6h of hike\n📈 D+: 1025m 🐱‍👓\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n== 🎒 What to bring 🎒 ==\n\n* 🥾 Hiking shoes\n* 🥢 Hiking poles (optional)\n* 🧥 Jacket, 👒 hat...\n* 🩳🩱Swimsuit and towel for the braves...\n* 🧃 Water (1-2L) + 🍫 Snacks + 🥗 Lunch\n* 🍵 Thermos with hot tea/coffee\n* ❄️ Cold gear (it can be fresh near the river)\n* 💡 Headlamp (why not)\n* 🌞 Sunscreen, 😎 Sunglasses, 🤐 Lip balm\n* 😁 Smile, 😊 Happiness\n\n\\*\\*\\*\n\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\n\nAlbin from GAC\n\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). Message me on Meetup for the link.",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:241140849"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "241140849"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:27119265"
+    },
+    "dateTime": "2024-04-07T09:00:00+02:00",
+    "createdTime": "2024-04-04T10:48:54-04:00",
+    "endTime": "2024-04-07T18:00:00+02:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 25
+    },
+    "isAttending": true,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "PAST",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:520173839"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1992628786"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1992628879"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1992629176"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1992629298"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1992629904"
           }
         }
       ]

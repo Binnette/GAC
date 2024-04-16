@@ -260,4 +260,4 @@ markdown_files.sort(key=lambda e: e['date'])
 # Create index.md
 create_events_index(markdown_files)
 
-print(f"Processing done!")
+print(f"Processing done! Mardown file created: {len(markdown_files)}")
