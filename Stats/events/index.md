@@ -305,4 +305,5 @@ title: Events index
 1. [2024-04-07 - 🥾🔴 Hike: ⚔️ Conquering Vercors through the "Gorges du Nan" passage 🏞️](2024-04-07.md)
 1. [2024-04-13 - 🧗🔴 Via ferrata: 'Jules Carret' 🥵 + 🚿 in refreshing waterfall? 🧊](2024-04-13.md)
 1. [2024-04-20 - 🥾🔵 Hike: Still some ⛄️ snow at 🛖 Cabane de Combe Oursière? 🤔](2024-04-20.md)
+1. [2024-04-27 - 🥾🔴 Hike: to Cirque de Saint Même (Saint-Pierre-d'Entremont)](2024-04-27.md)
 
