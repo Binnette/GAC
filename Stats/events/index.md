@@ -306,4 +306,10 @@ title: Events index
 1. [2024-04-13 - 🧗🔴 Via ferrata: 'Jules Carret' 🥵 + 🚿 in refreshing waterfall? 🧊](2024-04-13.md)
 1. [2024-04-20 - 🥾🔵 Hike: Still some ⛄️ snow at 🛖 Cabane de Combe Oursière? 🤔](2024-04-20.md)
 1. [2024-04-27 - 🥾🔴 Hike: to Cirque de Saint Même (Saint-Pierre-d'Entremont)](2024-04-27.md)
+1. [2024-05-04 - 🥾🟢 Hike: Notre-Dame-de-l’Osier - A easy pilgrim’s trail 😇](2024-05-04.md)
+1. [2024-05-12 - 🥾🔵 Hike: Dent de Moirans](2024-05-12.md)
+1. [2024-05-18 - 🎂 ABP: Albin Birthday Party 36th edition 🙀🎊](2024-05-18.md)
+1. [2024-05-19 - 🥾🔵 Hike: short loop around Morette 🏡🌲🌳 without rain? 🌤️](2024-05-19.md)
+1. [2024-05-25 - 🥾🟢 Hike: Miribel-les-Echelles - Forest - Dolmens and Grotte du loup](2024-05-25.md)
+1. [2024-06-02 - 🥾🔴 Hike: forest 🌲 hike near "La Rivière" village and hut exploration 🏡](2024-06-02.md)
 

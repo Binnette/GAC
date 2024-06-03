@@ -53,6 +53,12 @@ for file in os.listdir(folder):
     elif "props" in data:
       get_events_from_data_props(data)
 
+# Sort the global dictionary by the event id
+global_dict = dict(sorted(global_dict.items()))
+
+# Sort the global dictionary by the event start time
+#global_dict = dict(sorted(global_dict.items(), key=lambda x: x[1]["dateTime"]))
+
 # Convert the global dictionary values to a list
 global_list = list(global_dict.values())
 

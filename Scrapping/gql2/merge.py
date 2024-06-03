@@ -6,7 +6,7 @@ merged_data = {"props": {"pageProps": {"__APOLLO_STATE__": {}}}}
 count = 0
 
 # Loop over the files
-for i in range(11, 10):
+for i in range(11, 9, -1):
     filename = f"{i}.json"
     if os.path.exists(filename):
         with open(filename, 'r', encoding='utf-8') as f:
