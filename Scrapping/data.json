@@ -38335,6 +38335,103 @@
     "__typename": "Event"
   },
   {
+    "__typename": "Event",
+    "id": "296447148",
+    "title": "🥾🌚Harvest Moon (\"lune de moisson\") - Night Hike to Mt. Jala (Bastille)🌚🥾",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/296447148/",
+    "description": "== Summary ==\n\nPack a thermos of hot tea and your headlight/torch!\n\nAn urban night hike above the city to catch a sight the Harvest Moon in all of its celestial magnificence from a spot high above the city.\n\nSunset for 17th/18th September 2024 is forecast [ 19:30 ]\n\n== Route ==\n\nThere are 3 well known paths from Grenoble to the Bastille. There is one less well known, and that's the one for us! You may look at the route here:\n\n* https://www.alltrails.com/explore/map/map-da0b566--45\n* https://www.mapmyrun.com/routes/view/3413049679\n\n== Headlight / Lamp / Torch ==\n\nIf you do not already own a head-light, may we recommend :\n\n* https://www.amazon.fr/Petzl-Tikka-Lampe-Frontale-Adulte/dp/B01KYTQKBE\n* https://www.amazon.fr/Petzl-Lampe-frontale-Reactik-Orange/dp/B01FIDI4UQ\n* https://www.amazon.fr/Petzl-E099GA01-Lampe-Frontale-Unique/dp/B07T5RLZTX\n\n(Pro Tip: Do not waste your money on a non-Petzl brand headlight!)\n\n== General Plan / Schedule ==\n\n( To be revised based on the Almanac time of sunset for 2023)\n\n* 19:45-20:05 Meet at the Fountain (Water, Beer, Cafe, Toilet available at the local pub \"The Old Bridge\")\n* 20:05 Walk towards Port de France\n* 20:15 Hike up the mountain to the memorial (1.5 hours max)\n* 21:15-21:45 Arrive at top. Warm Drinks and small snacks and enjoy the moon, as well as any other astronomical elements that can be observed (Telechargez an app on your phone?).\n* 22:00-22:30 Begin Hike back to Grenoble city center\n\n(1 primary exit option, 3 possible exit options)\n\nNOTE: The gate will be locked behind us at 21h after we pass through it; we'll take an alternative route back (there are 3 choices).\n\n== Suggested Supplies to Bring ==\n\n* 1.5-to-2 Liters of Water absolute minimum (\\*) plus a small emergency bottle (200-300ml)\n* Good Hiking 🥾shoes and socks\n* (MANDATORY) Head Lamp Flashlight\n* Rain jacket and/or Layers of clothes as Temperatures will change and/or Precipitation may be intermittent\n* Food and or small snacks \"À partager\". We will have a picnic up top!\n* Any medicines or allergy treatments you may have pre-existing (EPI PEN)\n* 😁 Your smile / 😊 Happiness (Hard to see in the dark?)\n\nRecommended:\n\n* Whistle ( Sifflet )\n* Gloves ( Gants )\n* USB PowerBank battery for mobile phone (ensure charged!)\n\n== 💡 Rules of The Day 💡 ==\n\n* 🚶‍♀️🚶‍♂️ The GAC group is about hiking 🥾 , fitness, nature, active lifestyle --- and sure, also socializing and making friends and language/cultural exchange. **BUT NOT about flirting or speed dating!** We want everyone to feel comfortable during our events. ⛔\n* 😍 Hiking is about enjoying and respecting mother nature!\n* Don't throw/dump any garbage 🚮 in nature, not even fruit pelt: 🍌(2 years for decomposition), 🍊 (6 months); egg shell 🥚 (3 years)\n* Don't be (too) late 😇 We have a large 30 minute queue window. If you arrive after we depart, call my mobile and we'll find a way for you to connect with us down the road.\n* If you finally can't join us, please unsubscribe from the event or at least write a message here to announce your cancellation. 💜 That way, we won't wait for you 💜\n* 💟 You are responsible of your own health and security\n* If you have any medical conditions that we should be aware of in an emergency, please feel free to contact me privately!\n* 😷 COVID-19 rules at the moment: [https://www.gouvernement.fr/en/coronavirus-covid-19](https://www.gouvernement.fr/en/coronavirus-covid-19)\n\nIf you have any questions, please ask! Feel free to send me a Private Message or on WhatsApp (+1-412-378-3823)",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:192746151"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "192746151"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:26933350"
+    },
+    "dateTime": "2024-09-17T19:45:00+02:00",
+    "createdTime": "2023-09-30T06:10:41-04:00",
+    "endTime": "2024-09-17T22:45:00+02:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 24
+    },
+    "isAttending": false,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "ACTIVE",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:492100000"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1972473132"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1972473937"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1972474267"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1972476538"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1972700094"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "FEATURE",
+      "DOWNLOAD_ATTENDEES",
+      "INVITE",
+      "CLOSE",
+      "CANCEL",
+      "UPLOAD_PHOTO",
+      "DELETE",
+      "EMAIL_ATTENDEES",
+      "EDIT_HOSTS",
+      "EDIT",
+      "COMMENT",
+      "COPY",
+      "RSVP"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
     "id": "296560263",
     "title": "🥾🔵 Hike: (f)Romage 🧀",
     "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/296560263/",
@@ -38788,6 +38885,104 @@
     "networkEvent": null,
     "socialLabels": [],
     "__typename": "Event"
+  },
+  {
+    "__typename": "Event",
+    "id": "296881203",
+    "title": "🟢 🥾 Easy Hike - Fort Saint-Eynard (2024) 🟢 🥾",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/296881203/",
+    "description": "💡 Read the full page by clicking on \"Read more\"/\"Lire la suite\"...💜\nJoining the event = Accepting the rules (See rule section below)\n\n=== Summary ==\n\n\\-\\- Duplicated from 2020 \\-\\-\n\nNOTE: This year we'll limit to 10x and we'll manage the waiting list as we approach the event.\n\nNOTE2: This year we go in the last weekend of October, before the fort is closed to visitors.\n\nAn nice easy hike enjoy the weekend and get some mild fitness.\nFrom a series of \"Easy Hikes Around Town Without Cars\" GAC Events that I will be hosting this summer/autumn (Trains, Trams, Bus, Telepherique only!)\n\n🚋 Starting from bus stop outside of Grenoble National Art Museum\n👁️‍🗨️ Note that the \"fort\" may be closed to public, so we will hike 'around' it.\n\nThere is a beautiful place from which to enjoy the Sunset.\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 : We speak English/French in all our events. Don't be worry if your English/French is not that good. Nos évènements sont en Anglais et Français. Ne soyez pas inquiets si votre niveau d'anglais n'est pas \"suffisant\".\n\n== 🥾 Hike \"Fort Saint-Eynard\" 🥾 ==\n\nTopo & GPX track: https://www.alltrails.com/explore/map/tue-05-jan-2021-22-32-690f44c (Recycled from January 2021)\nDistance: \\~5.5km (round trip)\nTime: 3h of hike\nElevation Change D+: 550m\n\n=== Detailed Plan / Schedule ===\n\nNOTE: (Subject to change if TAG 62 bus updates schedule in 2023)\n\n* 10:25-10:45: Meet and board [10:45] TAG Bus 62 at stop Notre-Dame - Musée (Just in front at street)\n* 11:00: Arrive Col de Vence\\*\\* Bus Stop and Commence Hike\n* 12:45: Arrive at Top/Fort - Begin Group Picnic / Visit Museum / Shops\n* 14:00: Begin return hike to Col de Vance Stop\n* 15:15-15:30 (+/-): Catch TAG Bus 62 back to Grenoble Musée\n* 15:45: Arrive back in Grenoble\n\nBusses back to Grenoble on Jour Ferre/Sunday depart Col de Vence towards Grenoble at: 15:29 && 16:59 so we must arrive in time for 15:29 otherwise it is a 6km hike back to Grenoble or wait 1.5hrs\n\nhttps://www.tag.fr/ftp/fiche_horaires/fiche_horaires_2014/HORAIRES_62.pdf\n\nRally Point (bus stop) on Google Maps: https://goo.gl/maps/xZiF8srLmTxCgRwi6\n\n== ❔ What do you need to Bring ❔ ==\n\n* Decent Hiking shoes 🥾 (or any 'non flat/slippery' shoes)\n* Clothes for hiking between 24degC and 31degC\n* Water 🧃 (1-2L) + Some snacks 🍫 / Tea/Coffee in Thermos\n* Sun Hat / Chapeau + 🌞 Creme Solaire (Sunscreen Lotion)/ 😎 Sun glasses (lunettes de Solaire)\n* Bug Spray / Gloves / Any other safety gear you need (your **EpiPen** for example)\n* 😁 Your smile / 😊 Happiness\n* Money/Argent for TAG Tram (OURA Card)\n\n***\n\n== 💡 Rules of The Day 💡 ==\n\n* 🚶‍♀️🚶‍♂️ The GAC group is about hiking 🥾 , fitness, nature, active lifestyle --- and sure, also socializing and making friends and language/cultural exchange. **BUT NOT about flirting or speed dating!** We want everyone to feel comfortable during our events. ⛔\n* 😍 Hiking is about enjoying and respecting mother nature!\n* Don't throw/dump any garbage 🚮 in nature, not even fruit pelt: 🍌(2 years for decomposition), 🍊 (6 months); egg shell 🥚 (3 years)\n* Don't be (too) late 😇 We have a large 30 minute queue window. If you arrive after we depart, call my mobile and we'll find a way for you to connect with us down the road.\n* If you finally can't join us, please unsubscribe from the event or at least write a message here to announce your cancellation. 💜 That way, we won't wait for you 💜\n* 💟 You are responsible of your own health and security\n* If you have any medical conditions that we should be aware of in an emergency, please feel free to contact me privately!\n* 😷 COVID-19 rules at the moment: [https://www.gouvernement.fr/en/coronavirus-covid-19](https://www.gouvernement.fr/en/coronavirus-covid-19)\n\nIf you have any questions, please ask! Feel free to send me a Private Message or on WhatsApp (+1-412-378-3823)",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:192746151"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "192746151"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:26250429"
+    },
+    "dateTime": "2024-10-19T09:35:00+02:00",
+    "createdTime": "2023-10-21T17:57:27-04:00",
+    "endTime": "2024-10-19T14:40:00+02:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 10
+    },
+    "isAttending": false,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "ACTIVE",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:507625028"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1974847778"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1974852984"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1983023588"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1983432523"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:1984984250"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "FEATURE",
+      "DOWNLOAD_ATTENDEES",
+      "INVITE",
+      "CLOSE",
+      "CANCEL",
+      "UPLOAD_PHOTO",
+      "ANNOUNCE",
+      "DELETE",
+      "EMAIL_ATTENDEES",
+      "EDIT_HOSTS",
+      "EDIT",
+      "COMMENT",
+      "COPY",
+      "RSVP"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
   },
   {
     "id": "297008770",
@@ -42155,6 +42350,297 @@
       "EMAIL_ATTENDEES",
       "COMMENT",
       "COPY"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
+    "__typename": "Event",
+    "id": "302075123",
+    "title": "🥾🟢Tour: Grotte les Cuves de Sassenage et Hike/Swim/Picnic Waterfalls 🥾🟢",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/302075123/",
+    "description": "💡 Read the full page by clicking on \"Read more\"/\"Lire la suite\"...💜\n\nJoining the event = Accepting the rules (See rule section below)\n\n== 🥾🟢 Plan ==\n\nA continuation in a series of \"Easy Hikes Around Town Without Cars\" GAC Events I'll be hosting this summer. In two (2) parts:\n\nWe will meet at the rally point and walk to the village of Sassenage.\n\n1. We will visit the underground Caves/Cuves du Sassenage for a guided tour. The venue entry fee/cost is [Adult: 8 € ; Student : 7 € ; Enfant : 5 €] and it takes about 30-45 minutes.\n\nNOTE: The temperature underground is 10 - 15degC, so one must bring a jacket or hoodie, even if it is 35degC in downtown Grenoble.\n\n2. After the tour is over, we will take a walk and follow the beautiful trail that shadows \"Le Furon\", named for it's stunning beauty and potential ferocity, a series of cascades that descend from the heart of the Vercor Mountains down into the village of Sassenage (just north-west of Grenoble).\n\nNear the cascades, temperatures are normally 5degC cooler than in the city center, so this is an exceptionally good place/location to visit during the \"dog days of summer\" in Grenoble to beat the heat.\n\n== Walking Route Details ==\n\nThe walk/hike part of the event event is 5 miles / 8km distance over mixed terrain (Roads, Trails, Cascades/Boulders) - Out and Back\n\nRoute Details at: https://www.alltrails.com/explore/map/thu-07-jan-2021-21-25-0906061\n\nDuration: 3 hours max\n\nRally Point on Google Maps: https://goo.gl/maps/n9V3aFhov3GWrQ5F9\n(Bus Shelter on North West side of station)\n\nIf you're new to Grenoble, just board the Tram-A anywhere headed West (towards La Poya) and get off at the last stop!\n\n== Detailed Plan ==\n\nExpected Schedule:\n\n* 12:59-13:15: Rally between at Tram-A line stop \"La Poya\"\n* 13:15h: Walk to Village/Caves de Sassenage (20-30 mins)\n* 13:40: Arrive in Village Sassenage / Caves\n* 14:00-14:30h: Arrive and start Guided Tour of Caves (\\*)\n* 14:30-15:30h: Hike along Furon (Stops along the way to enjoy the cool temps)\n* 15:30 \\~ 16:30: Walk Back to Tram-A/La Poya Station\n* 16:30h: (End of Event) Arrive/Return Back to Tram Line-A at stop \"La Poya\"\n* (\\*) If there is a delay arriving at 14h, we can take the tour at 14:30h as-well.\n\nNOTE: The event is officially over after we board the return A tram!\n\nHowever, if anyone wats to take a coffee or bubble tea after the event, I wont object proposal!\n\n== 🗨️ EN/FR 🗨️ ==\n\n🦅/🐓 : We speak English/French in all our events. Don't worry if your English/French is not that good. Nos évènements sont en Anglais et Français. Ne soyez pas inquiets si votre niveau d'anglais n'est pas \"suffisant\".\n\n== ❔ What do you need ❔ ==\n\n* Jacket/Hoodie to wear inside the caves (Temperature will be -10 to -15degC from outside, and very damp/humid)\n* Money/Les Argent ( for admittance fee to caves, the Tram , etc. )\n* 🥾 Hiking shoes (or any good/non slippery shoes)\n* Hiking poles (only if you want; optional)\n* 🧃 Water (1.5L - 3L depending on your fitness)\n* 🍫 Some snacks + 🥗 Food for a lunch / picnic\n* 🌬 Clothes for hiking between 28degC and 30degC\n* Something to dry yourself off (a towel) if you decide to jump into the water to cool off\n* 🌞 Sun-cream (creme Solaire) / 😎 Sun glasses (lunettes de Solaire) / Chapeau (Hat)\n* 😁 Your smile / 😊 Happiness\n* Bug Spray / Any other safety gear you need (Prescriptions or **EpiPen**)\n\nWATER NOTE: We will pass a public water fountain in Village Sassenage where you can [re]fill your water bottles / reservoir.\n\n== Learn More About this place ==\n\nInstagram tagged at that location:\nhttps://www.instagram.com/grottelescuvesdesassenage/\n\nMore about the caves:\n\nhttps://www.sassenage.fr/14601-les-cuves.htm\nhttps://www.facebook.com/GrotteLesCuvesdeSassenage/\n\n== 💡 Rules of The Day 💡 ==\n\n* 🚶‍♀️🚶‍♂️ The GAC group is about hiking 🥾 , fitness, nature, active lifestyle --- and sure, also socializing and making friends and language/cultural exchange. BUT NOT about flirting or speed dating! We want everyone to feel comfortable during our events. ⛔\n* 😍 Hiking is about enjoying and respecting mother nature!\n* Don't throw/dump any garbage 🚮 in nature, not even fruit pelt: 🍌(2 years for decomposition), 🍊 (6 months); egg shell 🥚 (3 years)\n* Don't be (too) late 😇 We have a large 30 minute queue window. If you arrive after we depart, call my mobile and we'll find a way for you to connect with us down the road.\n* If you finally can't join us, please unsubscribe from the event or at least write a message here to announce your cancellation. 💜 That way, we won't wait for you 💜\n* 💟 You are responsible of your own health and security\n* If you have any medical conditions that we should be aware of in an emergency, please feel free to contact me privately!\n* 😷 COVID-19 rules at the moment: [https://www.gouvernement.fr/en/coronavirus-covid-19](https://www.gouvernement.fr/en/coronavirus-covid-19)",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:192746151"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "192746151"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:26952046"
+    },
+    "dateTime": "2024-07-20T13:00:00+02:00",
+    "createdTime": "2024-07-06T02:45:24-04:00",
+    "endTime": "2024-07-20T15:00:00+02:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 20
+    },
+    "isAttending": false,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "ACTIVE",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:514987129"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2002507083"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2002512194"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2002519344"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2002548871"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2002549085"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "FEATURE",
+      "DOWNLOAD_ATTENDEES",
+      "INVITE",
+      "CLOSE",
+      "CANCEL",
+      "UPLOAD_PHOTO",
+      "DELETE",
+      "EMAIL_ATTENDEES",
+      "EDIT_HOSTS",
+      "EDIT",
+      "COMMENT",
+      "COPY",
+      "RSVP"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
+    "__typename": "Event",
+    "id": "302131085",
+    "title": "🟠🟢 🥾 Medium-Easy Hike: Le Moucherotte (Saint-Nizier to Lans-en-Vercors) 🟠🟢 ",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/302131085/",
+    "description": "💡 Read the full page by clicking on \"Read more\"/\"Lire la suite\"...💜\nJoining the event = Accepting the rules (See rule section below)\n\n== Summary ==\n\n(Revisited) A first (1st) in a series of Hikes around Grenoble without Cars: Le Moucherotte -- One of the most commonly undertaken and iconic hikes in Grenoble.\n\nWe will endure hell and arrive on the \"roof\" for wonderful lunch picnic with a wonderful bi-directional panoramic view, both Grenoble (east) and the inner-Vercors (West)\n\nThe high point on The Vercors Mountain (west) seen from Grenoble.\n\n== 🟠🟢 🥾 Difficulty / Skill 🟠🟢 🥾==\n\nThis event will classify this as a \"Medium-easy\" hike, as the event is NOT TECHNICALLY CHALLENGING (it is a well-maintained and safe trail), but because of the duration of the event (distance of the route, in addition to elevation gain), and possible weather conditions (very cold), I want to be impress upon attendees the physical duress we will endure !\n\n== General Plan ==\n\nWe will all take the Trans Isère bus [T65] from Grenoble (near the Modern Art Museum) to the trailhead (Village Saint Nizier office de Tourism) .\n\nCome early to buy tickets using the machine (or buy/pay via SMS on French carriers)\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 : We speak English/French in all our events. Don't be worry if your English/French is not that good. Nos évènements sont en Anglais et Français. Ne soyez pas inquiets si votre niveau d'anglais n'est pas \"suffisant\".\n\n== 🥾 Hike \"Le Moucherotte\" 🥾 ==\n\nTopo & GPX track: https://www.alltrails.com/explore/map/map-may-26-2022-1-38-pm-0163cce\nDistance: \\~10km\nTime: 3h of hike up, 2.5h to hike down\nElevation Change D+: 742m\n\n== Schedule / Detailed Plan ==\n\n* [ 07:05 ] Meet at the [GARE ROUTIERE]: Buy tickets (Billets), coffee, snacks, sobriety test, stretching, etc.\n* [ 07:21 ] Board / Ride bus [T65] to stop [Saint-Nizier-du-Moucherotte ] to stop \"LE VILLAGE SAINT NIZIER DU MOUCHEROTTE\"]\n* [ 08:15 ] Commence the hike to the plateau at Le Moucherotte (lots of space to spread out)! Overall Should take about 3.5 hours total:\n* [ 12:00 ] Arrive at Summit! Picnic, Enjoy the View / Nap / Stretch / Rest / Eat / Play Mölkky / Frisby (bad idea) / Fly a Kite, etc.\n* [ 13:45 ] Commence return Hike to village Lans-en-Vercors:\n( Or if the group decides, we can visit \"The Three Virgins\" (\"les Trois Vierges\" instead and return via the original path)\n* [ 16:00-17:00 ] Board return bus at Lans-en-Vercors (2 options: T64 @ 16:42 or 17:57)\n* [ 17:30-18:45 ] Back at Grenoble\n\nThe event is over we step off the bus!\n\n== Suggested Supplies to Bring ==\n\n* 2.5-to-3.5 Liters of Water minimum (\\*) plus a small emergency bottle (200-300ml)\n* Money/Argent for the bus (EUR 6 both ways), or you can pay with SMS on your mobile phone\n* Good Hiking 🥾shoes and socks\n* Hiking Poles (Batons) (Recommended)\n* Water resistant Rain jacket and/or layers of clothes as Temperatures will change at different altitudes and Sunlight and physical activity level.\n* Food for Lunch and Petite snacks for 2-2.5 meals. (À partager?!). We will have a picnic up top! But we stop often to hydrate and keep blood sugar up\n* Sunscreen / Bug spray\n* Sun Hat (Chapeau de Soleil)\n* Sunglasses (Polarized)\n* Any medicines or allergy treatments you may have pre-existing (EPI PEN)\n* 😁 Your smile / 😊 Happiness\n\nRecommended:\n\n* Whistle ( Sifflet ) - Emergency\n* Gloves ( Gants )\n* USB PowerBank battery for mobile phone (ensure charged!)\n* Small torch / flashlight\n\n*“Better to have and not need, than need a not Have.”*\n\n(\\*) The heat can be brutal. Stay hydrated so that your legs don't cramp. If you don't own one yet, I commend that this is the event for which you purchase a water reservoir for your Backpack/Sack-a-dos)\n\n***\n\n== 💡 Rules of The Day 💡 ==\n\n* 🚶‍♀️🚶‍♂️ The GAC group is about hiking 🥾 , fitness, nature, active lifestyle --- and sure, also socializing and making friends and language/cultural exchange. **BUT NOT about flirting or speed dating!** We want everyone to feel comfortable during our events. ⛔\n* 😍 Hiking is about enjoying and respecting mother nature!\n* Don't throw/dump any garbage 🚮 in nature, not even fruit pelt: 🍌(2 years for decomposition), 🍊 (6 months); egg shell 🥚 (3 years)\n* Don't be (too) late 😇 We have a large 30 minute queue window. If you arrive after we depart, call my mobile and we'll find a way for you to connect with us down the road.\n* If you finally can't join us, please unsubscribe from the event or at least write a message here to announce your cancellation. 💜 That way, we won't wait for you 💜\n* 💟 You are responsible of your own health and security\n* If you have any medical conditions that we should be aware of in an emergency, please feel free to contact me privately!\n* 😷 COVID-19 rules at the moment: [https://www.gouvernement.fr/en/coronavirus-covid-19](https://www.gouvernement.fr/en/coronavirus-covid-19)\n\nIf you have any questions, please ask! Feel free to send me a Private Message or on WhatsApp (+1-412-378-3823)",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:192746151"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "192746151"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:23657127"
+    },
+    "dateTime": "2024-07-13T07:00:00+02:00",
+    "createdTime": "2024-07-09T01:57:01-04:00",
+    "endTime": "2024-07-13T18:00:00+02:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 10
+    },
+    "isAttending": false,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "ACTIVE",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:504945471"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2002839730"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2002840174"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2002842117"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2002842794"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2002843117"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "FEATURE",
+      "DOWNLOAD_ATTENDEES",
+      "INVITE",
+      "CLOSE",
+      "CANCEL",
+      "UPLOAD_PHOTO",
+      "DELETE",
+      "EMAIL_ATTENDEES",
+      "EDIT_HOSTS",
+      "EDIT",
+      "COMMENT",
+      "COPY",
+      "RSVP"
+    ],
+    "rsvpSettings": {
+      "__typename": "RsvpOpenSettings",
+      "rsvpsClosed": false
+    },
+    "isNetworkEvent": false,
+    "networkEvent": null,
+    "socialLabels": []
+  },
+  {
+    "__typename": "Event",
+    "id": "302164957",
+    "title": "🥾⛺🔴 Daily hikes & camp: Jocou 🌄 - Têtes des Vautes 🪨⛰️",
+    "eventUrl": "https://www.meetup.com/grenoble-adventure-club-english-french/events/302164957/",
+    "description": "💡 Click “Read more”/“Lire la suite” for full page\n✅ Joining = Accepting rules (see below)\n\n== ⭐ Updates ⭐ ==\n\n* 📅 More cars = more seats. Seats: Albin 5, Chunchun 5, Paul 5, Thomas 5\n\n== 🗨️ EN/FR 🗨️ ==\n🦅/🐓 Our events are in English/French. Don’t worry if you are not fluent. Nos évènements sont en Anglais/Français. Ne vous inquiétez pas si vous n’êtes pas bilingue.\n\n==📍 Meeting Point 📍==\nMeet at parking \"Esplanade du Souvenir Français\" near Parc Paul Mistral at **event start time 🔺SHARP🔺**:\n\n* ⏰ [https://osm.org/go/0CASJNbuF?m=](https://osm.org/go/0CASJNbuF?m=)\n* ⏰ [https://goo.gl/maps/iNPSZcFVyTcM9VX2A](https://goo.gl/maps/iNPSZcFVyTcM9VX2A)\n\n== 🚗 Transportation 🚗 ==\nWe ride our cars for \\~1h20 and park near \"Col de Grimone\":\n\n* 🅿️ [https://osm.org/go/xXVBJTBGw-?m=](https://osm.org/go/xXVBJTBGw-?m=)\n* 🅿️ [https://maps.app.goo.gl/6tAqNzFuTCmwUrks5](https://maps.app.goo.gl/6tAqNzFuTCmwUrks5)\n\n== 🚗 Car share 🚗 ==\nCar share is 12€ per person : fuel+toll+compensation for drivers.\nWe will be 5 by cars with tents, etc. You will probably have some stuffs on your knees, our cars are not that big.\n\n== 🥾⛺🔴 Daily hikes & camp: Jocou 🌄 - Têtes des Vautes 🪨⛰️ ==\n\n* ⚫ Not for noobs/beginners\n* 🔵/🔴 OK or Hard for good hikers (depending on options you take)\n\n=== Day 1 ===\nWe 🚗 for 1h20 and stop near Col de Grimone. Then we 🥾 up to Mont Jocou, where we can enjoy our 🍽️. We have different options for the way back: we can either do a 🔁 or take a ⏩ to our 🚗.\n\nThen we 🚗 to Tréminis village. if the road is good, we park at the alpine hut 🏠 (if not we carry our tents for 20mn). We can stay there for the rest of the day, playing cards ♠️♥️♣️♦️ and other games. We can also cook inside the hut with our camping gas 🔥. The hut is not very well-equipped, but you can sleep there if you don’t have a tent ⛺.\n\n🗺️ Topo & GPX track: [https://s.42l.fr/XBdx6wNU](https://s.42l.fr/XBdx6wNU) (click Export > GPX)\n📲 Download GPX on your phone (Tuto: [https://binnette.github.io/GAC](https://binnette.github.io/GAC/))\n📏 Distance: 12km\n⏱️ Time: \\~3/4h of hike\n📈 D+: 784m\n\nOption 2: [https://s.42l.fr/mlkB8pod](https://s.42l.fr/mlkB8pod) 8km ↗️ 752m\n\n=== 💤 Night camp area ===\n\n* ⛺ [https://osm.org/go/xXVDwqrHk--?m=](https://osm.org/go/xXVDwqrHk--?m=)\n* ⛺ [https://maps.app.goo.gl/krMCZ7B7HTemMFAh6](https://maps.app.goo.gl/krMCZ7B7HTemMFAh6)\n* 🛖 [http://www.refuges.info/point/1873](http://www.refuges.info/point/1873)\n\n=== Day 2 ===\nWe have a nice breakfast 🍳 around the hut 🏠, then we pack our tents ⛺ and put them in the 🚗. Then we start our second day of 🥾. We walk in the shade of the 🌲🌲, but soon we reach the rocky mountain ⛰️ and hike up to a small lake/swamp 🏞️ called Lac du Lauzon. There we can see our goal: the top of Tête des Vautes. We climb up there and then go back to the 🚗. We can do a 🔁 by taking another path at Col de la Croix. 😊👍\n\n🗺️ Topo & GPX track: [https://s.42l.fr/o9uCesm2](https://s.42l.fr/o9uCesm2) (click Export > GPX)\n📏 Distance: 15.5km\n⏱️ Time: \\~6/7h of hike\n📈 D+: 1363m\n\nOption 2: stop at Lac du Lauzon 13km ↗️ 1200m\nOption 3: stop at Col des Aurias 10km ↗️ 817m\n\n== 🎒 What to bring 🎒 ==\nBig backpack is not mandatory. We will only hike with our picnic during the days. For the night, we just throw our tent from the cars trunk, if we can ride to the camp area. Otherwise we will carry our tent for 20mn or so.\n\n=== For hikes ===\n\n* 🎒 Small bag for picnic+water\n* 🥾 Hiking shoes + poles\n* 🧃 Water 1 or 2L mini.\n* 🍫 Snack and 🥕 food for 4 meals:\n* 🥪 Saturday lunch: picnic/sandwich\n* 🥪 Sunday lunch: picnic/sandwich\n* 🍵 Ecocup/mug❗️fork, knife, trash bag...\n* ❄️ 10°C cold gears\n* 🌞 Sunscreen, 😎 Sunglasses\n\n=== For the night ===\n\n* 💤 Sleeping bag❗️**MANDATORY** 0°c mini\n* ⛺ Tent (comment below if you have extra tent place)\n* No tent? Sleep in the hut (zero comfort)\n* 💤 Pad + pillow\n* 💡 Headlamp❗️**MANDATORY**\n* 🍲 Saturday dinner: food to cook if you have cooking stove/gas (we can share)\n* 🥣 Sunday breakfast\n* 💧 Water for cooking\n* 🔥 Cooking stove + gas for cooking (we can share)\n* 🥶 Warm clothes (night: 10°C, day: 15-20°C)\n* 🩳🩱 swimsuit/towel (tiny stream near the hut)\n* 🧻 Toilet paper, soap, toothbrush...\n\n== ❔ Want to bring more ❔ ==\n\n* ♣️ Card/Board games\n* 🥨 Food, 🫖 Tea bags or other stuffs to share\n\n== 📜 Rules 📜 ==\n\n* 🚶‍♀️🚶‍♂️ GAC is about hiking 🥾 and making friends 🤗, NOT flirting ⛔\n* 🚮 No littering in nature. Decomposition: 🍊 6m, 🍌 2y, 🥚 3y\n* 🚗 Join waiting list for car availability\n* ⏰ Don’t be late, we won’t wait\n* 💺 Seats in car(s) are limited, only subscribe if sure to join\n* ❌ Unsubscribe or 💬 message if can’t join\n* 🚗 Drivers: message me ASAP if you can’t join\n* 💟 You are responsible for your own health and security\n\n\\*\\*\\*\n\n❓ Need help 🤔 Visit [https://binnette.github.io/GAC](https://binnette.github.io/GAC) or ask!\n\nAlbin from GAC\n\nPS: Join our Telegram for more activities (🧗‍♀️, 🏓, 🎳, 🎲, 🎥, 🎵, 🍽️). Message me on Meetup for the link.",
+    "group": {
+      "__ref": "Group:33873418"
+    },
+    "creatorMember": {
+      "__ref": "Member:241140849"
+    },
+    "eventHosts": [
+      {
+        "__typename": "EventHost",
+        "memberId": "241140849"
+      }
+    ],
+    "feeSettings": null,
+    "venue": {
+      "__ref": "Venue:26960063"
+    },
+    "dateTime": "2024-07-13T09:00:00+02:00",
+    "createdTime": "2024-07-10T18:54:03-04:00",
+    "endTime": "2024-07-14T19:00:00+02:00",
+    "going": {
+      "__typename": "GoingRsvpConnection",
+      "totalCount": 13
+    },
+    "isAttending": true,
+    "isOnline": false,
+    "eventType": "PHYSICAL",
+    "status": "ACTIVE",
+    "series": null,
+    "featuredEventPhoto": {
+      "__ref": "PhotoInfo:516502584"
+    },
+    "rsvps({\"first\":5})": {
+      "__typename": "RsvpConnection",
+      "edges": [
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2003000222"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2003000242"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2003000459"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2003025962"
+          }
+        },
+        {
+          "__typename": "RsvpEdge",
+          "node": {
+            "__ref": "Rsvp:2003026569"
+          }
+        }
+      ]
+    },
+    "actions": [
+      "DELETE_CHAT_MESSAGE",
+      "CHAT",
+      "FEATURE",
+      "DOWNLOAD_ATTENDEES",
+      "INVITE",
+      "CLOSE",
+      "CANCEL",
+      "UPLOAD_PHOTO",
+      "DELETE",
+      "EMAIL_ATTENDEES",
+      "EDIT_HOSTS",
+      "EDIT",
+      "COMMENT",
+      "COPY",
+      "RSVP"
     ],
     "rsvpSettings": {
       "__typename": "RsvpOpenSettings",

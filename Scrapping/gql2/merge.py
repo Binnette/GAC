@@ -21,6 +21,6 @@ for i in range(11, 9, -1):
 
 # Write the merged data to a new JSON file
 with open('merged.json', 'w', encoding='utf-8') as f:
-    json.dump(merged_data, f, indent=4)
+    json.dump(merged_data, f, indent=2)
 
 print(f"Merged {count} events.")
