@@ -24,5 +24,6 @@
 
 ### 📚 Resources
 
+- [Weather forecast 🌦️](About/Weather.md)
 - [Bivouac ⛺](Bivouac/README.md)
 - [Forbidden access in Chartreuse ⛔️](ChartreuseNoAccess/README.md)
