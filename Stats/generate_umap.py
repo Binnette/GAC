@@ -11,7 +11,7 @@ from urllib3.exceptions import InsecureRequestWarning
 import warnings
 
 csvFilename = '9igf-gac.csv'
-prevHike = '';
+prevHike = ''
 stats = {
     'types': {},
     'errors': 0,
@@ -20,15 +20,17 @@ stats = {
     'dplus': 0,
     'people': 0,
     'kmpp': 0
-};
+}
 
 colors = {
-    '2020': '#1766B5',
-    '2021': '#504488',
-    '2022': '#8FBE23',
-    '2023': '#C03535',
-    '2024': '#FF7800'
+    '2020': '#1766B5',  # Bleu profond
+    '2021': '#504488',  # Violet foncé
+    '2022': '#8FBE23',  # Vert vif
+    '2023': '#C03535',  # Rouge intense
+    '2024': '#FF7800',  # Orange lumineux
+    '2025': '#00C2C7'   # Turquoise éclatant
 }
+
 albumRoot = 'https://binnette.github.io/GacImg'
 
 # Suppress only the single InsecureRequestWarning from urllib3 needed
